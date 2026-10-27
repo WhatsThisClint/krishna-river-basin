@@ -24,3 +24,14 @@ tmp/
 
 # Large Raw Uncompressed GeoPackage (use .gpkg.gz)
 02_Processed_Data/Infrastructure_and_Stations/krishna_indiawris_infrastructure_and_stations.gpkg
+
+# Local credentials (keep the documented example)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local database journals
+*.duckdb.wal
+*.sqlite-journal

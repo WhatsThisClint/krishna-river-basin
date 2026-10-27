@@ -2,6 +2,15 @@
 
 An end-to-end, reproducible, multi-decadal (**2000–01 to 2026–27**) hydrological reconstruction and **Water Accounting Plus (WA+)** decision-intelligence system for the **Krishna River Basin, India** (`CWC Basin Code 04`; `254,746.23 km²` GIS area / `258,948 km²` official CWC area).
 
+## AI agents and clone portability
+
+Start with [AGENTS.md](AGENTS.md) for project structure, scientific safeguards,
+validation commands, and offline export guidance. See
+[SETUP_AND_REPRODUCIBILITY.md](SETUP_AND_REPRODUCIBILITY.md) for the existing runbook.
+Several scripts currently use absolute paths to the original mounted drive;
+inspect those paths before running pipelines from a fresh clone. Stored QA reports
+are historical results and should be rechecked after analytical changes.
+
 ---
 
 ## 1. Canonical 13-Folder Workspace Architecture

@@ -1,35 +1,30 @@
 #!/usr/bin/env bash
-set -e
+set -euo pipefail
 
-PROJECT_DIR="/run/media/clinton/24700DC6700D9FA2/Krishna River Basin"
+# Run from any directory; publish this checkout rather than a machine-specific path.
+PROJECT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT_DIR"
 
-echo "========================================================"
-echo "Krishna River Basin — GitHub Push Assistant"
-echo "========================================================"
+VISIBILITY="${1:---private}"
+case "$VISIBILITY" in
+    --private|--public) ;;
+    *) echo "Usage: $0 [--private|--public]" >&2; exit 2 ;;
+esac
 
-# Check if gh is authenticated
-if ! gh auth status &>/dev/null; then
-    echo "Step 1: Logging into GitHub..."
-    echo "Follow the prompt below to log in via browser or token:"
-    gh auth login
+if ! gh auth status >/dev/null 2>&1; then
+    gh auth login --hostname github.com --git-protocol https --web
 fi
 
-echo ""
-echo "Step 2: Authenticated as: $(gh api user --jq .login 2>/dev/null || echo 'User')"
+BRANCH="$(git symbolic-ref --quiet --short HEAD)"
+if [[ -n "$(git status --porcelain)" ]]; then
+    echo "Commit or stash local changes before publishing." >&2
+    exit 1
+fi
 
-REPO_NAME="krishna-river-basin"
-echo "Creating GitHub repository: $REPO_NAME (public)..."
-
-# Create remote repo and push in one shot
-if ! git remote get-url origin &>/dev/null; then
-    gh repo create "$REPO_NAME" --public --source=. --remote=origin --push
+if git remote get-url origin >/dev/null 2>&1; then
+    git push -u origin "$BRANCH"
 else
-    git push -u origin master
+    gh repo create krishna-river-basin "$VISIBILITY" --source=. --remote=origin --push
 fi
 
-echo ""
-echo "========================================================"
-echo "SUCCESS! Repository pushed to GitHub:"
-gh repo view --web || true
-echo "========================================================"
+gh repo view --json url --jq .url
