@@ -1,0 +1,123 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FAF9F5;
+    color: #141916;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom subtle warm scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(20, 25, 22, 0.16);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(20, 25, 22, 0.3);
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Apple Editorial Bento Surfaces */
+.bento-card {
+  background: #FFFFFF;
+  border: 1px solid rgba(20, 25, 22, 0.07);
+  border-radius: 1.5rem;
+  box-shadow: 0 8px 30px -6px rgba(20, 25, 22, 0.035), 0 2px 6px -1px rgba(20, 25, 22, 0.02);
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.45s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.bento-card-hover:hover {
+  transform: translateY(-2px);
+  border-color: rgba(20, 25, 22, 0.13);
+  box-shadow: 0 18px 40px -10px rgba(20, 25, 22, 0.065), 0 4px 12px -2px rgba(20, 25, 22, 0.03);
+}
+
+.bento-stone {
+  background: #F3F1EB;
+  border: 1px solid rgba(20, 25, 22, 0.05);
+  border-radius: 1.25rem;
+}
+
+/* Apple Quintic Easing Reveal */
+@keyframes appleReveal {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-apple-reveal {
+  animation: appleReveal 0.55s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* Range Input (Tactile Scrubber) */
+input[type="range"].apple-scrubber {
+  -webkit-appearance: none;
+  appearance: none;
+  background: rgba(20, 25, 22, 0.08);
+  height: 6px;
+  border-radius: 999px;
+  outline: none;
+}
+input[type="range"].apple-scrubber::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #1E3F2E;
+  cursor: pointer;
+  border: 2.5px solid #FFFFFF;
+  box-shadow: 0 2px 8px rgba(20, 25, 22, 0.25);
+  transition: transform 0.2s cubic-bezier(0.22, 1, 0.36, 1);
+}
+input[type="range"].apple-scrubber::-webkit-slider-thumb:hover {
+  transform: scale(1.15);
+}
+
+/* Leaflet Cartography in Light Archival Mode */
+.leaflet-container {
+  background: #F2EFE9 !important;
+  font-family: inherit;
+}
+
+.leaflet-tooltip {
+  background: rgba(255, 255, 255, 0.96) !important;
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(20, 25, 22, 0.09) !important;
+  border-radius: 12px !important;
+  color: #141916 !important;
+  box-shadow: 0 12px 32px -6px rgba(20, 25, 22, 0.12) !important;
+  padding: 10px 14px !important;
+}
+
+.leaflet-tooltip-top:before,
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+  border-top-color: rgba(255, 255, 255, 0.96) !important;
+}

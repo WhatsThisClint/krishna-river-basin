@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:WFS_Capabilities
+  xmlns="http://www.opengis.net/wfs/2.0"
+  xmlns:wfs="http://www.opengis.net/wfs/2.0"
+  xmlns:ows="http://www.opengis.net/ows/1.1"
+  xmlns:fes="http://www.opengis.net/fes/2.0"
+  xmlns:HydrologicalData_Hydrological_Data="https:arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  version="2.0.0"  xsi:schemaLocation="http://www.opengis.net/wfs/2.0 http://schemas.opengis.net/wfs/2.0/wfs.xsd https:arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer?service=wfs%26version=2.0.0%26request=DescribeFeatureType"
+>
+  <ows:ServiceIdentification>
+    <ows:Title>WFS</ows:Title>
+    <ows:Abstract></ows:Abstract>
+    <ows:Keywords>
+      <ows:Keyword>ESRI(longlat)</ows:Keyword>
+    </ows:Keywords>
+    <ows:ServiceType>WFS</ows:ServiceType>
+    <ows:ServiceTypeVersion>2.0.0</ows:ServiceTypeVersion>
+    <ows:Fees></ows:Fees>
+    <ows:AccessConstraints></ows:AccessConstraints>
+  </ows:ServiceIdentification>
+  <ows:ServiceProvider>
+    <ows:ProviderName></ows:ProviderName>
+    <ows:ServiceContact>
+      <ows:IndividualName></ows:IndividualName>
+      <ows:PositionName></ows:PositionName>
+      <ows:ContactInfo>
+        <ows:Phone>
+          <ows:Voice></ows:Voice>
+          <ows:Facsimile></ows:Facsimile>
+        </ows:Phone>
+        <ows:Address>
+          <ows:DeliveryPoint></ows:DeliveryPoint>
+          <ows:City></ows:City>
+          <ows:AdministrativeArea></ows:AdministrativeArea>
+          <ows:PostalCode></ows:PostalCode>
+          <ows:Country></ows:Country>
+          <ows:ElectronicMailAddress></ows:ElectronicMailAddress>
+        </ows:Address>
+        <ows:OnlineResource xlink:href="https:arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer"/>
+        <ows:HoursOfService></ows:HoursOfService>
+        <ows:ContactInstructions></ows:ContactInstructions>
+      </ows:ContactInfo>
+      <ows:Role></ows:Role>
+    </ows:ServiceContact>
+  </ows:ServiceProvider>
+  <ows:OperationsMetadata>
+    <ows:Operation name="GetCapabilities">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="AcceptVersions">
+        <ows:AllowedValues>
+          <ows:Value>1.0.0</ows:Value>
+          <ows:Value>1.1.0</ows:Value>
+          <ows:Value>2.0.0</ows:Value>
+      </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="DescribeFeatureType">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+    <ows:Parameter name="outputFormat">
+      <ows:AllowedValues>
+        <ows:Value>text/xml; subtype=gml/3.2</ows:Value>
+      </ows:AllowedValues>
+    </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="GetPropertyValue">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="resolve">
+        <ows:AllowedValues>
+          <ows:Value>none</ows:Value>
+          <ows:Value>local</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="GetFeature">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="resultType">
+        <ows:AllowedValues>
+          <ows:Value>results</ows:Value>
+          <ows:Value>hits</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+      <ows:Parameter name="outputFormat">
+        <ows:AllowedValues>
+          <ows:Value>GML32</ows:Value>
+          <ows:Value>GML32+ZIP</ows:Value>
+          <ows:Value>GML32+GZIP</ows:Value>
+          <ows:Value>application/gml+xml; version=3.2</ows:Value>
+          <ows:Value>GML3</ows:Value>
+          <ows:Value>GML3+ZIP</ows:Value>
+          <ows:Value>GML3+GZIP</ows:Value>
+          <ows:Value>text/xml; subtype=gml/3.1.1</ows:Value>
+          <ows:Value>GML2</ows:Value>
+          <ows:Value>GML2+ZIP</ows:Value>
+          <ows:Value>GML2+GZIP</ows:Value>
+          <ows:Value>text/xml; subtype=gml/2.1.2</ows:Value>
+          <ows:Value>GEOJSON</ows:Value>
+          <ows:Value>GEOJSON+ZIP</ows:Value>
+          <ows:Value>GEOJSON+GZIP</ows:Value>
+          <ows:Value>ESRIGEOJSON</ows:Value>
+          <ows:Value>ESRIGEOJSON+ZIP</ows:Value>
+          <ows:Value>ESRIGEOJSON+GZIP</ows:Value>
+          <ows:Value>KML</ows:Value>
+          <ows:Value>application/vnd.google-earth.kml xml</ows:Value>
+          <ows:Value>application/vnd.google-earth.kml+xml</ows:Value>
+          <ows:Value>KMZ</ows:Value>
+          <ows:Value>application/vnd.google-earth.kmz</ows:Value>
+          <ows:Value>SHAPE+ZIP</ows:Value>
+          <ows:Value>CSV</ows:Value>
+          <ows:Value>CSV+ZIP</ows:Value>
+          <ows:Value>CSV+GZIP</ows:Value>
+          <ows:Value>Geopackage</ows:Value>
+          <ows:Value>Geopackage+ZIP</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+      <ows:Parameter name="resolve">
+        <ows:AllowedValues>
+          <ows:Value>none</ows:Value>
+          <ows:Value>local</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="GetGmlObject">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+    </ows:Operation>
+    <ows:Operation name="ListStoredQueries">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+    </ows:Operation>
+    <ows:Operation name="DescribeStoredQueries">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/HydrologicalData/Hydrological_Data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+    </ows:Operation>
+    <ows:Constraint name="ImplementsBasicWFS"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsTransactionalWFS"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsLockingWFS"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="KVPEncoding"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="XMLEncoding"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="SOAPEncoding"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsInheritance"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsRemoteResolve"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsResultPaging"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsStandardJoins"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsSpatialJoins"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsTemporalJoins"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsFeatureVersioning"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ManageStoredQueries"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+  </ows:OperationsMetadata>
+  <wfs:FeatureTypeList>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:BASIN_CWC</wfs:Name>
+    <wfs:Title>BASIN_CWC</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>66.84938189 6.65582573</ows:LowerCorner>
+      <ows:UpperCorner>98.64799578 37.15812646</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:CWCSUBBASIN</wfs:Name>
+    <wfs:Title>CWCSUBBASIN</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>66.84938189 6.65211277</ows:LowerCorner>
+      <ows:UpperCorner>98.64799578 37.15812646</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WSHED</wfs:Name>
+    <wfs:Title>WSHED</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>66.84938189 6.65211277</ows:LowerCorner>
+      <ows:UpperCorner>98.64799578 37.15812646</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:RESBASIN</wfs:Name>
+    <wfs:Title>RESBASIN</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>66.84938189 6.65582573</ows:LowerCorner>
+      <ows:UpperCorner>98.64799578 37.15812646</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:RESREGION</wfs:Name>
+    <wfs:Title>RESREGION</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>66.84938188 6.65211276</ows:LowerCorner>
+      <ows:UpperCorner>98.64799578 37.15812646</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:SEDIMENTATIONZONE</wfs:Name>
+    <wfs:Title>SEDIMENTATIONZONE</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>66.84938189 6.65582573</ows:LowerCorner>
+      <ows:UpperCorner>98.64799578 37.15812646</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Reservoir_Hydro</wfs:Name>
+    <wfs:Title>Reservoir_Hydro</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.62994907 7.87548414</ows:LowerCorner>
+      <ows:UpperCorner>94.61060903 34.73896236</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Reservoir_RS</wfs:Name>
+    <wfs:Title>Reservoir_RS</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>69.61710203 8.05592344</ows:LowerCorner>
+      <ows:UpperCorner>92.70665946 32.16232808</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:River_Name_Sept</wfs:Name>
+    <wfs:Title>River_Name_Sept</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.24664638 6.70007569</ows:LowerCorner>
+      <ows:UpperCorner>98.38376566 36.76819243</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:RIVERP_Sept</wfs:Name>
+    <wfs:Title>RIVERP_Sept</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.29587570 7.35580031</ows:LowerCorner>
+      <ows:UpperCorner>98.12612064 36.52319251</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WetLandsPostMonsoon2005</wfs:Name>
+    <wfs:Title>WetLandsPostMonsoon2005</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>66.88847870 6.73503743</ows:LowerCorner>
+      <ows:UpperCorner>97.63035751 36.67916814</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WetLandsPreMonsoon2005</wfs:Name>
+    <wfs:Title>WetLandsPreMonsoon2005</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>66.99464301 6.75292267</ows:LowerCorner>
+      <ows:UpperCorner>97.26635834 35.74559360</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WetLandsPostMonsoon1994</wfs:Name>
+    <wfs:Title>WetLandsPostMonsoon1994</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.02517716 6.75292267</ows:LowerCorner>
+      <ows:UpperCorner>97.22386318 35.45919179</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WetLandsPreMonsoon1994</wfs:Name>
+    <wfs:Title>WetLandsPreMonsoon1994</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.06187172 6.69237862</ows:LowerCorner>
+      <ows:UpperCorner>98.04215846 35.97668588</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Area_of_Inland_drainage_in_Rajasthan</wfs:Name>
+    <wfs:Title>Riverline_Area_of_Inland_drainage_in_Rajasthan</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>70.04264872 25.27360148</ows:LowerCorner>
+      <ows:UpperCorner>76.95193148 29.82339304</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Area_of_North_Ladakh_not_draining_into_Indus_Basin</wfs:Name>
+    <wfs:Title>Riverline_Area_of_North_Ladakh_not_draining_into_Indus_Basin</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>78.36704271 35.43303347</ows:LowerCorner>
+      <ows:UpperCorner>78.36943634 35.43409998</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Barak_and_others</wfs:Name>
+    <wfs:Title>Riverline_Barak_and_others</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>89.64653960 22.73313175</ows:LowerCorner>
+      <ows:UpperCorner>94.32717405 25.96914807</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Brahamaputra</wfs:Name>
+    <wfs:Title>Riverline_Brahamaputra</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>87.88806339 24.73588292</ows:LowerCorner>
+      <ows:UpperCorner>97.55588596 30.04805520</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Brahmani_and_Baitarni</wfs:Name>
+    <wfs:Title>Riverline_Brahmani_and_Baitarni</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>83.81079097 20.49825812</ows:LowerCorner>
+      <ows:UpperCorner>87.15261891 23.62599532</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Cauvery</wfs:Name>
+    <wfs:Title>Riverline_Cauvery</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>75.45570985 10.08182283</ows:LowerCorner>
+      <ows:UpperCorner>79.86852942 13.58498427</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Drainage_area_of_Andaman_Nicobar_Islands</wfs:Name>
+    <wfs:Title>Riverline_Drainage_area_of_Andaman_Nicobar_Islands</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>91.82965369 6.74768427</ows:LowerCorner>
+      <ows:UpperCorner>94.61767988 13.71988204</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_East_flowing_rivers_between_Mahanadi_and_Pennar</wfs:Name>
+    <wfs:Title>Riverline_East_flowing_rivers_between_Mahanadi_and_Pennar</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>78.68266758 14.57412976</ows:LowerCorner>
+      <ows:UpperCorner>85.24389766 20.39116278</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_East_flowing_rivers_between_Pennar_and_Kanyakumari</wfs:Name>
+    <wfs:Title>Riverline_East_flowing_rivers_between_Pennar_and_Kanyakumari</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.03801530 8.13929515</ows:LowerCorner>
+      <ows:UpperCorner>80.33650840 14.49877700</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Ganga</wfs:Name>
+    <wfs:Title>Riverline_Ganga</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.03749557 21.50647366</ows:LowerCorner>
+      <ows:UpperCorner>89.80436342 31.45425319</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Godavari</wfs:Name>
+    <wfs:Title>Riverline_Godavari</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.34796432 16.17869985</ows:LowerCorner>
+      <ows:UpperCorner>83.22698269 22.68794070</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Indus_Up_to_border</wfs:Name>
+    <wfs:Title>Riverline_Indus_Up_to_border</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.70020796 29.12756858</ows:LowerCorner>
+      <ows:UpperCorner>79.62192214 35.69590047</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Krishna</wfs:Name>
+    <wfs:Title>Riverline_Krishna</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.30238988 13.01462197</ows:LowerCorner>
+      <ows:UpperCorner>81.23519314 19.53487767</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Mahanadi</wfs:Name>
+    <wfs:Title>Riverline_Mahanadi</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>80.43076261 19.14373677</ows:LowerCorner>
+      <ows:UpperCorner>86.93933111 23.58087525</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Mahi</wfs:Name>
+    <wfs:Title>Riverline_Mahi</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.35259863 21.67653523</ows:LowerCorner>
+      <ows:UpperCorner>75.30922871 24.63065431</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Minor_rivers_draining_into_Myanmar_and_Bangladesh</wfs:Name>
+    <wfs:Title>Riverline_Minor_rivers_draining_into_Myanmar_and_Bangladesh</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>91.14948808 21.78376820</ows:LowerCorner>
+      <ows:UpperCorner>95.20554736 26.68862512</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Narmada</wfs:Name>
+    <wfs:Title>Riverline_Narmada</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.50384897 21.27296760</ows:LowerCorner>
+      <ows:UpperCorner>81.78631401 23.77651858</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Pennar</wfs:Name>
+    <wfs:Title>Riverline_Pennar</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.03543830 13.25809928</ows:LowerCorner>
+      <ows:UpperCorner>80.18615344 15.85429196</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Sabarmati</wfs:Name>
+    <wfs:Title>Riverline_Sabarmati</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>70.98472409 22.10314925</ows:LowerCorner>
+      <ows:UpperCorner>73.87502730 24.93064045</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Subernarekha</wfs:Name>
+    <wfs:Title>Riverline_Subernarekha</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>85.06775427 21.25107757</ows:LowerCorner>
+      <ows:UpperCorner>87.59602768 23.56755620</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_Tapi</wfs:Name>
+    <wfs:Title>Riverline_Tapi</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.56706083 19.99117288</ows:LowerCorner>
+      <ows:UpperCorner>78.29223957 22.02557319</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_West_flowing_rivers_from_Tadri_to_Kanyakumari</wfs:Name>
+    <wfs:Title>Riverline_West_flowing_rivers_from_Tadri_to_Kanyakumari</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>74.41634630 7.99885169</ows:LowerCorner>
+      <ows:UpperCorner>77.59074515 14.46754965</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_West_flowing_rivers_from_Tapi_to_Tadri</wfs:Name>
+    <wfs:Title>Riverline_West_flowing_rivers_from_Tapi_to_Tadri</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.58753692 14.18790852</ows:LowerCorner>
+      <ows:UpperCorner>75.22243358 21.32175248</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Riverline_West_flowing_rivers_of_Kutch_and_Saurashtra_including_Luni</wfs:Name>
+    <wfs:Title>Riverline_West_flowing_rivers_of_Kutch_and_Saurashtra_including_Luni</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.88936038 20.53313668</ows:LowerCorner>
+      <ows:UpperCorner>75.31254342 27.29514936</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Area_of_Inland_drainage_in_Rajasthan</wfs:Name>
+    <wfs:Title>WB_Area_of_Inland_drainage_in_Rajasthan</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>69.55218924 25.51023185</ows:LowerCorner>
+      <ows:UpperCorner>77.18348726 30.02526211</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Barak_and_others</wfs:Name>
+    <wfs:Title>WB_Barak_and_others</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>89.67794806 23.17399277</ows:LowerCorner>
+      <ows:UpperCorner>94.01027828 25.75092021</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Brahamaputra</wfs:Name>
+    <wfs:Title>WB_Brahamaputra</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>87.92927794 24.87419977</ows:LowerCorner>
+      <ows:UpperCorner>97.49110186 29.96220886</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Brahmani_and_Baitarni</wfs:Name>
+    <wfs:Title>WB_Brahmani_and_Baitarni</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>83.81410037 20.48470848</ows:LowerCorner>
+      <ows:UpperCorner>87.09888065 23.61008133</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Cauvery</wfs:Name>
+    <wfs:Title>WB_Cauvery</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>75.52439379 10.12972536</ows:LowerCorner>
+      <ows:UpperCorner>79.87857447 13.58122365</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Drainage_area_of_Andaman_Nicobar_Islands</wfs:Name>
+    <wfs:Title>WB_Drainage_area_of_Andaman_Nicobar_Islands</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>92.29201515 8.06024148</ows:LowerCorner>
+      <ows:UpperCorner>94.08696829 13.18077661</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Drainage_area_of_Lakshadweep_Islands</wfs:Name>
+    <wfs:Title>WB_Drainage_area_of_Lakshadweep_Islands</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.23661858 10.04056225</ows:LowerCorner>
+      <ows:UpperCorner>72.33614368 10.94049458</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_East_flowing_rivers_between_Mahanadi_and_Pennar</wfs:Name>
+    <wfs:Title>WB_East_flowing_rivers_between_Mahanadi_and_Pennar</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>78.81758572 14.54841896</ows:LowerCorner>
+      <ows:UpperCorner>85.21861835 20.35027265</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_East_flowing_rivers_between_Pennar_and_Kanyakumari</wfs:Name>
+    <wfs:Title>WB_East_flowing_rivers_between_Pennar_and_Kanyakumari</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.03739408 8.13711407</ows:LowerCorner>
+      <ows:UpperCorner>80.33993271 14.50323324</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Ganga</wfs:Name>
+    <wfs:Title>WB_Ganga</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.05015158 21.52155105</ows:LowerCorner>
+      <ows:UpperCorner>89.68630957 31.41861823</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Godavari</wfs:Name>
+    <wfs:Title>WB_Godavari</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.35439490 16.19038221</ows:LowerCorner>
+      <ows:UpperCorner>83.20941918 22.68197756</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Indus_Up_to_border</wfs:Name>
+    <wfs:Title>WB_Indus_Up_to_border</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.21377097 28.80414157</ows:LowerCorner>
+      <ows:UpperCorner>79.24475315 35.12287115</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Krishna</wfs:Name>
+    <wfs:Title>WB_Krishna</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.30961027 13.01425627</ows:LowerCorner>
+      <ows:UpperCorner>81.23186526 19.51646159</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Mahanadi</wfs:Name>
+    <wfs:Title>WB_Mahanadi</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>80.43286794 19.14924458</ows:LowerCorner>
+      <ows:UpperCorner>86.94706245 23.52825878</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Mahi</wfs:Name>
+    <wfs:Title>WB_Mahi</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.37971157 21.67637090</ows:LowerCorner>
+      <ows:UpperCorner>75.30543904 24.62599960</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Minor_rivers_draining_into_Myanmar_and_Bangladesh</wfs:Name>
+    <wfs:Title>WB_Minor_rivers_draining_into_Myanmar_and_Bangladesh</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>91.17411808 21.99698205</ows:LowerCorner>
+      <ows:UpperCorner>95.01794305 26.49172108</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Narmada</wfs:Name>
+    <wfs:Title>WB_Narmada</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.44814173 21.29418297</ows:LowerCorner>
+      <ows:UpperCorner>81.78278862 23.73555998</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Pennar</wfs:Name>
+    <wfs:Title>WB_Pennar</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.06388175 13.26533901</ows:LowerCorner>
+      <ows:UpperCorner>80.19434961 15.78891755</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Sabarmati</wfs:Name>
+    <wfs:Title>WB_Sabarmati</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>71.00216870 22.13580798</ows:LowerCorner>
+      <ows:UpperCorner>73.86736445 24.91265866</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Subernarekha</wfs:Name>
+    <wfs:Title>WB_Subernarekha</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>85.07759698 21.23984475</ows:LowerCorner>
+      <ows:UpperCorner>87.67575709 23.56501808</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_Tapi</wfs:Name>
+    <wfs:Title>WB_Tapi</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.59962601 20.01026412</ows:LowerCorner>
+      <ows:UpperCorner>78.28849199 22.00974831</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_West_flowing_rivers_from_Tadri_to_Kanyakumari</wfs:Name>
+    <wfs:Title>WB_West_flowing_rivers_from_Tadri_to_Kanyakumari</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>74.51372568 8.00738488</ows:LowerCorner>
+      <ows:UpperCorner>77.60146630 14.34626142</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_West_flowing_rivers_from_Tapi_to_Tadri</wfs:Name>
+    <wfs:Title>WB_West_flowing_rivers_from_Tapi_to_Tadri</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.58862646 14.25923458</ows:LowerCorner>
+      <ows:UpperCorner>75.22142667 21.32187395</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WB_West_flowing_rivers_of_Kutch_and_Saurashtra_including_Luni</wfs:Name>
+    <wfs:Title>WB_West_flowing_rivers_of_Kutch_and_Saurashtra_including_Luni</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>68.18385599 20.55597668</ows:LowerCorner>
+      <ows:UpperCorner>75.29330900 27.35611183</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:AndamanNicobar_Wetbnd2019</wfs:Name>
+    <wfs:Title>AndamanNicobar_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>92.08121730 7.07395154</ows:LowerCorner>
+      <ows:UpperCorner>94.55003887 13.70508999</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Andhra_Pradesh_Wetbnd2019</wfs:Name>
+    <wfs:Title>Andhra_Pradesh_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>76.66512685 12.57242197</ows:LowerCorner>
+      <ows:UpperCorner>84.75720806 19.23915609</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:ArunachalPradesh_Wetbnd2019</wfs:Name>
+    <wfs:Title>ArunachalPradesh_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>91.47570443 26.43626879</ows:LowerCorner>
+      <ows:UpperCorner>97.58299605 29.80453465</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Assam_wetbnd2019</wfs:Name>
+    <wfs:Title>Assam_wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>89.58237663 23.89146663</ows:LowerCorner>
+      <ows:UpperCorner>96.04907735 28.44966448</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Bihar_Wetbnd2019</wfs:Name>
+    <wfs:Title>Bihar_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>83.30732921 24.13930928</ows:LowerCorner>
+      <ows:UpperCorner>88.34075040 27.45138838</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Chandigarh_Wetbnd2019</wfs:Name>
+    <wfs:Title>Chandigarh_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>76.70416662 30.67073204</ows:LowerCorner>
+      <ows:UpperCorner>76.84316405 30.78963447</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Chhattisgarh_Wetbnd2019</wfs:Name>
+    <wfs:Title>Chhattisgarh_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>80.28360916 17.72930760</ows:LowerCorner>
+      <ows:UpperCorner>84.42017043 24.12762216</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Dadra_and_NH_Wetbnd2019</wfs:Name>
+    <wfs:Title>Dadra_and_NH_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.96846258 20.07092784</ows:LowerCorner>
+      <ows:UpperCorner>73.21038492 20.33440177</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Daman_and_Diu_Wetbnd2019</wfs:Name>
+    <wfs:Title>Daman_and_Diu_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>70.86763506 20.26758934</ows:LowerCorner>
+      <ows:UpperCorner>72.89978810 20.86353078</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Delhi_Wetbnd2019</wfs:Name>
+    <wfs:Title>Delhi_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>76.84919985 28.40828638</ows:LowerCorner>
+      <ows:UpperCorner>77.33225226 28.86995191</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Goa_Wetbnd2019</wfs:Name>
+    <wfs:Title>Goa_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.68590730 14.91729049</ows:LowerCorner>
+      <ows:UpperCorner>74.28343556 15.77312887</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Gujarat_Wetbnd2019</wfs:Name>
+    <wfs:Title>Gujarat_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>68.10079959 19.84814891</ows:LowerCorner>
+      <ows:UpperCorner>74.57577706 24.80990238</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Haryana_Wetbnd2019</wfs:Name>
+    <wfs:Title>Haryana_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>74.42902504 27.61433352</ows:LowerCorner>
+      <ows:UpperCorner>77.63691613 30.91808637</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:HimachalPradesh_Wetbnd2019</wfs:Name>
+    <wfs:Title>HimachalPradesh_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>75.56387542 30.34200837</ows:LowerCorner>
+      <ows:UpperCorner>78.88868220 33.21574731</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:JammuAndKashmir_Wetbnd2019</wfs:Name>
+    <wfs:Title>JammuAndKashmir_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.36952344 32.23366887</ows:LowerCorner>
+      <ows:UpperCorner>76.74696393 35.16316898</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Jharkhand_Wetbnd2019</wfs:Name>
+    <wfs:Title>Jharkhand_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>83.28866166 21.89356258</ows:LowerCorner>
+      <ows:UpperCorner>87.98535772 25.48877722</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Karnataka_Wetbnd2019</wfs:Name>
+    <wfs:Title>Karnataka_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.94940963 11.54483506</ows:LowerCorner>
+      <ows:UpperCorner>78.60386485 18.49185038</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Kerala_Wetbnd2019</wfs:Name>
+    <wfs:Title>Kerala_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>74.86930735 8.23804243</ows:LowerCorner>
+      <ows:UpperCorner>77.31118589 12.83915677</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Ladakh_Wetbnd2019</wfs:Name>
+    <wfs:Title>Ladakh_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.47058983 32.22154694</ows:LowerCorner>
+      <ows:UpperCorner>80.18514170 37.06808842</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Lakshadweep_Wetbnd2019</wfs:Name>
+    <wfs:Title>Lakshadweep_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>71.76174154 8.21017376</ows:LowerCorner>
+      <ows:UpperCorner>73.81496687 12.47236771</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:MadhyaPradesh_Wetbnd2019</wfs:Name>
+    <wfs:Title>MadhyaPradesh_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.83136667 21.04555209</ows:LowerCorner>
+      <ows:UpperCorner>82.86412652 26.85817067</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Maharashtra_Wetbnd2019</wfs:Name>
+    <wfs:Title>Maharashtra_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.54359391 15.59035547</ows:LowerCorner>
+      <ows:UpperCorner>80.75531673 22.13284980</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Manipur_wetbnd2019</wfs:Name>
+    <wfs:Title>Manipur_wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>93.00884435 23.88734767</ows:LowerCorner>
+      <ows:UpperCorner>94.79604927 25.81101133</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Meghalaya_wetbnd2019</wfs:Name>
+    <wfs:Title>Meghalaya_wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>89.80934685 24.98846779</ows:LowerCorner>
+      <ows:UpperCorner>92.74359533 26.24695315</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Mizoram_wetbnd2019</wfs:Name>
+    <wfs:Title>Mizoram_wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>92.09478630 22.01293072</ows:LowerCorner>
+      <ows:UpperCorner>93.49006520 24.55042679</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Nagaland_wetbnd2019</wfs:Name>
+    <wfs:Title>Nagaland_wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>93.41463758 25.08589539</ows:LowerCorner>
+      <ows:UpperCorner>95.19134769 27.16633399</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Odisha_Wetbnd2019</wfs:Name>
+    <wfs:Title>Odisha_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>81.39423366 17.64740919</ows:LowerCorner>
+      <ows:UpperCorner>87.53300166 22.67284693</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Puducherry_Wetbnd2019</wfs:Name>
+    <wfs:Title>Puducherry_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>79.58753922 10.81114918</ows:LowerCorner>
+      <ows:UpperCorner>82.31095067 16.77984771</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Punjab_Wetbnd2019</wfs:Name>
+    <wfs:Title>Punjab_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.77264769 29.52653525</ows:LowerCorner>
+      <ows:UpperCorner>76.94674791 32.53420930</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Rajasthan_Wetbnd2019</wfs:Name>
+    <wfs:Title>Rajasthan_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>69.50733430 22.85437344</ows:LowerCorner>
+      <ows:UpperCorner>78.30923251 30.29142151</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Sikkim_Wetbnd2019</wfs:Name>
+    <wfs:Title>Sikkim_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>88.02834303 27.12698640</ows:LowerCorner>
+      <ows:UpperCorner>88.96378165 28.11153168</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Tamilnadu_Wetbnd2019</wfs:Name>
+    <wfs:Title>Tamilnadu_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>76.21504236 8.05707488</ows:LowerCorner>
+      <ows:UpperCorner>80.34137940 13.56293278</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Telangana_Wetbnd2019</wfs:Name>
+    <wfs:Title>Telangana_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.19945536 15.82294973</ows:LowerCorner>
+      <ows:UpperCorner>81.30349598 19.88903495</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Tripura_wetbnd2019</wfs:Name>
+    <wfs:Title>Tripura_wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>91.09194399 22.91879766</ows:LowerCorner>
+      <ows:UpperCorner>92.36385295 24.59960145</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Uttarakhand_Wetbnd2019</wfs:Name>
+    <wfs:Title>Uttarakhand_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.56599947 28.71499417</ows:LowerCorner>
+      <ows:UpperCorner>80.71990130 31.28503932</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:UttarPradesh_Wetbnd2019</wfs:Name>
+    <wfs:Title>UttarPradesh_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.09248740 23.84118279</ows:LowerCorner>
+      <ows:UpperCorner>84.79972615 30.42112816</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WestBengal_Wetbnd2019</wfs:Name>
+    <wfs:Title>WestBengal_Wetbnd2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>85.75674133 21.48765100</ows:LowerCorner>
+      <ows:UpperCorner>89.91800389 27.29723743</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:AndamanNicobar_Wetpnt2019</wfs:Name>
+    <wfs:Title>AndamanNicobar_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>92.62098803 11.51637690</ows:LowerCorner>
+      <ows:UpperCorner>93.06387255 13.42194144</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:AndhraPradesh_Wetpnt2019</wfs:Name>
+    <wfs:Title>AndhraPradesh_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>76.67686401 12.70232302</ows:LowerCorner>
+      <ows:UpperCorner>84.51942440 19.09681574</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:ArunachalPradesh_Wetpnt2019</wfs:Name>
+    <wfs:Title>ArunachalPradesh_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>91.73336795 26.50111619</ows:LowerCorner>
+      <ows:UpperCorner>97.25241775 29.64249949</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Assam_wetpnt2019</wfs:Name>
+    <wfs:Title>Assam_wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>89.67285428 23.95091030</ows:LowerCorner>
+      <ows:UpperCorner>96.00909257 28.42115064</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Bihar_Wetpnt2019</wfs:Name>
+    <wfs:Title>Bihar_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>83.30746473 24.15258900</ows:LowerCorner>
+      <ows:UpperCorner>88.35227435 27.43428338</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Chhattisgarh_Wetpnt2019</wfs:Name>
+    <wfs:Title>Chhattisgarh_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>80.28495713 17.73470181</ows:LowerCorner>
+      <ows:UpperCorner>84.40868733 24.10823522</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Dadra_and_NH_Wetpnt2019</wfs:Name>
+    <wfs:Title>Dadra_and_NH_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.92119553 20.13679211</ows:LowerCorner>
+      <ows:UpperCorner>73.15626496 20.31442737</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Daman_and_Diu_Wetpnt2019</wfs:Name>
+    <wfs:Title>Daman_and_Diu_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>70.91052570 20.29911747</ows:LowerCorner>
+      <ows:UpperCorner>72.90355202 20.81211025</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Delhi_Wetpnt2019</wfs:Name>
+    <wfs:Title>Delhi_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>76.83937344 28.40446177</ows:LowerCorner>
+      <ows:UpperCorner>77.33595653 28.87110346</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Goa_Wetpnt2019</wfs:Name>
+    <wfs:Title>Goa_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.69635550 14.90267567</ows:LowerCorner>
+      <ows:UpperCorner>74.27091532 15.75132341</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Gujarat_Wetpnt2019</wfs:Name>
+    <wfs:Title>Gujarat_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>68.41267272 19.88811829</ows:LowerCorner>
+      <ows:UpperCorner>74.54653820 24.80218096</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Haryana_Wetpnt2019</wfs:Name>
+    <wfs:Title>Haryana_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>74.42854098 27.60781829</ows:LowerCorner>
+      <ows:UpperCorner>77.58311812 30.89398775</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:HimachalPradesh_Wetpnt2019</wfs:Name>
+    <wfs:Title>HimachalPradesh_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>75.77094864 30.41761228</ows:LowerCorner>
+      <ows:UpperCorner>78.89926059 33.18147128</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:JammuAndKashmir_Wetpnt2019</wfs:Name>
+    <wfs:Title>JammuAndKashmir_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.48986736 32.32913760</ows:LowerCorner>
+      <ows:UpperCorner>76.75028116 35.11676211</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Jharkhand_Wetpnt2019</wfs:Name>
+    <wfs:Title>Jharkhand_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>83.29251219 21.89190512</ows:LowerCorner>
+      <ows:UpperCorner>87.97984066 25.44386014</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Karnataka_Wetpnt2019</wfs:Name>
+    <wfs:Title>Karnataka_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.94363656 11.54594819</ows:LowerCorner>
+      <ows:UpperCorner>78.60059590 18.49337347</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Kerala_Wetpnt2019</wfs:Name>
+    <wfs:Title>Kerala_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>74.87723441 8.24329345</ows:LowerCorner>
+      <ows:UpperCorner>77.27745933 12.84482219</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Ladakh_Wetpnt2019</wfs:Name>
+    <wfs:Title>Ladakh_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.15100721 32.57970133</ows:LowerCorner>
+      <ows:UpperCorner>79.41017935 36.86934451</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:MadhyaPradesh_Wetpnt2019</wfs:Name>
+    <wfs:Title>MadhyaPradesh_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.86036360 21.06735273</ows:LowerCorner>
+      <ows:UpperCorner>82.86245091 26.85788198</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Maharashtra_Wetpnt2019</wfs:Name>
+    <wfs:Title>Maharashtra_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>72.54781848 15.57822322</ows:LowerCorner>
+      <ows:UpperCorner>80.89397654 21.99243387</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Manipur_wetpnt2019</wfs:Name>
+    <wfs:Title>Manipur_wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>93.02939437 24.04116829</ows:LowerCorner>
+      <ows:UpperCorner>94.56729694 25.58391078</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Meghalaya_wetpnt2019</wfs:Name>
+    <wfs:Title>Meghalaya_wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>89.81219394 24.99159681</ows:LowerCorner>
+      <ows:UpperCorner>92.69761612 26.23282419</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Mizoram_wetpnt2019</wfs:Name>
+    <wfs:Title>Mizoram_wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>92.11097444 22.13422139</ows:LowerCorner>
+      <ows:UpperCorner>93.49937665 24.53111834</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Nagaland_wetpnt2019</wfs:Name>
+    <wfs:Title>Nagaland_wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>93.41256528 25.09240979</ows:LowerCorner>
+      <ows:UpperCorner>95.19184003 27.16871056</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Odisha_Wetpnt2019</wfs:Name>
+    <wfs:Title>Odisha_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>81.39300674 17.64816404</ows:LowerCorner>
+      <ows:UpperCorner>87.53450645 22.67258364</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Puducherry_Wetpnt2019</wfs:Name>
+    <wfs:Title>Puducherry_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>79.69763002 10.86391619</ows:LowerCorner>
+      <ows:UpperCorner>79.84706446 11.92405961</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Punjab_Wetpnt2019</wfs:Name>
+    <wfs:Title>Punjab_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>73.80338484 29.74475378</ows:LowerCorner>
+      <ows:UpperCorner>76.85074720 32.21496105</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Rajasthan_Wetpnt2019</wfs:Name>
+    <wfs:Title>Rajasthan_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>69.90867931 22.92953807</ows:LowerCorner>
+      <ows:UpperCorner>78.25343219 30.27030101</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Sikkim_Wetpnt2019</wfs:Name>
+    <wfs:Title>Sikkim_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>88.06975559 27.36901891</ows:LowerCorner>
+      <ows:UpperCorner>88.89225668 28.09924484</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Tamilnadu_Wetpnt2019</wfs:Name>
+    <wfs:Title>Tamilnadu_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>76.58068718 8.06266938</ows:LowerCorner>
+      <ows:UpperCorner>79.91886825 12.88419811</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Telangana_Wetpnt2019</wfs:Name>
+    <wfs:Title>Telangana_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.19236844 15.85325601</ows:LowerCorner>
+      <ows:UpperCorner>81.29944233 19.91873320</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Tripura_wetpnt2019</wfs:Name>
+    <wfs:Title>Tripura_wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>91.16117041 23.00375801</ows:LowerCorner>
+      <ows:UpperCorner>92.25078403 24.59647919</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:Uttarakhand_Wetpnt2019</wfs:Name>
+    <wfs:Title>Uttarakhand_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.63031056 28.83219573</ows:LowerCorner>
+      <ows:UpperCorner>80.66803189 31.28108408</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:UttarPradesh_Wetpnt2019</wfs:Name>
+    <wfs:Title>UttarPradesh_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>77.12022035 23.85016662</ows:LowerCorner>
+      <ows:UpperCorner>84.77552496 30.34175460</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>HydrologicalData_Hydrological_Data:WestBengal_Wetpnt2019</wfs:Name>
+    <wfs:Title>WestBengal_Wetpnt2019</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>85.77109877 21.48961805</ows:LowerCorner>
+      <ows:UpperCorner>89.90236483 27.18276903</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  </wfs:FeatureTypeList>
+  <fes:Filter_Capabilities>
+  <fes:Conformance>
+    <fes:Constraint name="ImplementsQuery"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsAdHocQuery"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsFunctions"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsResourceId"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsMinStandardFilter"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsStandardFilter"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsMinSpatialFilter"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsSpatialFilter"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsMinTemporalFilter"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsTemporalFilter"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsVersionNav"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsSorting"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsExtendedOperators"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsMinimumXPath"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsSchemaElementFunc"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+  </fes:Conformance>
+  <fes:Id_Capabilities>
+    <fes:ResourceIdentifier name="fes:ResourceId"/>
+  </fes:Id_Capabilities>
+  <fes:Scalar_Capabilities>
+    <fes:LogicalOperators/>
+    <fes:ComparisonOperators>
+      <fes:ComparisonOperator name="PropertyIsEqualTo"/>
+      <fes:ComparisonOperator name="PropertyIsNotEqualTo"/>
+      <fes:ComparisonOperator name="PropertyIsLessThan"/>
+      <fes:ComparisonOperator name="PropertyIsGreaterThan"/>
+      <fes:ComparisonOperator name="PropertyIsLessThanOrEqualTo"/>
+      <fes:ComparisonOperator name="PropertyIsGreaterThanOrEqualTo"/>
+      <fes:ComparisonOperator name="PropertyIsLike"/>
+      <fes:ComparisonOperator name="PropertyIsNull"/>
+      <fes:ComparisonOperator name="PropertyIsNil"/>
+      <fes:ComparisonOperator name="PropertyIsBetween"/>
+    </fes:ComparisonOperators>
+  </fes:Scalar_Capabilities>
+  <fes:Spatial_Capabilities>
+    <fes:GeometryOperands xmlns:gml="http://www.opengis.net/gml" xmlns:gml32="http://www.opengis.net/gml">
+      <fes:GeometryOperand name="gml:Box"/>
+      <fes:GeometryOperand name="gml:Envelope"/>
+      <fes:GeometryOperand name="gml:Point"/>
+      <fes:GeometryOperand name="gml:LineString"/>
+      <fes:GeometryOperand name="gml:LinearRing"/>
+      <fes:GeometryOperand name="gml:Polygon"/>
+      <fes:GeometryOperand name="gml:MultiPoint"/>
+      <fes:GeometryOperand name="gml:MultiCurve"/>
+      <fes:GeometryOperand name="gml:MultiSurface"/>
+    </fes:GeometryOperands>
+    <fes:SpatialOperators>
+      <fes:SpatialOperator name="BBOX"/>
+      <fes:SpatialOperator name="Equals"/>
+      <fes:SpatialOperator name="Disjoint"/>
+      <fes:SpatialOperator name="Intersects"/>
+      <fes:SpatialOperator name="Touches"/>
+      <fes:SpatialOperator name="Crosses"/>
+      <fes:SpatialOperator name="Within"/>
+      <fes:SpatialOperator name="Contains"/>
+      <fes:SpatialOperator name="Overlaps"/>
+      <fes:SpatialOperator name="Beyond"/>
+      <fes:SpatialOperator name="DWithin"/>
+    </fes:SpatialOperators>
+  </fes:Spatial_Capabilities>
+  </fes:Filter_Capabilities>
+</wfs:WFS_Capabilities>

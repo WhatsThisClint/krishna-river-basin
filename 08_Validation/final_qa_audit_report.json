@@ -1,0 +1,37 @@
+{
+  "audit_timestamp_utc": "2026-10-17T08:58:50.944084+00:00",
+  "overall_status": "PASSED_100_PERCENT",
+  "checks": {
+    "01_folder_structure_13_dirs": true,
+    "02_subbasins_delineated_count": 7,
+    "03_max_annual_mass_balance_residual_bcm": 0.0015,
+    "04_max_monthly_mass_balance_residual_bcm": 0.0006,
+    "05_incomplete_hydro_year_2026_27_separated": true,
+    "06_duckdb_tables_count": 17,
+    "07_duckdb_tables_list": [
+      "agricultural_water_accounts_annual",
+      "cgwb_groundwater_epochs",
+      "climate_triangulation_annual",
+      "climate_vs_anthropogenic_attribution",
+      "crop_composition_annual",
+      "era5_monthly_subbasin",
+      "glofas_discharge_monthly",
+      "master_analytical_ledger",
+      "nasa_power_monthly_subbasin",
+      "reservoir_dynamics_annual",
+      "sankey_water_flows_annual",
+      "statistical_trends_mk_sens",
+      "validation_triangulation_matrix",
+      "water_balance_annual",
+      "water_balance_monthly",
+      "water_balance_seasonal",
+      "water_quality_usability_accounts"
+    ],
+    "08_qgis_project_exists": true,
+    "09_figures_png_count": 12,
+    "10_figures_pdf_count": 11,
+    "11_report_pdf_exists": true,
+    "12_report_docx_exists": true,
+    "13_web_frontend_dist_built": true
+  }
+}

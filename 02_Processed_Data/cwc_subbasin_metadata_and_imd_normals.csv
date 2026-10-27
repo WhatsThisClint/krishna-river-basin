@@ -1,0 +1,8 @@
+subbasin_id,subbasin_name,basin_code,basin_name,area_km2,centroid_lat,centroid_lon,west_lat,west_lon,east_lat,east_lon,imd_normal_annual_mm,imd_normal_sw_monsoon_jjas_mm,imd_normal_kharif_jjaso_mm,imd_normal_rabi_ndjf_mm,imd_normal_summer_mam_mm,imd_subdivisions
+KRI_UPPER,Krishna Upper,04,Krishna Basin,54504.77,16.4824,75.0523,16.7588,74.3119,16.2803,76.5888,796.13,593.6,693.59,34.81,67.73,North Interior Karnataka (63.3%); Madhya Maharashtra (36.5%)
+BHI_UPPER,Bhima Upper,04,Krishna Basin,44793.32,18.2071,74.8128,18.6449,73.8213,17.9689,75.6299,868.58,719.47,798.8,31.34,38.45,Madhya Maharashtra (88.8%); Marathawada (8.5%); North Interior Karnataka (2.7%)
+BHI_LOWER,Bhima Lower,04,Krishna Basin,23652.7,17.2496,76.7466,17.3226,76.1459,17.0393,77.3499,776.97,561.44,665.81,36.79,74.36,North Interior Karnataka (74.6%); Telangana (10.1%); Marathawada (8.5%); Madhya Maharashtra (6.8%)
+KRI_MIDDLE,Krishna Middle,04,Krishna Basin,22229.12,16.4624,78.2586,16.6096,77.573,16.3872,78.9261,912.26,700.7,801.59,48.21,62.45,Telangana (80.8%); Rayalaseema (9.0%); North Interior Karnataka (6.2%); Coastal Andhra Pradesh (4.1%)
+TUN_UPPER,Tungabhadra Upper,04,Krishna Basin,28519.41,14.4471,75.6745,14.1249,75.2902,14.7971,76.1889,993.09,669.95,807.77,57.61,127.7,South Interior Karnataka (67.2%); North Interior Karnataka (30.4%); Coastal Karnataka (2.3%)
+TUN_LOWER,Tungabhadra Lower,04,Krishna Basin,41556.48,14.8781,76.8611,14.5885,76.4609,15.6958,77.7701,874.59,559.07,693.05,68.58,112.97,South Interior Karnataka (49.3%); Rayalaseema (28.7%); North Interior Karnataka (18.8%); Telangana (3.2%)
+KRI_LOWER,Krishna Lower,04,Krishna Basin,39494.33,17.0845,79.6563,17.3019,78.4546,16.8625,80.4403,965.27,706.83,827.09,70.21,67.97,Telangana (72.2%); Coastal Andhra Pradesh (27.8%)

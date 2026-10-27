@@ -1,0 +1,61 @@
+subbasin_id,aquifer,aquifer0,area_km2,mean_sy,weathered_zone_m,fracture_depth_mbgl,transmissivity_m2_day,ec_salinity_us_cm
+BHI_LOWER,Basalt,Basic Rocks (Basalt),16180.87,0.0175,10-45,60-125,20-180,2000-3500
+BHI_LOWER,Basement Gneissic Complex,Basement Gneissic Complex,3515.32,0.02,Up to 60,-,2-176,500-5500
+BHI_LOWER,Laterite,Laterite / Ferruginous concretions,353.29,0.02,5 -15,2 - 8,4 - 1400,500-2000
+BHI_LOWER,Limestone,Limestone/Dolomite,2811.14,0.02,40-150,40-120,20-180,2000-5000
+BHI_LOWER,Sandstone,Sandstone/Conglomerate,280.75,0.02,60-80,50-120,30-180,500-700
+BHI_LOWER,Schist,Schist,450.83,0.02,35,60,4 - 80,500-2000
+BHI_LOWER,Shale,Shale/Shale with Sandstone,60.49,0.02,upto 100m,24-60,upto 740,1500-3000
+BHI_UPPER,Basalt,Basic Rocks (Basalt),44791.9,0.02,10-45,60-125,20-180,2000-3500
+KRI_LOWER,Alluvium,Coastal Alluvium (Sand/Silt/Clay),1144.4,0.08,50 -80,60-80,300 to 2000,500-3000
+KRI_LOWER,Alluvium,Younger Alluvium (Clay/Silt/Sand/ Calcareous concr,1930.26,0.08,50 -80,60-80,300 to 2000,500-3000
+KRI_LOWER,Basalt,Basic Rocks (Basalt),726.85,0.0125,5-20,40-80,6 - 740,1500-2000
+KRI_LOWER,Basement Gneissic Complex,Basement Gneissic Complex,27715.06,0.02,3-15,12-60,6-40,500-3500
+KRI_LOWER,Charnockite,Charnockite,1657.89,0.02,8 -15,15 -60,5 -60,500-3000
+KRI_LOWER,Gneiss,Migmatitic Gneiss,166.27,0.02,8-15,20 - 100,12-40,500-750
+KRI_LOWER,Khondalites,"Khondalites, Granulites",433.25,0.02,5 - 20,60,10-120,500-3000
+KRI_LOWER,Laterite,Laterite / Ferruginous concretions,139.66,0.02,5 - 25,10 -15,300 - 1500,500
+KRI_LOWER,Limestone,Limestone with Shale,139.42,0.02,8 to 200,115-190,1.2-24,1500-2500
+KRI_LOWER,Limestone,Limestone/Dolomite,2851.92,0.02,8 to 200,115-190,1.2-24,1500-2500
+KRI_LOWER,Quartzite,Quartzite,992.62,0.0175,8 - 15,15 - 60,10 - 50,1000-3000
+KRI_LOWER,Sandstone,Sandstone with Shale,75.74,0.02,20-150,38 - 100,100-1000,1500-3000
+KRI_LOWER,Sandstone,Sandstone/Conglomerate,37.43,0.02,20-150,38 - 100,100-1000,1500-3000
+KRI_LOWER,Schist,Schist,421.75,0.02,5 - 45,20-170,2 - 80,1000-3000
+KRI_LOWER,Shale,Shale/Shale with Sandstone,1059.0,0.02,upto 100m,24-60,upto 740,1500-3000
+KRI_MIDDLE,Basalt,Basic Rocks (Basalt),97.84,0.01375,10-45,60-125,20-180,2000-3500
+KRI_MIDDLE,Basement Gneissic Complex,Basement Gneissic Complex,15859.49,0.02,Up to 60,-,2-176,500-5500
+KRI_MIDDLE,Gneiss,Migmatitic Gneiss,144.15,0.02,8-15,20 - 100,12-40,500-750
+KRI_MIDDLE,Granite,"Acidic Rocks (Pegmatite, Granite, Syenite, Rhyolit",593.34,0.02,10 -15,15 - 60,2.3 - 12.6,1500-2500
+KRI_MIDDLE,Laterite,Laterite / Ferruginous concretions,0.24,0.02,5 - 25,10 -15,300 - 1500,500
+KRI_MIDDLE,Limestone,Limestone with Shale,164.36,0.02,8 to 200,115-190,1.2-24,1500-2500
+KRI_MIDDLE,Limestone,Limestone/Dolomite,406.43,0.02,8 to 200,115-190,1.2-24,1500-2500
+KRI_MIDDLE,Quartzite,Quartzite,2536.99,0.0175,8 - 15,15 - 60,10 - 50,1000-3000
+KRI_MIDDLE,Schist,Schist,319.4,0.02,35,60,4 - 80,500-2000
+KRI_MIDDLE,Shale,Shale/Shale with Sandstone,2106.87,0.02,upto 100m,24-60,upto 740,1500-3000
+KRI_UPPER,Alluvium,Younger Alluvium (Clay/Silt/Sand/ Calcareous concr,64.13,0.0008,20-60,30-60,2-48*,500-2000
+KRI_UPPER,Basalt,Basic Rocks (Basalt),34001.98,0.02,10-45,60-125,20-180,2000-3500
+KRI_UPPER,Basement Gneissic Complex,Basement Gneissic Complex,12693.97,0.02,Up to 60,-,2-176,500-5500
+KRI_UPPER,Laterite,Laterite / Ferruginous concretions,435.71,0.02,5 -15,2 - 8,4 - 1400,500-2000
+KRI_UPPER,Limestone,Limestone/Dolomite,2708.69,0.02,40-150,40-120,20-180,2000-5000
+KRI_UPPER,Quartzite,Quartzite,24.07,0.0175,15-25,40-75,3 - 27,&gt; 500
+KRI_UPPER,Sandstone,Sandstone/Conglomerate,255.76,0.02,60-80,50-120,30-180,500-700
+KRI_UPPER,Schist,Schist,4203.04,0.02,35,60,4 - 80,500-2000
+KRI_UPPER,Shale,Shale with Limestone,116.6,0.02,upto 50m,15-40,20-600,500-2000
+TUN_LOWER,Alluvium,Younger Alluvium (Clay/Silt/Sand/ Calcareous concr,81.69,0.0008,20-60,30-60,2-48*,500-2000
+TUN_LOWER,Basalt,Basic Rocks (Basalt),372.96,0.015,10-45,60-125,20-180,2000-3500
+TUN_LOWER,Basement Gneissic Complex,Basement Gneissic Complex,31002.96,0.02,Up to 60,-,2-176,500-5500
+TUN_LOWER,Gneiss,Undifferentiated metasedimentaries/ Undifferentiat,776.43,0.02,8-15,20 - 100,12-40,500-750
+TUN_LOWER,Granite,"Acidic Rocks (Pegmatite, Granite, Syenite, Rhyolit",4999.6,0.02,10 -15,15 - 60,2.3 - 12.6,1500-2500
+TUN_LOWER,Laterite,Laterite / Ferruginous concretions,5.97,0.02,5 -15,2 - 8,4 - 1400,500-2000
+TUN_LOWER,Limestone,Limestone with Shale,313.11,0.02,8 to 200,115-190,1.2-24,1500-2500
+TUN_LOWER,Limestone,Limestone/Dolomite,443.34,0.02,40-150,40-120,20-180,2000-5000
+TUN_LOWER,Quartzite,Quartzite,26.02,0.0175,8 - 15,15 - 60,10 - 50,1000-3000
+TUN_LOWER,Sandstone,Sandstone/Conglomerate,100.84,0.02,60-80,50-120,30-180,500-700
+TUN_LOWER,Schist,Schist,3385.01,0.02,35,60,4 - 80,500-2000
+TUN_LOWER,Shale,Shale/Shale with Sandstone,48.54,0.02,upto 100m,24-60,upto 740,1500-3000
+TUN_UPPER,Basalt,Basic Rocks (Basalt),2053.19,0.015,10-45,60-125,20-180,2000-3500
+TUN_UPPER,Basement Gneissic Complex,Basement Gneissic Complex,14287.31,0.02,Up to 60,-,2-176,500-5500
+TUN_UPPER,Laterite,Laterite / Ferruginous concretions,1193.19,0.02,5 -15,2 - 8,4 - 1400,500-2000
+TUN_UPPER,Limestone,Limestone/Dolomite,325.64,0.02,40-150,40-120,20-180,2000-5000
+TUN_UPPER,Sandstone,Sandstone/Conglomerate,75.5,0.02,60-80,50-120,30-180,500-700
+TUN_UPPER,Schist,Schist,10584.58,0.02,35,60,4 - 80,500-2000

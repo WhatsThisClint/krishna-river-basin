@@ -1,0 +1,100 @@
+{
+  "audit_timestamp": "2026-10-17T08:13:12.920785+00:00",
+  "api_base_url": "https://agriculturalunderstanding.googleapis.com/v1",
+  "endpoints_verified": [
+    "lookupLandscapeCaptureDate",
+    "lookupLandscape",
+    "monitorLandscape"
+  ],
+  "s2_cell_level": 13,
+  "total_basin_s2_l13_cells": 202182,
+  "stratified_sample_size": 350,
+  "api_key_present_in_env": false,
+  "subbasin_probes": [
+    {
+      "subbasin_id": "BHI_LOWER",
+      "s2_cell_id": "3235133589716729856",
+      "s2_hex_token": "2ce580dc",
+      "center_lat": 16.8569,
+      "center_lon": 75.7575,
+      "api_key_configured": false,
+      "lookupLandscapeCaptureDate_status": 403,
+      "lookupLandscape_status": 403,
+      "monitorLandscape_status": 403,
+      "api_message": "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API."
+    },
+    {
+      "subbasin_id": "BHI_UPPER",
+      "s2_cell_id": "3235440319101140992",
+      "s2_hex_token": "2ce697d4",
+      "center_lat": 18.382,
+      "center_lon": 75.3375,
+      "api_key_configured": false,
+      "lookupLandscapeCaptureDate_status": 403,
+      "lookupLandscape_status": 403,
+      "monitorLandscape_status": 403,
+      "api_message": "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API."
+    },
+    {
+      "subbasin_id": "KRI_LOWER",
+      "s2_cell_id": "3239715426468364288",
+      "s2_hex_token": "2cf5c804",
+      "center_lat": 17.1801,
+      "center_lon": 79.023,
+      "api_key_configured": false,
+      "lookupLandscapeCaptureDate_status": 403,
+      "lookupLandscape_status": 403,
+      "monitorLandscape_status": 403,
+      "api_message": "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API."
+    },
+    {
+      "subbasin_id": "KRI_MIDDLE",
+      "s2_cell_id": "3238500122522288128",
+      "s2_hex_token": "2cf176b4",
+      "center_lat": 16.7256,
+      "center_lon": 77.847,
+      "api_key_configured": false,
+      "lookupLandscapeCaptureDate_status": 403,
+      "lookupLandscape_status": 403,
+      "monitorLandscape_status": 403,
+      "api_message": "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API."
+    },
+    {
+      "subbasin_id": "KRI_UPPER",
+      "s2_cell_id": "3234040125402906624",
+      "s2_hex_token": "2ce19e5c",
+      "center_lat": 16.9882,
+      "center_lon": 74.5395,
+      "api_key_configured": false,
+      "lookupLandscapeCaptureDate_status": 403,
+      "lookupLandscape_status": 403,
+      "monitorLandscape_status": 403,
+      "api_message": "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API."
+    },
+    {
+      "subbasin_id": "TUN_LOWER",
+      "s2_cell_id": "3232154497321009152",
+      "s2_hex_token": "2cdaeb64",
+      "center_lat": 16.059,
+      "center_lon": 76.902,
+      "api_key_configured": false,
+      "lookupLandscapeCaptureDate_status": 403,
+      "lookupLandscape_status": 403,
+      "monitorLandscape_status": 403,
+      "api_message": "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API."
+    },
+    {
+      "subbasin_id": "TUN_UPPER",
+      "s2_cell_id": "3228180140743720960",
+      "s2_hex_token": "2cccccbc",
+      "center_lat": 14.1097,
+      "center_lon": 75.453,
+      "api_key_configured": false,
+      "lookupLandscapeCaptureDate_status": 403,
+      "lookupLandscape_status": 403,
+      "monitorLandscape_status": 403,
+      "api_message": "Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API."
+    }
+  ],
+  "scientific_fallback_and_triangulation_note": "Live calls to agriculturalunderstanding.googleapis.com return HTTP 403 PERMISSION_DENIED when no ANTHROKRISHI_API_KEY is present in the environment. To preserve full scientific integrity without fabricating field polygons, the pipeline (1) provides the complete S2 Level-13 stratified client and cache ready for key injection, (2) extracts real primary mapped minor irrigation waterbodies/farm ponds/tanks from the India-WRIS District Water Body Atlas (DWA Ph1/Ph2) and Artificial Recharge Structures (ARS), and (3) reconstructs sub-basin agricultural crop areas, cropping intensity, crop transitions, and FAO-56 green/blue crop water consumption from official DES/ICRISAT/CWC/NRSC LULC datasets (2000-01 to 2025-26)."
+}

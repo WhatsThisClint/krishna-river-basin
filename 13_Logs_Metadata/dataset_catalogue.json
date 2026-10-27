@@ -1,0 +1,109 @@
+{
+  "generated_at_utc": "2026-10-17T08:58:50.913204+00:00",
+  "project": "Krishna River Basin \u2014 Autonomous Hydrological Intelligence and Water Accounting System",
+  "basin_code": "CWC_04",
+  "official_cwc_area_km2": 258948.0,
+  "gis_delineated_area_km2": 254746.23,
+  "datasets": [
+    {
+      "id": "DS_01_CWC_BOUNDARIES",
+      "title": "Central Water Commission (CWC) Basin & 7 Sub-Basin Boundaries (Basin Code 04)",
+      "provider": "Central Water Commission / India-WRIS",
+      "type": "Observed / Statutory GIS Boundary",
+      "spatial_resolution": "Vector Polygon (1:50,000)",
+      "temporal_coverage": "Static Canonical Reference",
+      "raw_path": "01_Raw_Data/Spatial_Reference_Links/",
+      "processed_path": "02_Processed_Data/Boundaries/krishna_subbasins_cwc.geojson",
+      "feature_count": 7
+    },
+    {
+      "id": "DS_02_INDIAWRIS_WFS_INFRASTRUCTURE",
+      "title": "India-WRIS Live WFS Hydrological & Water Resource Project Infrastructure Layers",
+      "provider": "NRSC / CWC India-WRIS ArcGIS/WFS Server (arc.indiawris.gov.in)",
+      "type": "Observed / Statutory Infrastructure & Station Inventory",
+      "spatial_resolution": "Vector Point/Line/Polygon",
+      "temporal_coverage": "2000\u20132025",
+      "raw_path": "01_Raw_Data/India_WRIS_WFS/",
+      "processed_path": "02_Processed_Data/Infrastructure_and_Stations/krishna_indiawris_infrastructure_and_stations.gpkg",
+      "feature_counts": {
+        "Riverline_Krishna": 54279,
+        "River_Name_Krishna": 927,
+        "WB_Krishna": 6245,
+        "DWA_Minor_Waterbodies": 17984,
+        "Reservoir_Hydro": 34,
+        "DAM": 905,
+        "BWA_Barrage_Weir_Anicut": 258,
+        "LIFT": 16,
+        "CANAL": 16510,
+        "WRPCOMMAND": 386,
+        "WIMS_Station_1": 5142,
+        "GW_Water_Level_Station": 6571,
+        "WQ_Stations": 2751
+      }
+    },
+    {
+      "id": "DS_03_INDIAWRIS_STATION_TIMESERIES",
+      "title": "India-WRIS Primary Observational Station Time-Series (Reservoirs, CWC Discharge, CGWB Wells, NRSC VIC ET, Rainfall)",
+      "provider": "India-WRIS REST Dataset API (indiawris.gov.in/Dataset/*) + CWC/CGWB/NRSC",
+      "type": "Directly Observed & Agency Assimilated",
+      "temporal_coverage": "2000-01-01 to 2025-12-31",
+      "raw_path": "01_Raw_Data/India_WRIS_TimeSeries/",
+      "processed_path": "02_Processed_Data/India_WRIS/",
+      "record_counts": {
+        "total_primary_records": 380627,
+        "reservoir_storage_records": 178555,
+        "cwc_river_discharge_records": 77928,
+        "cgwb_groundwater_level_records": 38901,
+        "nrsc_vic_et_records": 49865,
+        "cwc_rainfall_records": 35378
+      }
+    },
+    {
+      "id": "DS_04_ERA5_LAND_OPENMETEO",
+      "title": "ERA5-Land Daily Hydro-Meteorological & 4-Layer Soil Moisture Reanalysis (21 Sub-Basin Nodes)",
+      "provider": "ECMWF Copernicus ERA5-Land via Open-Meteo Archive API",
+      "type": "Land-Surface Reanalysis",
+      "spatial_resolution": "0.1\u00b0 (~9 km), 21 representative sub-basin grid points",
+      "temporal_coverage": "2000-01-01 to 2026-09-30 (78,160 daily rows; 321 monthly steps)",
+      "raw_path": "01_Raw_Data/ERA5_OpenMeteo/",
+      "processed_path": "02_Processed_Data/era5_monthly_subbasin.parquet"
+    },
+    {
+      "id": "DS_05_NASA_POWER_AGROCLIMATOLOGY",
+      "title": "NASA POWER Release 2.4 Agroclimatology Monthly Precipitation & Root-Zone Wetness",
+      "provider": "NASA Langley Research Center POWER Project",
+      "type": "Satellite / Assimilated Agroclimatology",
+      "spatial_resolution": "0.5\u00b0 x 0.625\u00b0",
+      "temporal_coverage": "2000-01 to 2025-12 (2,496 monthly sub-basin rows)",
+      "raw_path": "01_Raw_Data/NASA_POWER/",
+      "processed_path": "02_Processed_Data/nasa_power_monthly_subbasin.parquet"
+    },
+    {
+      "id": "DS_06_GLOFAS_RIVER_DISCHARGE",
+      "title": "GloFAS v4.0 Daily River Discharge across 10 Sub-Basin & Mainstem Outlet Stations",
+      "provider": "Copernicus Emergency Management Service (CEMS) / Open-Meteo Flood API",
+      "type": "Hydrological Reanalysis",
+      "spatial_resolution": "0.05\u00b0 (~5 km) routed river network",
+      "temporal_coverage": "2000-01-01 to 2026-09-30 (97,700 daily rows; 3,210 monthly rows)",
+      "raw_path": "01_Raw_Data/GloFAS_Discharge/",
+      "processed_path": "02_Processed_Data/glofas_discharge_monthly.parquet"
+    },
+    {
+      "id": "DS_07_CGWB_MULTI_EPOCH_GW",
+      "title": "CGWB Multi-Epoch Block/Mandal Groundwater Resource Assessments & 817 Borehole Lithologs",
+      "provider": "Central Ground Water Board (CGWB)",
+      "type": "Statutory Hydrogeological Assessment",
+      "temporal_coverage": "Epochs 2011, 2013, 2017, 2020",
+      "processed_path": "02_Processed_Data/Hydrogeology_and_GW/"
+    },
+    {
+      "id": "DS_08_ANTHROKRISHI_S2_L13",
+      "title": "AnthroKrishi / Google Agricultural Understanding API Level-13 S2 Landscape Sample & FAO-56 Accounts",
+      "provider": "Google Research Agricultural Understanding API + S2 Spherical Geometry + DWA Census",
+      "type": "Remotely Sensed Landscape & FAO-56 Crop Water Accounting",
+      "spatial_resolution": "Level-13 S2 Cell (~1.27 km\u00b2); 202,182 population cells; 350 stratified sample cells",
+      "temporal_coverage": "2000\u201301 to 2026\u201327",
+      "processed_path": "02_Processed_Data/Agriculture/krishna_s2_level13_stratified_sample.geojson"
+    }
+  ]
+}

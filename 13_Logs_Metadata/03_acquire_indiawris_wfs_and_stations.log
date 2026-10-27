@@ -1,0 +1,376 @@
+2026-10-17 13:45:41,609 [INFO] Loading CWC Basin boundary from /run/media/clinton/24700DC6700D9FA2/Work_Research/WRIS/Data/Hydrological Layers/Central Water Commission Basin/Central Water Commission Basin.geojson
+2026-10-17 13:45:42,118 [INFO] Loaded Krishna Basin (Basin_Code='04'): Area=258,948 sq.km, Bounds=[73.3413, 13.0995, 81.2115, 19.4098]
+2026-10-17 13:45:42,118 [INFO] ===========================================================================
+2026-10-17 13:45:42,119 [INFO] STARTING PART A: INDIA-WRIS WFS & ARCGIS REST VECTOR ACQUISITION
+2026-10-17 13:45:42,119 [INFO] ===========================================================================
+2026-10-17 13:45:42,119 [INFO] WFS GetCapabilities already cached: Hydrological_Data_WFS_GetCapabilities.xml
+2026-10-17 13:45:42,119 [INFO] WFS GetCapabilities already cached: Water_Resource_Project_Data_WFS_GetCapabilities.xml
+2026-10-17 13:45:42,119 [INFO] WFS GetCapabilities already cached: WIMS_data_WFS_GetCapabilities.xml
+2026-10-17 13:45:43,224 [INFO] [Processed Cache Hit] Riverline_Krishna: raw=54,282, clipped=54,279
+2026-10-17 13:45:43,726 [INFO] [Processed Cache Hit] River_Name_Krishna: raw=927, clipped=927
+2026-10-17 13:45:44,416 [INFO] [Processed Cache Hit] WB_Krishna: raw=6,245, clipped=6,245
+2026-10-17 13:45:44,639 [INFO] [Processed Cache Hit] Reservoir_Hydro: raw=50, clipped=34
+2026-10-17 13:45:44,879 [INFO] Downloading Hydrological_Data/WSHED (Layer 3): target count = 391
+2026-10-17 13:45:46,913 [INFO]   [WSHED] Fetched offset 0 -> +100 features (accumulated 100/391) in 2.03s
+2026-10-17 13:45:48,444 [INFO]   [WSHED] Fetched offset 100 -> +100 features (accumulated 200/391) in 1.53s
+2026-10-17 13:45:50,093 [INFO]   [WSHED] Fetched offset 200 -> +100 features (accumulated 300/391) in 1.65s
+2026-10-17 13:45:51,799 [INFO]   [WSHED] Fetched offset 300 -> +91 features (accumulated 391/391) in 1.71s
+2026-10-17 13:45:53,755 [INFO] Saved raw GeoJSON: Hydrological_Data_WSHED_raw.geojson (391 features, 20.37 MB)
+2026-10-17 13:45:55,602 [INFO] Created 391 records
+2026-10-17 13:45:55,874 [INFO] Created 391 records
+2026-10-17 13:45:56,971 [INFO] Processed WSHED: raw=391 -> krishna_clipped=391 (MultiPolygon, Polygon) in 12.3s
+2026-10-17 13:45:57,054 [INFO] Downloading Water_Resource_Project_Data/DAM (Layer 3): target count = 1,939
+2026-10-17 13:45:57,405 [INFO]   [DAM] Fetched offset 0 -> +1,939 features (accumulated 1,939/1,939) in 0.35s
+2026-10-17 13:45:57,605 [INFO] Saved raw GeoJSON: Water_Resource_Project_Data_DAM_raw.geojson (1,939 features, 1.43 MB)
+2026-10-17 13:45:57,814 [INFO] Created 905 records
+2026-10-17 13:45:58,149 [INFO] Created 905 records
+2026-10-17 13:45:58,899 [INFO] Processed DAM: raw=1,939 -> krishna_clipped=905 (Point) in 1.9s
+2026-10-17 13:45:58,983 [INFO] Downloading Water_Resource_Project_Data/BWA (Layer 1): target count = 456
+2026-10-17 13:45:59,152 [INFO]   [BWA] Fetched offset 0 -> +456 features (accumulated 456/456) in 0.17s
+2026-10-17 13:45:59,200 [INFO] Saved raw GeoJSON: Water_Resource_Project_Data_BWA_raw.geojson (456 features, 0.66 MB)
+2026-10-17 13:45:59,296 [INFO] Created 378 records
+2026-10-17 13:46:00,107 [INFO] Created 378 records
+2026-10-17 13:46:00,671 [INFO] Processed BWA: raw=456 -> krishna_clipped=378 (Point) in 1.8s
+2026-10-17 13:46:00,759 [INFO] Downloading Water_Resource_Project_Data/LIFT (Layer 2): target count = 400
+2026-10-17 13:46:00,911 [INFO]   [LIFT] Fetched offset 0 -> +400 features (accumulated 400/400) in 0.15s
+2026-10-17 13:46:00,947 [INFO] Saved raw GeoJSON: Water_Resource_Project_Data_LIFT_raw.geojson (400 features, 0.20 MB)
+2026-10-17 13:46:01,001 [INFO] Created 266 records
+2026-10-17 13:46:01,113 [INFO] Created 266 records
+2026-10-17 13:46:01,644 [INFO] Processed LIFT: raw=400 -> krishna_clipped=266 (Point) in 1.0s
+2026-10-17 13:46:02,309 [INFO] Downloading Water_Resource_Project_Data/CANAL (Layer 5): target count = 25,616
+2026-10-17 13:46:06,297 [INFO]   [CANAL] Fetched offset 0 -> +5,000 features (accumulated 5,000/25,616) in 3.99s
+2026-10-17 13:46:09,281 [INFO]   [CANAL] Fetched offset 5,000 -> +5,000 features (accumulated 10,000/25,616) in 2.98s
+2026-10-17 13:46:12,335 [INFO]   [CANAL] Fetched offset 10,000 -> +5,000 features (accumulated 15,000/25,616) in 3.04s
+2026-10-17 13:46:16,761 [INFO]   [CANAL] Fetched offset 15,000 -> +5,000 features (accumulated 20,000/25,616) in 4.43s
+2026-10-17 13:46:19,609 [INFO]   [CANAL] Fetched offset 20,000 -> +5,000 features (accumulated 25,000/25,616) in 2.85s
+2026-10-17 13:46:20,525 [INFO]   [CANAL] Fetched offset 25,000 -> +616 features (accumulated 25,616/25,616) in 0.92s
+2026-10-17 13:46:25,866 [INFO] Saved raw GeoJSON: Water_Resource_Project_Data_CANAL_raw.geojson (25,616 features, 59.98 MB)
+2026-10-17 13:46:50,020 [INFO] Created 16,510 records
+2026-10-17 13:46:50,524 [INFO] Created 16,510 records
+2026-10-17 13:46:51,207 [INFO] Processed CANAL: raw=25,616 -> krishna_clipped=16,510 (LineString, MultiLineString) in 49.6s
+2026-10-17 13:46:51,785 [INFO] Downloading Water_Resource_Project_Data/WRPCOMMAND (Layer 7): target count = 724
+2026-10-17 13:46:57,132 [INFO]   [WRPCOMMAND] Fetched offset 0 -> +200 features (accumulated 200/724) in 5.35s
+2026-10-17 13:47:02,058 [INFO]   [WRPCOMMAND] Fetched offset 200 -> +200 features (accumulated 400/724) in 4.93s
+2026-10-17 13:47:05,539 [INFO]   [WRPCOMMAND] Fetched offset 400 -> +200 features (accumulated 600/724) in 3.48s
+2026-10-17 13:47:08,569 [INFO]   [WRPCOMMAND] Fetched offset 600 -> +124 features (accumulated 724/724) in 3.03s
+2026-10-17 13:47:17,748 [INFO] Saved raw GeoJSON: Water_Resource_Project_Data_WRPCOMMAND_raw.geojson (724 features, 49.13 MB)
+2026-10-17 13:47:21,838 [INFO] Created 386 records
+2026-10-17 13:47:22,385 [INFO] Created 386 records
+2026-10-17 13:47:22,964 [INFO] Processed WRPCOMMAND: raw=724 -> krishna_clipped=386 (MultiPolygon, Polygon) in 31.8s
+2026-10-17 13:47:23,161 [INFO] Downloading Water_Resource_Project_Data/CCOMMAND (Layer 8): target count = 746
+2026-10-17 13:47:24,914 [INFO]   [CCOMMAND] Fetched offset 0 -> +250 features (accumulated 250/746) in 1.75s
+2026-10-17 13:47:26,119 [INFO]   [CCOMMAND] Fetched offset 250 -> +250 features (accumulated 500/746) in 1.21s
+2026-10-17 13:47:27,951 [INFO]   [CCOMMAND] Fetched offset 500 -> +246 features (accumulated 746/746) in 1.83s
+2026-10-17 13:47:29,148 [INFO] Saved raw GeoJSON: Water_Resource_Project_Data_CCOMMAND_raw.geojson (746 features, 12.64 MB)
+2026-10-17 13:47:30,576 [INFO] Created 388 records
+2026-10-17 13:47:30,784 [INFO] Created 388 records
+2026-10-17 13:47:31,311 [INFO] Processed CCOMMAND: raw=746 -> krishna_clipped=388 (MultiPolygon, Polygon) in 8.3s
+2026-10-17 13:47:31,382 [INFO] Downloading Water_Resource_Project_Data/PH (Layer 0): target count = 66
+2026-10-17 13:47:31,452 [INFO]   [PH] Fetched offset 0 -> +66 features (accumulated 66/66) in 0.07s
+2026-10-17 13:47:31,457 [INFO] Saved raw GeoJSON: Water_Resource_Project_Data_PH_raw.geojson (66 features, 0.03 MB)
+2026-10-17 13:47:31,495 [INFO] Created 38 records
+2026-10-17 13:47:31,604 [INFO] Created 38 records
+2026-10-17 13:47:32,733 [INFO] Processed PH: raw=66 -> krishna_clipped=38 (Point) in 1.4s
+2026-10-17 13:47:32,883 [INFO] Downloading WIMS_data/WIMS_Station_1 (Layer 5): target count = 11,668
+2026-10-17 13:47:33,609 [INFO]   [WIMS_Station_1] Fetched offset 0 -> +5,000 features (accumulated 5,000/11,668) in 0.73s
+2026-10-17 13:47:34,344 [INFO]   [WIMS_Station_1] Fetched offset 5,000 -> +5,000 features (accumulated 10,000/11,668) in 0.74s
+2026-10-17 13:47:34,644 [INFO]   [WIMS_Station_1] Fetched offset 10,000 -> +1,668 features (accumulated 11,668/11,668) in 0.30s
+2026-10-17 13:47:35,311 [INFO] Saved raw GeoJSON: WIMS_data_WIMS_Station_1_raw.geojson (11,668 features, 9.70 MB)
+2026-10-17 13:47:36,532 [INFO] Created 5,142 records
+2026-10-17 13:47:36,954 [INFO] Created 5,142 records
+2026-10-17 13:47:37,573 [INFO] Processed WIMS_Station_1: raw=11,668 -> krishna_clipped=5,142 (Point) in 4.8s
+2026-10-17 13:47:37,644 [INFO] Downloading WIMS_data/Reservoir_Station (Layer 3): target count = 125
+2026-10-17 13:47:37,744 [INFO]   [Reservoir_Station] Fetched offset 0 -> +125 features (accumulated 125/125) in 0.10s
+2026-10-17 13:47:37,768 [INFO] Saved raw GeoJSON: WIMS_data_Reservoir_Station_raw.geojson (125 features, 0.12 MB)
+2026-10-17 13:47:37,814 [INFO] Created 40 records
+2026-10-17 13:47:37,923 [INFO] Created 40 records
+2026-10-17 13:47:38,434 [INFO] Processed Reservoir_Station: raw=125 -> krishna_clipped=40 (Point) in 0.9s
+2026-10-17 13:47:38,653 [INFO] Downloading WIMS_data/iw_reservoir_polygon (Layer 7): target count = 95
+2026-10-17 13:47:42,886 [INFO]   [iw_reservoir_polygon] Fetched offset 0 -> +95 features (accumulated 95/95) in 4.23s
+2026-10-17 13:47:44,146 [INFO] Saved raw GeoJSON: WIMS_data_iw_reservoir_polygon_raw.geojson (95 features, 13.14 MB)
+2026-10-17 13:47:45,067 [INFO] Created 28 records
+2026-10-17 13:47:45,263 [INFO] Created 28 records
+2026-10-17 13:47:45,794 [INFO] Processed iw_reservoir_polygon: raw=95 -> krishna_clipped=28 (Polygon) in 7.4s
+2026-10-17 13:47:45,896 [INFO] Downloading WIMS_data/wq_stations (Layer 6): target count = 5,927
+2026-10-17 13:47:46,587 [INFO]   [wq_stations] Fetched offset 0 -> +5,000 features (accumulated 5,000/5,927) in 0.69s
+2026-10-17 13:47:46,812 [INFO]   [wq_stations] Fetched offset 5,000 -> +927 features (accumulated 5,927/5,927) in 0.22s
+2026-10-17 13:47:47,176 [INFO] Saved raw GeoJSON: WIMS_data_wq_stations_raw.geojson (5,927 features, 4.94 MB)
+2026-10-17 13:47:47,773 [INFO] Created 2,751 records
+2026-10-17 13:47:47,930 [INFO] Created 2,751 records
+2026-10-17 13:47:48,555 [INFO] Processed wq_stations: raw=5,927 -> krishna_clipped=2,751 (Point) in 2.8s
+2026-10-17 13:47:48,761 [INFO] Downloading WIMS_data/GroundwaterLevel_Station (Layer 1): target count = 14,887
+2026-10-17 13:47:49,448 [INFO]   [GroundwaterLevel_Station] Fetched offset 0 -> +5,000 features (accumulated 5,000/14,887) in 0.69s
+2026-10-17 13:47:50,171 [INFO]   [GroundwaterLevel_Station] Fetched offset 5,000 -> +5,000 features (accumulated 10,000/14,887) in 0.72s
+2026-10-17 13:47:50,883 [INFO]   [GroundwaterLevel_Station] Fetched offset 10,000 -> +4,887 features (accumulated 14,887/14,887) in 0.71s
+2026-10-17 13:47:51,869 [INFO] Saved raw GeoJSON: WIMS_data_GroundwaterLevel_Station_raw.geojson (14,887 features, 12.32 MB)
+2026-10-17 13:47:53,379 [INFO] Created 6,571 records
+2026-10-17 13:47:54,397 [INFO] Created 6,571 records
+2026-10-17 13:47:55,731 [INFO] Processed GroundwaterLevel_Station: raw=14,887 -> krishna_clipped=6,571 (Point) in 7.2s
+2026-10-17 13:47:55,847 [INFO] Downloading WIMS_data/RF_Station (Layer 4): target count = 3,711
+2026-10-17 13:47:57,522 [INFO]   [RF_Station] Fetched offset 0 -> +3,711 features (accumulated 3,711/3,711) in 1.68s
+2026-10-17 13:47:57,787 [INFO] Saved raw GeoJSON: WIMS_data_RF_Station_raw.geojson (3,711 features, 3.23 MB)
+2026-10-17 13:47:58,173 [INFO] Created 1,312 records
+2026-10-17 13:47:58,296 [INFO] Created 1,312 records
+2026-10-17 13:47:58,863 [INFO] Processed RF_Station: raw=3,711 -> krishna_clipped=1,312 (Point) in 3.1s
+2026-10-17 13:47:58,866 [INFO] Completed Part A: 18 vector layers saved to /run/media/clinton/24700DC6700D9FA2/Krishna River Basin/02_Processed_Data/Infrastructure_and_Stations/krishna_indiawris_infrastructure_and_stations.gpkg
+2026-10-17 13:47:58,868 [INFO] ===========================================================================
+2026-10-17 13:47:58,868 [INFO] STARTING PART B: INDIA-WRIS REST TIME-SERIES OBSERVATIONS (2000-2025)
+2026-10-17 13:47:58,868 [INFO] ===========================================================================
+2026-10-17 13:47:58,868 [INFO] Extracting local Excel report: /run/media/clinton/24700DC6700D9FA2/Work_Research/Well_Labs/WRIS/State Wise Reservoir Report from 2020 to 2025.xlsx
+2026-10-17 13:47:58,975 [INFO] Saved local reservoir report (3 state rows).
+2026-10-17 13:47:58,975 [INFO] Acquiring B1: Reservoir Storage Time Series (2000-2025)...
+2026-10-17 13:48:02,374 [INFO]   [Reservoir] Maharashtra/Solapur (CWC) 2000-01-01..2004-12-31: +1,828 records
+2026-10-17 13:48:03,290 [INFO]   [Reservoir] Maharashtra/Solapur (CWC) 2005-01-01..2009-12-31: +1,827 records
+2026-10-17 13:48:03,480 [INFO]   [Reservoir] Maharashtra/Solapur (CWC) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:04,745 [INFO]   [Reservoir] Maharashtra/Solapur (CWC) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:08,054 [INFO]   [Reservoir] Maharashtra/Satara (CWC) 2005-01-01..2009-12-31: +4,000 records
+2026-10-17 13:48:08,422 [INFO]   [Reservoir] Maharashtra/Solapur (CWC) 2020-01-01..2025-03-31: +1,600 records
+2026-10-17 13:48:09,212 [INFO]   [Reservoir] Maharashtra/Satara (CWC) 2015-01-01..2019-12-31: +4,000 records
+2026-10-17 13:48:09,212 [INFO]   [Reservoir] Maharashtra/Satara (CWC) 2000-01-01..2004-12-31: +4,000 records
+2026-10-17 13:48:09,908 [INFO]   [Reservoir] Maharashtra/Satara (CWC) 2020-01-01..2025-03-31: +4,000 records
+2026-10-17 13:48:10,101 [INFO]   [Reservoir] Maharashtra/Satara (CWC) 2010-01-01..2014-12-31: +4,000 records
+2026-10-17 13:48:12,788 [INFO]   [Reservoir] Maharashtra/Kolhapur (CWC) 2000-01-01..2004-12-31: +1,828 records
+2026-10-17 13:48:12,884 [INFO]   [Reservoir] Maharashtra/Pune (CWC) 2000-01-01..2004-12-31: +4,000 records
+2026-10-17 13:48:14,121 [INFO]   [Reservoir] Maharashtra/Pune (CWC) 2010-01-01..2014-12-31: +4,000 records
+2026-10-17 13:48:14,226 [INFO]   [Reservoir] Maharashtra/Pune (CWC) 2005-01-01..2009-12-31: +4,000 records
+2026-10-17 13:48:14,350 [INFO]   [Reservoir] Maharashtra/Kolhapur (CWC) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:14,710 [INFO]   [Reservoir] Maharashtra/Kolhapur (CWC) 2005-01-01..2009-12-31: +1,827 records
+2026-10-17 13:48:15,282 [INFO]   [Reservoir] Maharashtra/Kolhapur (CWC) 2020-01-01..2025-03-31: +1,600 records
+2026-10-17 13:48:15,382 [INFO]   [Reservoir] Maharashtra/Kolhapur (CWC) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:16,641 [INFO]   [Reservoir] Maharashtra/Pune (CWC) 2015-01-01..2019-12-31: +4,000 records
+2026-10-17 13:48:17,948 [INFO]   [Reservoir] Karnataka/Bagalkote (CWC) 2005-01-01..2009-12-31: +1,827 records
+2026-10-17 13:48:18,245 [INFO]   [Reservoir] Maharashtra/Pune (CWC) 2020-01-01..2025-03-31: +4,000 records
+2026-10-17 13:48:19,170 [INFO]   [Reservoir] Karnataka/Bagalkote (CWC) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:19,201 [INFO]   [Reservoir] Karnataka/Bagalkote (CWC) 2000-01-01..2004-12-31: +1,828 records
+2026-10-17 13:48:19,384 [INFO]   [Reservoir] Karnataka/Bagalkote (CWC) 2020-01-01..2025-03-31: +1,573 records
+2026-10-17 13:48:19,548 [INFO]   [Reservoir] Karnataka/Vijayapura (CWC) 2000-01-01..2004-12-31: +1,828 records
+2026-10-17 13:48:19,640 [INFO]   [Reservoir] Karnataka/Bagalkote (CWC) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:20,494 [INFO]   [Reservoir] Karnataka/Vijayapura (CWC) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:20,970 [INFO]   [Reservoir] Karnataka/Vijayapura (CWC) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:22,295 [INFO]   [Reservoir] Karnataka/Vijayapura (CWC) 2005-01-01..2009-12-31: +1,827 records
+2026-10-17 13:48:23,655 [INFO]   [Reservoir] Karnataka/Vijayapura (CWC) 2020-01-01..2025-03-31: +1,600 records
+2026-10-17 13:48:24,128 [INFO]   [Reservoir] Karnataka/Koppal (CWC) 2000-01-01..2004-12-31: +1,828 records
+2026-10-17 13:48:24,669 [INFO]   [Reservoir] Karnataka/Koppal (CWC) 2005-01-01..2009-12-31: +1,827 records
+2026-10-17 13:48:25,634 [INFO]   [Reservoir] Karnataka/Koppal (CWC) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:26,633 [INFO]   [Reservoir] Karnataka/Belagavi (CWC) 2005-01-01..2009-12-31: +3,654 records
+2026-10-17 13:48:26,697 [INFO]   [Reservoir] Karnataka/Koppal (CWC) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:26,825 [INFO]   [Reservoir] Karnataka/Belagavi (CWC) 2010-01-01..2014-12-31: +3,654 records
+2026-10-17 13:48:27,213 [INFO]   [Reservoir] Karnataka/Koppal (CWC) 2020-01-01..2025-03-31: +1,599 records
+2026-10-17 13:48:27,628 [INFO]   [Reservoir] Karnataka/Chikkamagaluru (CWC) 2000-01-01..2004-12-31: +1,828 records
+2026-10-17 13:48:28,057 [INFO]   [Reservoir] Karnataka/Chikkamagaluru (CWC) 2005-01-01..2009-12-31: +1,827 records
+2026-10-17 13:48:28,620 [INFO]   [Reservoir] Karnataka/Belagavi (CWC) 2020-01-01..2025-03-31: +3,200 records
+2026-10-17 13:48:29,058 [INFO]   [Reservoir] Karnataka/Chikkamagaluru (CWC) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:29,824 [INFO]   [Reservoir] Karnataka/Chikkamagaluru (CWC) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:29,959 [INFO]   [Reservoir] Karnataka/Chikkamagaluru (CWC) 2020-01-01..2025-03-31: +1,600 records
+2026-10-17 13:48:29,983 [INFO]   [Reservoir] Karnataka/Chitradurga (CWC) 2000-01-01..2004-12-31: +1,828 records
+2026-10-17 13:48:30,551 [INFO]   [Reservoir] Karnataka/Belagavi (CWC) 2015-01-01..2019-12-31: +3,654 records
+2026-10-17 13:48:30,584 [INFO]   [Reservoir] Karnataka/Belagavi (CWC) 2000-01-01..2004-12-31: +3,656 records
+2026-10-17 13:48:31,087 [INFO]   [Reservoir] Karnataka/Chitradurga (CWC) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:31,585 [INFO]   [Reservoir] Karnataka/Chitradurga (CWC) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:31,601 [INFO]   [Reservoir] Karnataka/Chitradurga (CWC) 2020-01-01..2025-03-31: +1,599 records
+2026-10-17 13:48:31,836 [INFO]   [Reservoir] Telangana/Jogulamba Gadwal (CWC) 2020-01-01..2025-03-31: +43 records
+2026-10-17 13:48:31,924 [INFO]   [Reservoir] Karnataka/Chitradurga (CWC) 2005-01-01..2009-12-31: +1,827 records
+2026-10-17 13:48:33,011 [INFO]   [Reservoir] Telangana/Suryapet (APWRIMS) 2005-01-01..2009-12-31: +366 records
+2026-10-17 13:48:33,972 [INFO]   [Reservoir] Telangana/Nalgonda (CWC) 2005-01-01..2009-12-31: +1,827 records
+2026-10-17 13:48:34,232 [INFO]   [Reservoir] Telangana/Nalgonda (CWC) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:34,470 [INFO]   [Reservoir] Telangana/Nalgonda (CWC) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:34,721 [INFO]   [Reservoir] Telangana/Nagarkurnool (APWRIMS) 2005-01-01..2009-12-31: +366 records
+2026-10-17 13:48:34,873 [INFO]   [Reservoir] Telangana/Suryapet (APWRIMS) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:35,079 [INFO]   [Reservoir] Telangana/Suryapet (APWRIMS) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:35,086 [INFO]   [Reservoir] Telangana/Suryapet (APWRIMS) 2020-01-01..2025-03-31: +1,913 records
+2026-10-17 13:48:35,091 [INFO]   [Reservoir] Telangana/Nalgonda (CWC) 2000-01-01..2004-12-31: +1,828 records
+2026-10-17 13:48:36,502 [INFO]   [Reservoir] Telangana/Nalgonda (CWC) 2020-01-01..2025-03-31: +1,600 records
+2026-10-17 13:48:37,581 [INFO]   [Reservoir] Telangana/Nagarkurnool (APWRIMS) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:37,723 [INFO]   [Reservoir] Andhra Pradesh/Kurnool (CWC) 2005-01-01..2009-12-31: +1,827 records
+2026-10-17 13:48:37,963 [INFO]   [Reservoir] Telangana/Nagarkurnool (APWRIMS) 2020-01-01..2025-03-31: +1,911 records
+2026-10-17 13:48:37,997 [INFO]   [Reservoir] Telangana/Nagarkurnool (APWRIMS) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:38,034 [INFO]   [Reservoir] Andhra Pradesh/Kurnool (CWC) 2010-01-01..2014-12-31: +1,827 records
+2026-10-17 13:48:38,105 [INFO]   [Reservoir] Andhra Pradesh/Kurnool (CWC) 2020-01-01..2025-03-31: +1,600 records
+2026-10-17 13:48:38,227 [INFO]   [Reservoir] Andhra Pradesh/Kurnool (CWC) 2015-01-01..2019-12-31: +1,827 records
+2026-10-17 13:48:39,346 [INFO]   [Reservoir] Andhra Pradesh/Kurnool (CWC) 2000-01-01..2004-12-31: +1,828 records
+2026-10-17 13:48:41,067 [INFO]   [Reservoir] Andhra Pradesh/Krishna (APWRIMS) 2005-01-01..2009-12-31: +1,098 records
+2026-10-17 13:48:42,311 [INFO]   [Reservoir] Andhra Pradesh/Kurnool (APWRIMS) 2005-01-01..2009-12-31: +3,660 records
+2026-10-17 13:48:44,004 [INFO]   [Reservoir] Andhra Pradesh/Kurnool (APWRIMS) 2010-01-01..2014-12-31: +4,000 records
+2026-10-17 13:48:44,400 [INFO]   [Reservoir] Andhra Pradesh/Kurnool (APWRIMS) 2020-01-01..2025-03-31: +4,000 records
+2026-10-17 13:48:44,775 [INFO]   [Reservoir] Andhra Pradesh/Krishna (APWRIMS) 2010-01-01..2014-12-31: +4,000 records
+2026-10-17 13:48:44,789 [INFO]   [Reservoir] Andhra Pradesh/Krishna (APWRIMS) 2020-01-01..2025-03-31: +4,000 records
+2026-10-17 13:48:44,853 [INFO]   [Reservoir] Andhra Pradesh/Krishna (APWRIMS) 2015-01-01..2019-12-31: +4,000 records
+2026-10-17 13:48:44,999 [INFO]   [Reservoir] Andhra Pradesh/Kurnool (APWRIMS) 2015-01-01..2019-12-31: +4,000 records
+2026-10-17 13:48:47,012 [INFO] Saved Reservoir Time Series: 178,555 observations across 36 reservoirs.
+2026-10-17 13:48:47,012 [INFO] Acquiring B2: CWC River Water Discharge Time Series...
+2026-10-17 13:48:59,756 [INFO]   [Discharge] Maharashtra/Sangli 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:48:59,961 [INFO]   [Discharge] Maharashtra/Satara 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:48:59,964 [INFO]   [Discharge] Maharashtra/Solapur 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:00,328 [INFO]   [Discharge] Maharashtra/Pune 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:00,674 [INFO]   [Discharge] Maharashtra/Satara 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:00,695 [INFO]   [Discharge] Maharashtra/Pune 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:00,808 [INFO]   [Discharge] Maharashtra/Kolhapur 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:01,734 [INFO]   [Discharge] Maharashtra/Solapur 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:04,517 [INFO]   [Discharge] Maharashtra/Kolhapur 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:12,205 [INFO]   [Discharge] Maharashtra/Sangli 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:13,180 [INFO]   [Discharge] Karnataka/Bagalkote 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:13,277 [INFO]   [Discharge] Karnataka/Belgaum 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:13,748 [INFO]   [Discharge] Karnataka/Raichur 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:13,761 [INFO]   [Discharge] Karnataka/Bijapur 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:14,898 [INFO]   [Discharge] Karnataka/Bijapur 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:14,910 [INFO]   [Discharge] Karnataka/Belgaum 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:15,255 [INFO]   [Discharge] Karnataka/Bagalkote 2005-01-01..2014-12-31: +1,928 records
+2026-10-17 13:49:16,587 [INFO]   [Discharge] Karnataka/Raichur 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:19,024 [INFO]   [Discharge] Karnataka/Ballari 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:26,194 [INFO]   [Discharge] Karnataka/Ballari 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:26,913 [INFO]   [Discharge] Karnataka/Davanagere 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:26,936 [INFO]   [Discharge] Karnataka/Davanagere 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:26,969 [INFO]   [Discharge] Karnataka/Shivamogga 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:27,764 [INFO]   [Discharge] Karnataka/Kalaburagi 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:27,766 [INFO]   [Discharge] Karnataka/Shivamogga 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:28,309 [INFO]   [Discharge] Karnataka/Kalaburagi 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:30,256 [INFO]   [Discharge] Karnataka/Yadgir 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:31,169 [INFO]   [Discharge] Karnataka/Yadgir 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:32,036 [INFO]   [Discharge] Telangana/Nalgonda 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:38,077 [INFO]   [Discharge] Telangana/Suryapet 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:38,298 [INFO]   [Discharge] Telangana/Nalgonda 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:38,833 [INFO]   [Discharge] Telangana/Suryapet 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:39,661 [INFO]   [Discharge] Telangana/Khammam 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:39,671 [INFO]   [Discharge] Andhra Pradesh/Kurnool 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:41,522 [INFO]   [Discharge] Telangana/Khammam 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:41,955 [INFO]   [Discharge] Andhra Pradesh/Kurnool 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:42,733 [INFO]   [Discharge] Andhra Pradesh/Krishna 2005-01-01..2014-12-31: +2,000 records
+2026-10-17 13:49:43,459 [INFO]   [Discharge] Andhra Pradesh/Krishna 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:49,859 [INFO]   [Discharge] Andhra Pradesh/Guntur 2015-01-01..2025-03-31: +2,000 records
+2026-10-17 13:49:52,232 [INFO] Saved CWC River Discharge: 77,928 observations across 30 stations.
+2026-10-17 13:49:52,232 [INFO] Acquiring B3: CGWB Ground Water Level Time Series...
+2026-10-17 13:49:59,957 [INFO]   [GroundWater] Maharashtra/Satara 2021-01-01..2025-03-31: +5 records
+2026-10-17 13:50:00,084 [INFO]   [GroundWater] Maharashtra/Satara 2015-01-01..2020-12-31: +8 records
+2026-10-17 13:50:00,139 [INFO]   [GroundWater] Maharashtra/Pune 2015-01-01..2020-12-31: +902 records
+2026-10-17 13:50:00,363 [INFO]   [GroundWater] Maharashtra/Sangli 2021-01-01..2025-03-31: +352 records
+2026-10-17 13:50:00,494 [INFO]   [GroundWater] Maharashtra/Kolhapur 2015-01-01..2020-12-31: +739 records
+2026-10-17 13:50:00,539 [INFO]   [GroundWater] Maharashtra/Sangli 2015-01-01..2020-12-31: +755 records
+2026-10-17 13:50:02,212 [INFO]   [GroundWater] Maharashtra/Kolhapur 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:02,215 [INFO]   [GroundWater] Maharashtra/Solapur 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:02,976 [INFO]   [GroundWater] Maharashtra/Solapur 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:07,459 [INFO]   [GroundWater] Maharashtra/Pune 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:08,406 [INFO]   [GroundWater] Karnataka/Bagalkote 2015-01-01..2020-12-31: +643 records
+2026-10-17 13:50:09,758 [INFO]   [GroundWater] Karnataka/Bagalkote 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:09,822 [INFO]   [GroundWater] Karnataka/Belgaum 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:10,158 [INFO]   [GroundWater] Karnataka/Belgaum 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:10,232 [INFO]   [GroundWater] Karnataka/Bijapur 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:12,115 [INFO]   [GroundWater] Karnataka/Raichur 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:12,311 [INFO]   [GroundWater] Karnataka/Raichur 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:12,617 [INFO]   [GroundWater] Karnataka/Koppal 2015-01-01..2020-12-31: +707 records
+2026-10-17 13:50:13,004 [INFO]   [GroundWater] Karnataka/Bijapur 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:16,197 [INFO]   [GroundWater] Karnataka/Ballari 2015-01-01..2020-12-31: +790 records
+2026-10-17 13:50:17,389 [INFO]   [GroundWater] Karnataka/Koppal 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:19,726 [INFO]   [GroundWater] Karnataka/Davanagere 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:19,757 [INFO]   [GroundWater] Karnataka/Ballari 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:19,760 [INFO]   [GroundWater] Karnataka/Davanagere 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:20,281 [INFO]   [GroundWater] Karnataka/Shivamogga 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:20,735 [INFO]   [GroundWater] Karnataka/Kalaburagi 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:20,994 [INFO]   [GroundWater] Karnataka/Shivamogga 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:22,052 [INFO]   [GroundWater] Karnataka/Kalaburagi 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:27,675 [INFO]   [GroundWater] Telangana/Mahbubnagar 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:27,862 [INFO]   [GroundWater] Karnataka/Yadgir 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:29,495 [INFO]   [GroundWater] Telangana/Nalgonda 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:29,882 [INFO]   [GroundWater] Telangana/Mahbubnagar 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:30,015 [INFO]   [GroundWater] Telangana/Khammam 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:30,079 [INFO]   [GroundWater] Telangana/Nalgonda 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:30,522 [INFO]   [GroundWater] Telangana/Ranga Reddy 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:31,794 [INFO]   [GroundWater] Telangana/Khammam 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:32,286 [INFO]   [GroundWater] Andhra Pradesh/Kurnool 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:32,298 [INFO]   [GroundWater] Telangana/Ranga Reddy 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:37,602 [INFO]   [GroundWater] Andhra Pradesh/Kurnool 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:38,890 [INFO]   [GroundWater] Andhra Pradesh/Krishna 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:39,386 [INFO]   [GroundWater] Andhra Pradesh/Guntur 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:39,844 [INFO]   [GroundWater] Andhra Pradesh/Guntur 2021-01-01..2025-03-31: +1,000 records
+2026-10-17 13:50:39,986 [INFO]   [GroundWater] Andhra Pradesh/Krishna 2015-01-01..2020-12-31: +1,000 records
+2026-10-17 13:50:41,200 [INFO] Saved CGWB Ground Water Level: 38,901 observations across 1224 wells in 22 districts.
+2026-10-17 13:50:41,200 [INFO] Acquiring B4: NRSC VIC Model Evapotranspiration Time Series...
+2026-10-17 13:50:42,444 [INFO]   [EvapoTranspiration] Maharashtra/Kolhapur 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:42,446 [INFO]   [EvapoTranspiration] Maharashtra/Satara 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:42,608 [INFO]   [EvapoTranspiration] Maharashtra/Pune 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:42,816 [INFO]   [EvapoTranspiration] Maharashtra/Solapur 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:43,639 [INFO]   [EvapoTranspiration] Maharashtra/Sangli 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:43,641 [INFO]   [EvapoTranspiration] Karnataka/Belagavi 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:43,919 [INFO]   [EvapoTranspiration] Karnataka/Bagalkote 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:44,046 [INFO]   [EvapoTranspiration] Maharashtra/Satara 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:44,066 [INFO]   [EvapoTranspiration] Maharashtra/Sangli 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:44,086 [INFO]   [EvapoTranspiration] Maharashtra/Kolhapur 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:44,090 [INFO]   [EvapoTranspiration] Maharashtra/Solapur 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:44,224 [INFO]   [EvapoTranspiration] Maharashtra/Pune 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:45,144 [INFO]   [EvapoTranspiration] Karnataka/Raichur 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:45,207 [INFO]   [EvapoTranspiration] Karnataka/Belagavi 2021-01-01..2025-03-31: +1,483 records
+2026-10-17 13:50:45,352 [INFO]   [EvapoTranspiration] Karnataka/Koppal 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:45,412 [INFO]   [EvapoTranspiration] Karnataka/Ballari 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:46,227 [INFO]   [EvapoTranspiration] Karnataka/Vijayapura 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:46,405 [INFO]   [EvapoTranspiration] Karnataka/Bagalkote 2021-01-01..2025-03-31: +1,483 records
+2026-10-17 13:50:46,414 [INFO]   [EvapoTranspiration] Karnataka/Shivamogga 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:46,453 [INFO]   [EvapoTranspiration] Karnataka/Vijayapura 2021-01-01..2025-03-31: +1,483 records
+2026-10-17 13:50:46,576 [INFO]   [EvapoTranspiration] Karnataka/Kalaburagi 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:46,924 [INFO]   [EvapoTranspiration] Karnataka/Koppal 2021-01-01..2025-03-31: +1,483 records
+2026-10-17 13:50:46,927 [INFO]   [EvapoTranspiration] Karnataka/Raichur 2021-01-01..2025-03-31: +1,483 records
+2026-10-17 13:50:47,054 [INFO]   [EvapoTranspiration] Karnataka/Ballari 2021-01-01..2025-03-31: +1,484 records
+2026-10-17 13:50:47,432 [INFO]   [EvapoTranspiration] Karnataka/Yadgir 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:47,659 [INFO]   [EvapoTranspiration] Telangana/Mahabubnagar 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:47,781 [INFO]   [EvapoTranspiration] Telangana/Nalgonda 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:48,053 [INFO]   [EvapoTranspiration] Karnataka/Shivamogga 2021-01-01..2025-03-31: +1,484 records
+2026-10-17 13:50:48,199 [INFO]   [EvapoTranspiration] Telangana/Khammam 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:48,205 [INFO]   [EvapoTranspiration] Karnataka/Kalaburagi 2021-01-01..2025-03-31: +1,483 records
+2026-10-17 13:50:48,660 [INFO]   [EvapoTranspiration] Telangana/Ranga Reddy 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:48,989 [INFO]   [EvapoTranspiration] Andhra Pradesh/Kurnool 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:49,261 [INFO]   [EvapoTranspiration] Telangana/Mahabubnagar 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:49,407 [INFO]   [EvapoTranspiration] Andhra Pradesh/Krishna 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:49,712 [INFO]   [EvapoTranspiration] Karnataka/Yadgir 2021-01-01..2025-03-31: +1,483 records
+2026-10-17 13:50:49,815 [INFO]   [EvapoTranspiration] Telangana/Khammam 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:49,924 [INFO]   [EvapoTranspiration] Andhra Pradesh/Guntur 2015-01-01..2020-12-31: +893 records
+2026-10-17 13:50:50,829 [INFO]   [EvapoTranspiration] Telangana/Ranga Reddy 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:50,931 [INFO]   [EvapoTranspiration] Andhra Pradesh/Kurnool 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:50,985 [INFO]   [EvapoTranspiration] Andhra Pradesh/Krishna 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:51,118 [INFO]   [EvapoTranspiration] Telangana/Nalgonda 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:51,802 [INFO]   [EvapoTranspiration] Andhra Pradesh/Guntur 2021-01-01..2025-03-31: +1,482 records
+2026-10-17 13:50:52,203 [INFO] Saved NRSC VIC Model ET: 49,865 daily district records across 21 districts.
+2026-10-17 13:50:52,203 [INFO] Acquiring B5: CWC Rainfall Station Observations...
+2026-10-17 13:51:01,998 [INFO]   [RainFall CWC] Maharashtra/Pune 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:02,344 [INFO]   [RainFall CWC] Maharashtra/Pune 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:02,558 [INFO]   [RainFall CWC] Maharashtra/Sangli 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:02,561 [INFO]   [RainFall CWC] Maharashtra/Satara 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:02,565 [INFO]   [RainFall CWC] Maharashtra/Kolhapur 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:02,578 [INFO]   [RainFall CWC] Maharashtra/Sangli 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:02,788 [INFO]   [RainFall CWC] Maharashtra/Kolhapur 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:02,834 [INFO]   [RainFall CWC] Maharashtra/Satara 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:02,992 [INFO]   [RainFall CWC] Maharashtra/Solapur 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:09,009 [INFO]   [RainFall CWC] Maharashtra/Solapur 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:11,463 [INFO]   [RainFall CWC] Karnataka/Belgaum 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:12,014 [INFO]   [RainFall CWC] Karnataka/Belgaum 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:12,737 [INFO]   [RainFall CWC] Karnataka/Bijapur 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:12,769 [INFO]   [RainFall CWC] Karnataka/Bijapur 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:13,105 [INFO]   [RainFall CWC] Karnataka/Bagalkote 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:13,269 [INFO]   [RainFall CWC] Karnataka/Raichur 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:13,471 [INFO]   [RainFall CWC] Karnataka/Bagalkote 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:13,710 [INFO]   [RainFall CWC] Karnataka/Ballari 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:16,550 [INFO]   [RainFall CWC] Karnataka/Raichur 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:22,031 [INFO]   [RainFall CWC] Karnataka/Davanagere 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:22,121 [INFO]   [RainFall CWC] Karnataka/Ballari 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:22,977 [INFO]   [RainFall CWC] Karnataka/Shivamogga 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:23,208 [INFO]   [RainFall CWC] Karnataka/Shivamogga 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:23,233 [INFO]   [RainFall CWC] Karnataka/Davanagere 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:23,566 [INFO]   [RainFall CWC] Karnataka/Kalaburagi 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:24,102 [INFO]   [RainFall CWC] Karnataka/Yadgir 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:24,137 [INFO]   [RainFall CWC] Karnataka/Yadgir 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:24,163 [INFO]   [RainFall CWC] Karnataka/Kalaburagi 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:30,353 [INFO]   [RainFall CWC] Telangana/Mahbubnagar 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:31,356 [INFO]   [RainFall CWC] Telangana/Mahbubnagar 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:32,713 [INFO]   [RainFall CWC] Telangana/Nalgonda 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:33,505 [INFO]   [RainFall CWC] Telangana/Khammam 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:33,523 [INFO]   [RainFall CWC] Telangana/Ranga Reddy 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:33,565 [INFO]   [RainFall CWC] Telangana/Khammam 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:34,109 [INFO]   [RainFall CWC] Telangana/Nalgonda 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:35,494 [INFO]   [RainFall CWC] Andhra Pradesh/Kurnool 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:35,650 [INFO]   [RainFall CWC] Andhra Pradesh/Kurnool 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:37,802 [INFO]   [RainFall CWC] Telangana/Ranga Reddy 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:39,568 [INFO]   [RainFall CWC] Andhra Pradesh/Guntur 2018-01-01..2021-12-31: +835 records
+2026-10-17 13:51:42,209 [INFO]   [RainFall CWC] Andhra Pradesh/Guntur 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:42,520 [INFO]   [RainFall CWC] Andhra Pradesh/Krishna 2018-01-01..2021-12-31: +1,000 records
+2026-10-17 13:51:42,724 [INFO]   [RainFall CWC] Andhra Pradesh/Krishna 2022-01-01..2025-03-31: +1,000 records
+2026-10-17 13:51:43,896 [INFO] Saved CWC Rainfall Observations: 35,378 observations across 32 stations.
+2026-10-17 13:51:43,977 [INFO] ===========================================================================
+2026-10-17 13:51:43,977 [INFO] PIPELINE COMPLETE in 362.4s! Manifest: /run/media/clinton/24700DC6700D9FA2/Krishna River Basin/13_Logs_Metadata/03_indiawris_wfs_and_stations_manifest.json
+2026-10-17 13:51:43,977 [INFO] ===========================================================================

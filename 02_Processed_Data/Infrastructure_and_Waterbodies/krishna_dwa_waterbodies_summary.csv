@@ -1,0 +1,684 @@
+subbasin_id,state,waterbody_,count,total_gis_area_ha,total_waterspread_ha,total_storage_capacity_m3,mean_apr22_ha,mean_nov22_ha,mean_apr23_ha,mean_nov23_ha
+BHI_LOWER,KA,Aheri-Jumbagi,1,74.67288493,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Babaleshwara Reservoir,1,61.52223941,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Bharatagi Reservoir,1,73.37000325,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Bhutanalkere,1,194.68720048,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Bommanahalli Reservoir,1,75.38316149,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Halyaranal Tank,1,32.11024809,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Hanajagi Reservoir,1,82.49549972,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Hanchinal Reservoir,1,75.06497823,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Hunashihal Kere,1,28.83004511,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Kadlewadi Reservoir,1,68.04929985,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Kundaragunda Kere,1,20.08642595,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Kuvalgi Aheri,1,44.45589672,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Makhanpur Reservoir,1,94.73050861,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Nagathan Reservoir,1,105.51020919,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Ramanahalli Reservoir,1,441.70007112,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,KA,Tadavalga Reservoir,1,71.42021461,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Aheri-Jumbagi,1,74.67288493,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Amarja Dam,1,674.92939011,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Babaleshwara Reservoir,1,61.52223941,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Basaveswara Kere,1,70.92299485,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Beeranahalli Tank,1,79.99289864,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Bennithora Dam,1,2140.70068288,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Bharatagi Reservoir,1,73.37000325,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Bhosgs Kere,1,224.32102224,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Bhutanalkere,1,194.68720048,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Bommanahalli Reservoir,1,75.38316149,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Chandrampalli Dam,1,358.9123345,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Changliar Tank,1,36.01743161,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Chikkalingadalli Reservoir,1,69.7646972,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Chikkanagaon Tank,1,18.06160598,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Dinshi Tank,1,17.37315198,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Gandorinala Dam,1,701.61873345,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Gobbur Tank,1,148.25146631,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Halyaranal Tank,1,32.11024809,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Hanajagi Reservoir,1,82.49549972,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Hanchinal Reservoir,1,75.06497823,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Hunashihal Kere,1,28.83004511,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Kadlewadi Reservoir,1,68.04929985,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Kodli-Allapur,1,95.77511025,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Kundaragunda Kere,1,20.08642595,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Kuvalgi Aheri,1,44.45589672,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Lower Mullamari Dam,1,959.07456721,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Makhanpur Reservoir,1,94.73050861,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Nagathan Reservoir,1,105.51020919,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Ramanahalli Reservoir,1,441.70007112,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Tadavalga Reservoir,1,71.42021461,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Upper Mullamari Dam,1,330.08543396,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Karnataka,Vaijapur Kere,1,42.96294697,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Achler,1,16.31992666,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Aliyabad  St,1,52.85039537,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Alur,1,35.30943999,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Arli,1,115.93887991,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Benitura,1,351.39042523,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Bhosga Dam,1,39.06497116,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Bhurikavathe,1,40.47071633,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Borgaon,1,60.71974408,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Bori,1,495.91567279,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Chikkehalli,1,27.00818449,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Chiumberga,1,102.3781117,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Dhubdhubi,1,209.13152882,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Diggi,1,18.0897411,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Dogari,1,36.66504919,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Galorgi,1,48.92363932,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Halchincholi,1,72.23005227,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Hanamgaon,1,96.74360922,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Hangarga,1,58.21833991,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Hanjagi,1,52.91041919,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Harni,1,317.40236479,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Hipparga,1,73.33458416,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Horti,1,38.84937837,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Itkal Reservoir,1,13.84924672,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Jakapur,1,284.16789788,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Jalkot St,1,160.09253376,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Kazikanbas,1,46.9209622,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Kesarjawada,1,42.40755721,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Khandala,2,113.47594067,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Koragaonwadi Reservoir,1,51.2898594,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Koregaon,1,129.01938365,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Kunsawali,1,26.08488332,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Kurnur,1,523.82729141,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Naldurg Barrage-1,1,19.08673904,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Palasnilgaon,1,70.44135742,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Rampur,1,105.15569875,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Shirvalwadi,1,69.16661032,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Sindgaon,1,22.98714757,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_LOWER,Maharashtra,Turori,1,188.94145954,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,KA,Gundwan At Site- I Reservoir,1,88.87604891,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,KA,Gundwan At Site- Ii,1,74.1643492,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,KA,Jigajinagi Reservoir,1,144.400467,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Karnataka,Gundwan At Site- I Reservoir,1,88.87604891,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Karnataka,Gundwan At Site- Ii,1,74.1643492,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Karnataka,Jigajinagi Reservoir,1,144.400467,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Adale,1,22.87833487,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Alegaonpaga,1,33.39081863,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Ambegaon,1,29.05650362,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Andra,1,699.17059423,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Arala Kalmodi Reservoir,1,97.11619352,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Ballalwadi,1,23.38689447,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Bhama Asakhed,1,1565.97181254,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Bhandalwadi,1,128.00240288,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Bhatghar,1,3453.21709019,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Bhode,1,7.00957811,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Bhongwali,1,30.3702404,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Bhopgaon Reservoir,1,1.17126054,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Bhugaon,1,29.86724709,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Bopgaon  (Raita Project),1,4.49123818,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Chaskaman,1,1637.38355512,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Chilewadi,1,91.30462145,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Chinchwad,2,30.62081603,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Dahiwadi,1,35.38355395,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Dhamari Reservoir,1,22.20240499,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Dimbhe,1,1692.82811246,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Dipanjan Lake,1,6.3567385,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Divale Reservoir,1,30.57803389,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Gangaldara,1,13.46608726,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Garade,1,30.97798987,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Ghagargaon,1,24.07146861,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Ghod,1,2248.59022842,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Ghorvadi,1,25.83363828,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Gohe,1,8.88449591,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Gunjwani,1,593.32317074,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Hadashi-I,1,40.10232572,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Hadashi-Ii,1,12.78541714,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Jadhavwadi,1,124.24270319,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Jalgaonsupe,1,24.23688079,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Jiregaon,1,43.84961287,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Kadus,1,50.28830603,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Kasarsai,1,161.77129845,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Khadakwasla,1,1004.32627576,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Khamboli,1,21.59690738,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Kolgaondolas,1,39.77479746,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Kondhwal,1,3.30046642,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Kundali,1,7.10261375,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Lonavala,1,249.03272297,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Madanwadi,1,124.6965416,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Mahakoshi,1,35.03379513,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Mahur,1,43.96236025,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Malad,1,35.25412713,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Malawandi,1,51.69857691,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Manikdoh,1,1376.86907179,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Marnewadi,1,10.54310299,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Matoba,1,183.25247105,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Motewadi,1,37.50811505,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Mulshi,1,4142.21208353,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Naigaon Deogaon Reservoir,1,18.62394438,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Nazare,1,334.67519038,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Nimgaon Mahalungi,1,33.77313447,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Niradevghar,1,1289.39081636,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Oturvaghadara,1,13.37467579,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Palasdeo,1,60.9189684,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Parunde,1,8.5086575,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Pawana,1,2353.48360469,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Pilanwadi Reservoir,1,31.52625126,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Pimpalgaon Joge,1,2333.97008353,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Pimpoli,1,28.49449166,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Pingori,1,15.30973857,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Piserve Reservoir,2,65.57284229999999,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Pondewadi,1,43.36001182,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Pusane,1,32.0775388,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Ramjiwadi,1,29.3590613,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Rihe,1,33.97203824,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Salter,1,13.73557427,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Shere,1,4.76312595,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Shetfal,1,346.32673928,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Shirsufal,1,274.30189312,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Shirvata,1,1206.1812672,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Tanajisagar,1,1444.34008396,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Tarangawadi,1,40.67436811,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Temghar,1,441.99700182,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Thitewadi,1,122.77274483,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Thokarwadi,1,2537.92933368,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Ujjani,1,27241.5153478,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Urwade,1,24.52232514,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Utchil,1,56.72232999,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Vadiwale,1,450.22390264,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Varkute,1,46.28022579,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Varve,1,13.12929283,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Vir,1,2208.12828419,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Vir Baji Pasalkar,1,1997.48471248,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Vir Nalla Reservoir,1,47.21007103,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Visakhar,1,31.69167365,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Wadaj,1,390.2652485,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Wafgaon,1,36.79448232,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Wagajwadi Reservoir,1,13.10752824,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Wakhari,1,8.65439183,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Waki,1,92.8280655,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Walen,1,22.56187897,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Walwan,1,568.91527699,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Yedgaon,1,1140.46787042,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,MH,Yenere,1,25.7014089,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Achakdani,1,31.87514892,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Ambi,1,35.65066878,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Anala,1,49.25710289,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Anandwadi,1,8.93401157,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Arsoli,1,134.59221778,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Ashti,1,725.27847939,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Ashti (Nimgaon Choba),1,189.25935775,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Babhulgaon,1,158.44868789,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Bagalwadi,1,31.72268631,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Bandgarwadi,1,3.78004259,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Banganga,1,98.13888912,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Belgaon,2,82.20291440999999,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Bharti,1,16.00030078,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Bhilwani,1,1.88177406,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Bhose,1,22.75068503,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Bhudihal,1,553.34731054,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Brahmangaon,1,31.28033874,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Chandani,1,582.10855657,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Chare,1,33.89572871,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Charkali,1,46.47249146,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Chikhalgi,1,199.66729991,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Chincholi,1,68.24180392,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Darfal Bb Reservoir,1,91.465295,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Dongargaon Reservoir,1,59.56632361,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Dudhalwadi,1,2.81560062,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Ekrukh,1,1527.31424604,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Fondshiras,1,103.07981258,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Gaosud,1,29.65912347,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Ghatane  Barrage,1,5.49855535,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Gheradi,1,100.63912867,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Girzani,1,45.48702089,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Goradwadi Reservoir,1,5.3866852,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Gormala,1,22.07755144,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Gormale,1,44.13404959,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Hangargi,1,53.24566816,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Hingani,2,610.4522892599999,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Hotagi,1,213.79835196,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Huljanti,1,28.39936722,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Incharna,1,51.45768072,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Jamb,1,51.1775183,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Jawak,1,23.13408138,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Jawalgaon,1,747.53748735,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Jojali,1,36.50251881,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kada,1,221.62645212,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kadi,1,147.68243776,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kalambwadi,1,9.29462945,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kambali,1,107.35589948,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kamtha,1,34.01082312,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kari,1,42.4662108,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Karunde,1,74.86761218,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kategaon,1,61.62418445,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kel Talav,1,50.66506243,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Khandeshar,1,175.09032656,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Khasapur,1,383.5881907,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Khuntephal (Poondy),2,42.16040871,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kini,1,37.71536138,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kondej,1,58.19456961,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Koregaon (Solapur),1,75.44999784,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kumbhej,1,47.96642833,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Kumbhephal,1,7.70181556,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Loni Reservoir,1,27.72069994,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Malkapur,1,12.25096127,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Mamdapur,1,63.46360873,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Mandave,1,37.37015748,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Mangi,1,564.446015,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Mankarnika,1,3.01175418,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Maroli Reservoir,1,20.74947916,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Masla,1,35.23397974,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Matkuli,1,47.54543623,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Mehakari,1,311.93044561,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Mhaiswadi Reservoir,1,84.35418082,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Mugaon,1,27.29677518,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Nandgaon,1,29.83223593,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Nerle,1,103.63242096,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Nimgaon,2,246.504935,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Pandhari,1,16.46549039,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Parewadi,1,118.50854277,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Parite,1,24.1692283,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Pathari,1,244.00679326,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Pathrud,1,36.60856801,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Pimpalgaon,1,360.62691794,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Pimpla,1,22.96089081,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Pohner,1,24.43887495,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Pokharapur,1,46.57252707,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Raghuchiwadi,1,40.52282054,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Rajuri Reservoir,1,42.76674383,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Ramganga Reservoir,2,184.00637436,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Rooty,1,271.27985997,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Sakat,1,261.37724202,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Sangavi,1,76.488873,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Sangvikati Reservoir,1,102.04844238,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Saptne,1,91.77831817,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Savargaon Dam,1,115.56106353,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Shelgaon,1,103.47750462,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Shelgoan Dam,1,343.22742485,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Sidewad,1,19.76954945,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Sina Kolegaon,1,2376.79901619,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Sonari,1,27.93032549,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Talsangi Reservoir,2,80.69087648,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Talwar,1,131.54137447,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Tamalwadi Reservoir,1,87.90406132,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Tawadi,1,31.03759226,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Tintraj,1,29.2535999,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Tisangi,1,479.11342131,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Ughadewadi,1,25.70269936,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Vairag,1,50.84381481,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Veet,1,54.43113778,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Wadgaon,1,36.28275128,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Wadji Reservoir,1,19.9487898,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Wadshivane,1,210.45993441,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Wakwad,1,24.03160033,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Walgud,1,35.39465836,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Walwad,1,26.83752216,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Watephal,1,55.53419061,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Welpuri,1,36.93483281,0.0,0.0,0.0,0.0,0.0,0.0
+BHI_UPPER,Maharashtra,Yermala,1,19.88227789,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Akkapalem Tank,1,44.37554768,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Brahmanapalli Lake,1,15.85753328,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Buggavagu Reservoir,1,1134.21241136,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Dodleru Cheruvu,1,13.20229332,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Dosapadu Cheruvu,1,41.74737194,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Dr.K.L.Rao Sagar Pulichintala Reservoir,1,11150.3706199,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Gajula Cheruvu,1,66.76356948,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Ganapati Cheruvu,1,51.41393996,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Gandrakotavari Cheruvu,1,22.01002259,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Jupudi Reservoir,1,461.74785574,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Kattavaripalem Cheruvu,1,9.63827163,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Komerapudi Cheruvu,1,3.63262366,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Krishna Sagaram,1,66.11965375,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Krosuru Lake,1,148.99195462,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Nekarikallu Cheruvu,1,88.79241573,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Padamati Chrruvu,1,28.21838852,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Padammra Cheruvu,1,61.43392638,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Pedda Cheruvu,5,332.30648826,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Prakasam Reservoir,1,3091.99545646,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Rolupadi Cheruvu,1,81.69376545,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Sattenapalli Cheruvu,1,18.65169445,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Thondapi Cheruvu,1,67.03925017,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Torpu Chrruvu,1,33.36682938,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Andhra Pradesh,Vellaturu Padamara Chrruvu,1,48.95057548,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Alimpur Cheruvu -,1,12.30226122,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Ashwaraopalle Cheruvu,1,244.869474,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Authapuram pedda cheruvu,1,37.85272502,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Bacchanampet Lake,1,52.1279659,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Bandlagudem Cheruvu,1,53.06112202,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Cheetur cheruvu,1,17.14437098,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Devalamma Cheruvu,1,25.71642404,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Devuni Cheruvu,2,41.92925063,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Dharmapuram cheruvu,1,18.23099593,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Erenti Cheruvu,1,47.83733086,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Gopalpuram Lake,1,19.70774887,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Gudi Cheruvu,1,35.12562118,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Gudur Lake,1,56.65727041,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Gundla cheruvu,1,10.09638842,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Hanuman lake,1,12.13069105,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Himayat Sagar,1,1880.01811911,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,"Indirammasagar, Anajpur Reservoir",1,26.95363199,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,J Chokka Rao Reservoir,1,199.241014,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Jangaon Cheruvu,1,92.76196419,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Jilavarkhan Cheruvu,1,54.59175584,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,KOTHA CHERUVU,1,7.64242635,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Kancham Kunta,1,18.89195758,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Kasingani Kunta,1,12.11935725,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Kotha Kunta,1,5.45939294,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Kotha cheruvu,1,6.73683827,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Kothapalle cheruvu,1,47.21878369,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Kothulbada Cheruvu,1,6.84911813,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Kudru Cheruvu,1,73.72982815,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Kundram Cheruvu,1,84.8733321,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Kurmalguda Lake,1,21.8213319,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Lakshmana Cheruvu,1,62.84205903,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,"Large , Ibrahimpatnam Reservoir",1,574.13344625,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Lingalaghanpur Lake,1,45.42834173,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Lingampally Lake,1,10.19045562,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Madhapuram Lake,1,44.05749385,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Maisamma Charevu,1,5.02126911,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Malkapur Lake,1,29.12078149,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Mallika Water falls,1,51.10873115,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Manchuppal Lake,1,48.59717935,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Mangi Bavi,1,7.3357035,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Masab Cheruvu,1,192.84688254,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Mini Tank Bund,1,2.16977523,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Mir Alam Tank,1,142.60833016,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Mondrai cheruvu,1,31.88185295,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Mugdhum,1,24.07525523,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Nadigonda Cheruvu,1,92.98592139,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Nagula cheruvu,1,55.97670548,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Namiligonda Cheruvu,1,73.13705211,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Narshingpuram Reservoir,1,469.97987696,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Nawabpet Reservoir -,1,300.83187328,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Nelapogula Cheruvu,1,23.67228101,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Obalpuram Lake,1,47.56368479,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Oora Cheruvu,1,17.11413004,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Oora cheruvu,1,40.69028913,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Osman Sagar,1,2161.12329345,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Padamati Thanda Lake,1,12.88007798,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Pakala Cheruvu,1,40.83215737,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Palakurthy Cheruvu,1,140.70768999,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Palkurthy Cocheruvu,1,16.91160792,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Pamoni Cheruvu,1,24.48620128,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Patha cheruvu,1,27.60141175,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Peddareddy Cheruvu,1,21.66767866,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Pembarti Lake,1,37.58301704,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Raghunathpally Cheruvu,1,82.49492361,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Rajavaram Lake or Ghanpur Cheruvu,1,1004.71516608,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Ramachandrapuram Cheruvu,1,45.20823007,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Ramarujupally pond,1,6.08297243,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Rangapuram Cheruvu,1,17.15932545,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Raviryala Lake,1,373.17989262,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,SHAPALLY LAKE,1,4.92573802,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Samudrala Lake,1,36.50755351,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Sunnam Cheruvu,1,43.77962033,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Thalla Cheruvu,1,44.47623521,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Thammadapally (I) cheruvu,1,28.4893282,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Thettakunta lake,1,3.80620895,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Thidugu,1,57.88705073,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Uppugal Reservoir,1,317.38704775,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Uura cheruvu,1,19.521651,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Visnoor Cheruvu,1,36.54197851,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Vura Cheruvu,1,56.70439654,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Wanaparthy Cheruvu,1,50.0707114,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Wawilala Cheruvu,1,5.77541107,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,Yerra  Cheruvu,1,75.71113325,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,dhanlaxmi Cheruvu,1,36.54692436,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,TS,old lake jeedickal,1,10.37844964,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Akkampally Balancing Reservoir,1,583.26485189,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Bandla Cheruvu,1,47.24454983,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Bhimasamudram Cheruvu,1,274.81843477,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Bibinagar Cheruvu,1,150.38359299,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Cheruvu,1,11.69710113,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Dompalli Cheruvu,1,101.49875967,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Gandhi Sagar,1,66.12439511,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Garla Cheruvu,1,153.89558317,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Gaurawaram Cheruvu,1,346.24931764,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Gudi Cheruvu,1,7.11562324,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Gudipalligattu,1,25.38420885,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Husain Sagar,1,443.49778294,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Idlur Cheruvu,1,99.73454271,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Komapalli Cheruvu,1,18.33553424,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Kongal Cheruvu,1,428.19198109,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,"Large Tank, Malkapur",1,16.69521704,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Mir Alam Tank,1,142.60833016,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Musi Reservoir,1,2388.23799197,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Nagarjunasagar Tail Pond,1,1820.10092499,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Nagula Cheruvu,1,10.85631727,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Nalla Cheruvu,1,50.86193187,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Narkatpalli Cheruvu,1,89.1924765,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Otkar Cheruvu,1,100.16403943,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Palavai Cheruvu,1,84.07292403,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,"Pedda Cheru, Indurthy Reservoir",1,83.58214288,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,"Pedda Cheru, Swamulavari Lingotam Reservoir",1,42.22590795,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,"Pedda Cheru, Thangadpally",1,106.65448468,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Pedda Cheruvu,5,989.6182903399999,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,"Pedda Cheruvu, Challasamudram",1,77.19066357,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Pedda Madhawaram Cheruvu,1,266.97648983,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,"Peddacheru, Ragaboinagudem",1,48.3590454,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Proposed,2,1577.9949454,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Ragi Cheruvu,1,59.40376678,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Ramasamudram Cheruvu,1,221.29764081,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Rayarpet Cheruvu,1,32.75303661,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Rudrawaram Cheruvu,1,76.78062646,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Sarurnagar Cheruvu,1,35.94074095,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Tati Cheruvu,1,53.70858158,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,"Teegalavagu Project, Pochampally(V)",1,63.56247323,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Tummulu Cheruvu,1,21.96250706,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Udaya Samudram,1,756.91974584,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Ura Cheruvu,1,72.4688221,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Virla Cheruvu,1,44.7297134,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_LOWER,Telangana,Yadgarpalli Cheruvu,1,202.29439872,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Bhadrapuram Tank,1,7.67979017,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Guvvalakuntla Tank,1,47.17558362,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Indireswaram Tank,1,62.00362204,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Kottalacheruvu,1,32.89625094,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Kottapalle Tank,1,122.15503224,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Kurukunda Tank,1,108.28257091,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Palem Cheruvu,1,35.73442356,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Ramapuram Tank,1,88.72055934,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Siddapuram Tank,1,367.8524066,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Srisailam,1,48633.5667508,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Andhra Pradesh,Varadaraja Swamy Gudi Reservoir,1,96.1738652,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Ammapur Thanda Lake,1,3.06037383,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Appanapally lake,1,15.50938804,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Balanagar Lake,1,11.016637,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Battonipally thanda Lake,1,2.94552366,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Bhantee Kuntaa (Bhich),1,3.65809234,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Bhootpur Cheruvu,1,8.67096472,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Chinna Cheruvu,1,17.96925322,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Depalle Talaab,1,53.55363338,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Devarkadra Cheruvu,1,120.9819121,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Erraguntla lake,1,6.5508215,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Fareedpur Cheruvu,1,154.60775322,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Gangaram Cheruvu,1,12.97029325,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Gouramma Cheruvu,1,95.94109256,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Hunwada Lake,1,27.46513743,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Khan cheruvu,1,61.63110653,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Koil Sagar,1,998.93653752,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Korlakunta Lake,1,4.18120598,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Kotha cheruvu muchintala,1,7.39718414,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Kotha cheruvu thanda lake,1,8.9302972,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Kothacheru,1,21.66999584,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Kothlabad cheruvu,1,49.86418259,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Krishna Lake,1,13.18311341,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Krishtanpally Lake,1,24.53669204,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Kurumurthyraya B.R.,1,2222.88411773,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,"Large , Raviryal Reservoir",1,35.46132216,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Madharam Cheruvu,1,116.20484633,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Madigatla cheruvu,1,86.72801995,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Mahbubnagar Cheruvu,1,37.96374751,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Mahbubnagar Old Lake,1,51.61045168,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Maisamma lake,1,8.50449585,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,"Malikacheru, Mamdabad Reservoir",1,68.35153493,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Mallammacheruvu Saralnagar (W865) Reservoir,1,69.70869646,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Manyam Kunta Pond,1,2.7515659,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Nagaram Lake,1,18.52656251,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Nalla Cheruvu,1,15.78052526,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Nalla cheruvu,1,38.8813412,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,"Nallacheru, Irvin Reservoir",1,118.00144301,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Nancherla Pound,1,7.13503798,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Nulla Gatta Thanda Cheruvu,1,27.58565921,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Ooragunta Cheruvvu,1,7.64869699,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Orum Cheruvu,2,9.83843737,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,PEDDHA CHERUVU,1,5.94849877,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Pagdiyal Cherruvu,1,43.47115864,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,"Pedda Cheru, Vennached",1,85.07958006,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Pedda Cheruvu,4,152.410032,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Ponnakallu Lake,1,22.5804174,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Raagikunta cheruvu -,1,11.9049148,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Rachala Lake,1,59.38366409,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Rudraram Lake,1,14.22134006,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Saudam Cheruvu,1,12.72000392,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Sunkari Cheruvu,1,44.01903992,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Surasamudram Cheruvu,1,145.35763048,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Udandapur B.R.,1,1636.29681211,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Urakunta Pond,1,2.61345704,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Veeranna Cheruvu Tatikonda,1,89.32018074,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Vemula Cheruvu,1,44.71305339,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,Yedira Pedda Cheruvu,1,62.64105829,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,TS,rragunta Lake,1,5.70588215,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Bheemanpally Reservoir,1,193.09474365,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Gopaldinne Balancing Reservoir,1,213.04035084,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Lower Jurala,1,464.59078073,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Melammacheru/ Meldammacheru Reservoir,1,59.00912831,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Nagarjuna Sagar,1,27559.9945884,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Nalla Cheruvu,1,48.72029479,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Ookachettivagu Reservoir,1,402.76130281,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,"Pedda Cheru, Chintapalli Reservoir",1,59.86098612,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Pendilpakala Reservoir,1,295.64689352,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Perval Reservoir,1,115.94778214,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,"Polkicheru, Pangal Reservoir",1,44.11381359,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Priyadarshini Jurala Reservoir,1,4993.06355958,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Ralampadu Reservoir,1,694.49862239,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Rangasamudram Reservoir,1,503.32684491,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Sangal Cheruvu,1,325.60013678,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Sankarasamudram Reservoir,1,398.47997983,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Sarala Sagar,1,429.56411796,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Veeranjaneaya B.R.,1,1573.46333505,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_MIDDLE,Telangana,Yenukunta Reservoir,1,72.72596237,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Almatti,1,32212.8466456,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Areshankar Reservoir,1,186.12915442,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Hokarani Reservoir,1,49.02954531,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Karjol Lake,1,14.61677726,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Katral Reservoir,1,112.76642677,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Krishyal Reservoir,1,50.77334268,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Kuppakaddi Reservoir,1,72.45229265,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Mukherthihal Reservoir,1,51.58370436,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Narayanapura,1,9901.40532039,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Ronihal Reservoir,1,43.75909456,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,KA,Sulkod Reservoir,1,51.09266932,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Aigali Reservoir,1,22.41566657,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Almatti,1,32212.8466456,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Arbenchi Reservoir,1,11.19548244,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Areshankar Reservoir,1,186.12915442,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Bhairapur,1,24.17467583,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Bidi Reservoir,1,33.74412724,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Dhupdal Dam,1,269.05187805,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Eakkundi Tank,1,20.22241255,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Hanamapur Reservoir,1,42.56304406,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Harinala Dam,1,267.12526172,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Hebbal Reservoir,1,15.54225824,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Hidkal,1,6744.94736519,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Hirekop Reservoir,1,55.86764372,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Hokarani Reservoir,1,49.02954531,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Itagi Reservoir,1,19.76392766,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Jawahar,1,48.02326179,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Kadasagatti Reservoir,1,42.69368873,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Kadatana Begewadi Reservoir,1,39.6678742,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Kadatnal Reservoir,1,66.68392373,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Kamatnur Reservoir,1,59.1583003,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Kanvikervinkoppa Reservoir,1,15.64851673,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Karjol Lake,1,14.61677726,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Katral Reservoir,1,112.76642677,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Kohalli Reservoir,1,57.76425915,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Krishyal Reservoir,1,50.77334268,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Kuppakaddi Reservoir,1,72.45229265,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Malaprabha,1,11209.4852665,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Markandeya Dam,1,821.80758984,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Mukherthihal Reservoir,1,51.58370436,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Murakumbi Reservoir,1,59.72360189,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Nandgad Dam,1,29.62256606,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Narayanapura,1,9901.40532039,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Ronihal Reservoir,1,43.75909456,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Siddasamudra Reservoir,1,103.94573786,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Sulkod Reservoir,1,51.09266932,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Yallammavadi Reservoir,1,36.84154178,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Yallur Reservoir,1,11.52396432,0.0,0.0,0.0,0.0,0.0,0.0
+KRI_UPPER,Karnataka,Yarazarvi Reservoir,1,24.61225715,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Bal. Reservoir Near Chilakalakonda,1,97.31685278,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Bal. Reservoir Near Kamanadoddi,1,64.29731109,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Bal. Reservoir Near Nandavaram,1,96.19870929,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Bal. Reservoir Near Sunkeswari,1,57.70565042,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Bayada Cheruvu,1,47.3280819,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Chinna Tumbalam Tank,1,528.27413372,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Duddi Reservoir,1,31.44465299,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Gajuladinne /Sanjeevaih Sagar Project Reservoir,1,2453.9128013,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Kanekal Drinking Water,1,49.58434666,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Kanekallu Tank,1,600.97143163,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Krishnagiri Balancing Reservoir,1,145.772794,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Madhavaram Reservoir,1,52.27238418,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Nagurur Reservoir,1,60.00267229,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Patthikonda Balancing Reservoir,1,191.78680685,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Pedda Cheruvu,1,178.35482243,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Puli Kanuma Reservoir,1,231.01672922,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Andhra Pradesh,Veldurti  Cheruvu,1,138.46272921,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Ballasamudra Reservoir,1,295.1672241,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Bhairavanithippa Reservoir,1,1300.78036786,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Bheemasamudra Reservoir,1,621.48981363,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Borankanave Reservoir,1,1097.4134349,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Bukkapatna Tank,1,171.43944146,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Chikkasandra Tank,1,222.45780648,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Devaramardikere,1,71.56450983,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Doddaagrahara Tank,1,175.31038545,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Gantenahalli,1,112.53285895,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Gayathri Reservoir,1,499.37118708,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Haludyamanahalli Tank,1,33.25981006,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Hanagal,1,5.31693626,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Haragondanhalli,1,2.24636063,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Kallambella Tank,1,287.80354503,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Katarahalu Kere,1,212.92405282,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Kunigal Thimmanahalli,1,50.53671975,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Lakshmisagar Tank,1,237.01099986,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Parashuramapura New Tank,1,214.84369495,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Prakruthi Reservoir,1,158.43785016,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Ramalingapurada Tank,1,191.83009612,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Ranganayanadurga Tank,1,352.5788725,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Ranikere Tank,1,604.75530021,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Sangenahalli Reservoir,1,389.15903736,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Singahallidalvayikere,1,134.08021908,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Uduvalli,1,202.27332098,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,KA,Vanivilasa Sagar,1,7780.62303714,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Arsikere Tank,1,217.44226295,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Ayyan Kere,1,191.13230734,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Ballasamudra Reservoir,1,295.1672241,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Bhairavanithippa Reservoir,1,1300.78036786,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Bheemasamudra Reservoir,1,621.48981363,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Bukkambudi Doddekere Reservoir,1,244.23917528,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Devarakere,1,86.64808918,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Haludyamanahalli Tank,1,33.25981006,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Hanagal,1,5.31693626,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Haragondanhalli,1,2.24636063,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Kamasamudra Kere,1,129.27438705,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Katarahalu Kere,1,212.92405282,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Kukkasamudra,1,270.81323643,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Madaga Tank (Old),1,54.43828913,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Madaga Tank(New),1,160.44074574,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Parashuramapura New Tank,1,214.84369495,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Prakruthi Reservoir,1,158.43785016,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Ranganayanadurga Tank,1,352.5788725,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Ranikere Tank,1,604.75530021,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Sangenahalli Reservoir,1,389.15903736,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Tarikere,1,107.70530841,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Thimmappanayakana Kere,1,173.84419899,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Uduvalli,1,202.27332098,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Vanivilasa Sagar,1,7780.62303714,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Vishnusamudra,1,545.42873453,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Karnataka,Y. Urumundinakere Reservoir,1,72.71668113,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Telangana,Nagardoddi Reservoir,1,264.63738789,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Telangana,Sunkesula Reservoir,1,989.84839679,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Telangana,Tatikunta Dam,1,1.60858621,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_LOWER,Telangana,Tatikunta Reservoir,1,703.68103915,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,KA,Bharamasagara Doddakere,1,184.79094022,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Asundi Kere,1,162.93858794,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Asundinala Reservoir,1,163.72643934,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Belvatti Kere,1,50.8122928,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Bhadra,1,11525.5934018,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Bharamasagara Doddakere,1,184.79094022,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Biggerahalla Reservoir,1,17.20505583,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Bullapura Tank,1,10.84005593,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Heggeri Kere,1,287.14499208,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Hire Keri,1,56.25777701,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Honnati Kere,1,147.68790854,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Jambadahalla Reservoir,1,157.06349154,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Lakhya,1,526.52866606,0.0,0.0,0.0,0.0,0.0,0.0
+TUN_UPPER,Karnataka,Medleri Reservoir,1,75.84012386,0.0,0.0,0.0,0.0,0.0,0.0

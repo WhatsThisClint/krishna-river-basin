@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "krishna_interbasin_structures",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "STRUCTURE_": "Tungabhadra Dam", "STRUC_TYPE": "Dam", "STRUC_STAT": "Existing", "subbasin_id": "TUN_UPPER", "subbasin_name": "Tungabhadra Upper" }, "geometry": { "type": "Point", "coordinates": [ 76.338169271375691, 15.261418612908663 ] } },
+{ "type": "Feature", "properties": { "STRUCTURE_": "Srisailam Head Regulator(Pothireddypadu)", "STRUC_TYPE": "Regulator", "STRUC_STAT": "Existing", "subbasin_id": "KRI_MIDDLE", "subbasin_name": "Krishna Middle" }, "geometry": { "type": "Point", "coordinates": [ 78.422937221045672, 15.901935292770435 ] } },
+{ "type": "Feature", "properties": { "STRUCTURE_": "Srisailam Dam", "STRUC_TYPE": "Dam", "STRUC_STAT": "Existing", "subbasin_id": "KRI_MIDDLE", "subbasin_name": "Krishna Middle" }, "geometry": { "type": "Point", "coordinates": [ 78.897081971812383, 16.087046611283071 ] } },
+{ "type": "Feature", "properties": { "STRUCTURE_": "Prakasam Barrage", "STRUC_TYPE": "Barrage", "STRUC_STAT": "Existing", "subbasin_id": "KRI_LOWER", "subbasin_name": "Krishna Lower" }, "geometry": { "type": "Point", "coordinates": [ 80.605958948389429, 16.505645461391616 ] } },
+{ "type": "Feature", "properties": { "STRUCTURE_": "Pulichintala", "STRUC_TYPE": "Weir", "STRUC_STAT": "Existing", "subbasin_id": "KRI_LOWER", "subbasin_name": "Krishna Lower" }, "geometry": { "type": "Point", "coordinates": [ 80.054983197790406, 16.761372321825622 ] } },
+{ "type": "Feature", "properties": { "STRUCTURE_": "Almatti Dam", "STRUC_TYPE": "Dam", "STRUC_STAT": "Existing", "subbasin_id": "KRI_UPPER", "subbasin_name": "Krishna Upper" }, "geometry": { "type": "Point", "coordinates": [ 75.886963589865516, 16.331027608896843 ] } },
+{ "type": "Feature", "properties": { "STRUCTURE_": "Nagarjuna Sagar Dam", "STRUC_TYPE": "Dam", "STRUC_STAT": "Existing", "subbasin_id": "KRI_MIDDLE", "subbasin_name": "Krishna Middle" }, "geometry": { "type": "Point", "coordinates": [ 79.311456614574581, 16.57461566417161 ] } },
+{ "type": "Feature", "properties": { "STRUCTURE_": "Musi Reservoir Dam", "STRUC_TYPE": "Dam", "STRUC_STAT": "Existing", "subbasin_id": "KRI_LOWER", "subbasin_name": "Krishna Lower" }, "geometry": { "type": "Point", "coordinates": [ 79.521644060562849, 17.233889453902641 ] } }
+]
+}

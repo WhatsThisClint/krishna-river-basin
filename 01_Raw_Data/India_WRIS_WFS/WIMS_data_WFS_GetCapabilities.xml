@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:WFS_Capabilities
+  xmlns="http://www.opengis.net/wfs/2.0"
+  xmlns:wfs="http://www.opengis.net/wfs/2.0"
+  xmlns:ows="http://www.opengis.net/ows/1.1"
+  xmlns:fes="http://www.opengis.net/fes/2.0"
+  xmlns:DataDownload_Water_Information_Management_System_WIMS_data="https:arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  version="2.0.0"  xsi:schemaLocation="http://www.opengis.net/wfs/2.0 http://schemas.opengis.net/wfs/2.0/wfs.xsd https:arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer?service=wfs%26version=2.0.0%26request=DescribeFeatureType"
+>
+  <ows:ServiceIdentification>
+    <ows:Title>WFS</ows:Title>
+    <ows:Abstract></ows:Abstract>
+    <ows:Keywords>
+      <ows:Keyword>ESRI(LatLong)</ows:Keyword>
+    </ows:Keywords>
+    <ows:ServiceType>WFS</ows:ServiceType>
+    <ows:ServiceTypeVersion>2.0.0</ows:ServiceTypeVersion>
+    <ows:Fees></ows:Fees>
+    <ows:AccessConstraints></ows:AccessConstraints>
+  </ows:ServiceIdentification>
+  <ows:ServiceProvider>
+    <ows:ProviderName></ows:ProviderName>
+    <ows:ServiceContact>
+      <ows:IndividualName></ows:IndividualName>
+      <ows:PositionName></ows:PositionName>
+      <ows:ContactInfo>
+        <ows:Phone>
+          <ows:Voice></ows:Voice>
+          <ows:Facsimile></ows:Facsimile>
+        </ows:Phone>
+        <ows:Address>
+          <ows:DeliveryPoint></ows:DeliveryPoint>
+          <ows:City></ows:City>
+          <ows:AdministrativeArea></ows:AdministrativeArea>
+          <ows:PostalCode></ows:PostalCode>
+          <ows:Country></ows:Country>
+          <ows:ElectronicMailAddress></ows:ElectronicMailAddress>
+        </ows:Address>
+        <ows:OnlineResource xlink:href="https:arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer"/>
+        <ows:HoursOfService></ows:HoursOfService>
+        <ows:ContactInstructions></ows:ContactInstructions>
+      </ows:ContactInfo>
+      <ows:Role></ows:Role>
+    </ows:ServiceContact>
+  </ows:ServiceProvider>
+  <ows:OperationsMetadata>
+    <ows:Operation name="GetCapabilities">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="AcceptVersions">
+        <ows:AllowedValues>
+          <ows:Value>1.0.0</ows:Value>
+          <ows:Value>1.1.0</ows:Value>
+          <ows:Value>2.0.0</ows:Value>
+      </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="DescribeFeatureType">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+    <ows:Parameter name="outputFormat">
+      <ows:AllowedValues>
+        <ows:Value>text/xml; subtype=gml/3.2</ows:Value>
+      </ows:AllowedValues>
+    </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="GetPropertyValue">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="resolve">
+        <ows:AllowedValues>
+          <ows:Value>none</ows:Value>
+          <ows:Value>local</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="GetFeature">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+      <ows:Parameter name="resultType">
+        <ows:AllowedValues>
+          <ows:Value>results</ows:Value>
+          <ows:Value>hits</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+      <ows:Parameter name="outputFormat">
+        <ows:AllowedValues>
+          <ows:Value>GML32</ows:Value>
+          <ows:Value>GML32+ZIP</ows:Value>
+          <ows:Value>GML32+GZIP</ows:Value>
+          <ows:Value>application/gml+xml; version=3.2</ows:Value>
+          <ows:Value>GML3</ows:Value>
+          <ows:Value>GML3+ZIP</ows:Value>
+          <ows:Value>GML3+GZIP</ows:Value>
+          <ows:Value>text/xml; subtype=gml/3.1.1</ows:Value>
+          <ows:Value>GML2</ows:Value>
+          <ows:Value>GML2+ZIP</ows:Value>
+          <ows:Value>GML2+GZIP</ows:Value>
+          <ows:Value>text/xml; subtype=gml/2.1.2</ows:Value>
+          <ows:Value>GEOJSON</ows:Value>
+          <ows:Value>GEOJSON+ZIP</ows:Value>
+          <ows:Value>GEOJSON+GZIP</ows:Value>
+          <ows:Value>ESRIGEOJSON</ows:Value>
+          <ows:Value>ESRIGEOJSON+ZIP</ows:Value>
+          <ows:Value>ESRIGEOJSON+GZIP</ows:Value>
+          <ows:Value>KML</ows:Value>
+          <ows:Value>application/vnd.google-earth.kml xml</ows:Value>
+          <ows:Value>application/vnd.google-earth.kml+xml</ows:Value>
+          <ows:Value>KMZ</ows:Value>
+          <ows:Value>application/vnd.google-earth.kmz</ows:Value>
+          <ows:Value>SHAPE+ZIP</ows:Value>
+          <ows:Value>CSV</ows:Value>
+          <ows:Value>CSV+ZIP</ows:Value>
+          <ows:Value>CSV+GZIP</ows:Value>
+          <ows:Value>Geopackage</ows:Value>
+          <ows:Value>Geopackage+ZIP</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+      <ows:Parameter name="resolve">
+        <ows:AllowedValues>
+          <ows:Value>none</ows:Value>
+          <ows:Value>local</ows:Value>
+        </ows:AllowedValues>
+      </ows:Parameter>
+    </ows:Operation>
+    <ows:Operation name="GetGmlObject">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+    </ows:Operation>
+    <ows:Operation name="ListStoredQueries">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+    </ows:Operation>
+    <ows:Operation name="DescribeStoredQueries">
+      <ows:DCP>
+        <ows:HTTP>
+          <ows:Get xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer?"/>
+          <ows:Post xlink:href="https://arc.indiawris.gov.in/server/services/DataDownload/Water_Information_Management_System_WIMS_data/MapServer/WFSServer"/>
+        </ows:HTTP>
+      </ows:DCP>
+    </ows:Operation>
+    <ows:Constraint name="ImplementsBasicWFS"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsTransactionalWFS"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsLockingWFS"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="KVPEncoding"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="XMLEncoding"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="SOAPEncoding"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsInheritance"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsRemoteResolve"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsResultPaging"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsStandardJoins"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsSpatialJoins"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsTemporalJoins"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ImplementsFeatureVersioning"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+    <ows:Constraint name="ManageStoredQueries"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></ows:Constraint>
+  </ows:OperationsMetadata>
+  <wfs:FeatureTypeList>
+  <wfs:FeatureType>
+    <wfs:Name>DataDownload_Water_Information_Management_System_WIMS_data:Groundwater_Station</wfs:Name>
+    <wfs:Title>Groundwater_Station</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>-180.00000000 -19.99349671</ows:LowerCorner>
+      <ows:UpperCorner>180.00000000 84.94590612</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>DataDownload_Water_Information_Management_System_WIMS_data:GroundwaterLevel_Station</wfs:Name>
+    <wfs:Title>GroundwaterLevel_Station</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>-180.00000000 -19.99349671</ows:LowerCorner>
+      <ows:UpperCorner>180.00000000 84.94590612</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>DataDownload_Water_Information_Management_System_WIMS_data:iw_reservoir_centroid</wfs:Name>
+    <wfs:Title>iw_reservoir_centroid</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.86711439 8.39512074</ows:LowerCorner>
+      <ows:UpperCorner>94.96411566 32.53839828</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>DataDownload_Water_Information_Management_System_WIMS_data:Reservoir_Station</wfs:Name>
+    <wfs:Title>Reservoir_Station</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.86711439 8.39512073</ows:LowerCorner>
+      <ows:UpperCorner>94.96411566 32.53839828</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>DataDownload_Water_Information_Management_System_WIMS_data:RF_Station</wfs:Name>
+    <wfs:Title>RF_Station</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>35.53946127 -14.02858074</ows:LowerCorner>
+      <ows:UpperCorner>98.73346262 40.36412057</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>DataDownload_Water_Information_Management_System_WIMS_data:WIMS_Station_1</wfs:Name>
+    <wfs:Title>WIMS_Station_1</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>-38.50246460 -19.96467928</ows:LowerCorner>
+      <ows:UpperCorner>118.96491365 80.30427543</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>DataDownload_Water_Information_Management_System_WIMS_data:wq_stations</wfs:Name>
+    <wfs:Title>wq_stations</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.66497170 7.35303800</ows:LowerCorner>
+      <ows:UpperCorner>97.82600029 34.73613112</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  <wfs:FeatureType>
+    <wfs:Name>DataDownload_Water_Information_Management_System_WIMS_data:iw_reservoir_polygon</wfs:Name>
+    <wfs:Title>iw_reservoir_polygon</wfs:Title>
+    <wfs:DefaultCRS>urn:ogc:def:crs:EPSG::0</wfs:DefaultCRS>
+    <ows:WGS84BoundingBox>
+      <ows:LowerCorner>67.84972565 8.34320877</ows:LowerCorner>
+      <ows:UpperCorner>95.02418948 32.61683192</ows:UpperCorner>
+    </ows:WGS84BoundingBox>
+  </wfs:FeatureType>
+  </wfs:FeatureTypeList>
+  <fes:Filter_Capabilities>
+  <fes:Conformance>
+    <fes:Constraint name="ImplementsQuery"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsAdHocQuery"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsFunctions"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsResourceId"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsMinStandardFilter"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsStandardFilter"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsMinSpatialFilter"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsSpatialFilter"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsMinTemporalFilter"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsTemporalFilter"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsVersionNav"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsSorting"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsExtendedOperators"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsMinimumXPath"><ows:NoValues/><ows:DefaultValue>TRUE</ows:DefaultValue></fes:Constraint>
+    <fes:Constraint name="ImplementsSchemaElementFunc"><ows:NoValues/><ows:DefaultValue>FALSE</ows:DefaultValue></fes:Constraint>
+  </fes:Conformance>
+  <fes:Id_Capabilities>
+    <fes:ResourceIdentifier name="fes:ResourceId"/>
+  </fes:Id_Capabilities>
+  <fes:Scalar_Capabilities>
+    <fes:LogicalOperators/>
+    <fes:ComparisonOperators>
+      <fes:ComparisonOperator name="PropertyIsEqualTo"/>
+      <fes:ComparisonOperator name="PropertyIsNotEqualTo"/>
+      <fes:ComparisonOperator name="PropertyIsLessThan"/>
+      <fes:ComparisonOperator name="PropertyIsGreaterThan"/>
+      <fes:ComparisonOperator name="PropertyIsLessThanOrEqualTo"/>
+      <fes:ComparisonOperator name="PropertyIsGreaterThanOrEqualTo"/>
+      <fes:ComparisonOperator name="PropertyIsLike"/>
+      <fes:ComparisonOperator name="PropertyIsNull"/>
+      <fes:ComparisonOperator name="PropertyIsNil"/>
+      <fes:ComparisonOperator name="PropertyIsBetween"/>
+    </fes:ComparisonOperators>
+  </fes:Scalar_Capabilities>
+  <fes:Spatial_Capabilities>
+    <fes:GeometryOperands xmlns:gml="http://www.opengis.net/gml" xmlns:gml32="http://www.opengis.net/gml">
+      <fes:GeometryOperand name="gml:Box"/>
+      <fes:GeometryOperand name="gml:Envelope"/>
+      <fes:GeometryOperand name="gml:Point"/>
+      <fes:GeometryOperand name="gml:LineString"/>
+      <fes:GeometryOperand name="gml:LinearRing"/>
+      <fes:GeometryOperand name="gml:Polygon"/>
+      <fes:GeometryOperand name="gml:MultiPoint"/>
+      <fes:GeometryOperand name="gml:MultiCurve"/>
+      <fes:GeometryOperand name="gml:MultiSurface"/>
+    </fes:GeometryOperands>
+    <fes:SpatialOperators>
+      <fes:SpatialOperator name="BBOX"/>
+      <fes:SpatialOperator name="Equals"/>
+      <fes:SpatialOperator name="Disjoint"/>
+      <fes:SpatialOperator name="Intersects"/>
+      <fes:SpatialOperator name="Touches"/>
+      <fes:SpatialOperator name="Crosses"/>
+      <fes:SpatialOperator name="Within"/>
+      <fes:SpatialOperator name="Contains"/>
+      <fes:SpatialOperator name="Overlaps"/>
+      <fes:SpatialOperator name="Beyond"/>
+      <fes:SpatialOperator name="DWithin"/>
+    </fes:SpatialOperators>
+  </fes:Spatial_Capabilities>
+  </fes:Filter_Capabilities>
+</wfs:WFS_Capabilities>

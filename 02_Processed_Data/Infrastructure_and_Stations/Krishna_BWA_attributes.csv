@@ -1,0 +1,379 @@
+objectid,bwa_name,strucode,bwa_lat,bwa_long,bwa_ncity,dtcode,state,rivcode,bacode,bwa_cmn_yr,bwa_cmp_yr,bwa_disc_df,bwa_riv_wd,bwa_len,bwa_ht,bwa_bay_no,bwa_bay_wd,bwa_spil_type,bwa_spil_sz,bwa_crt_vel,bwa_pond_lev,bwa_hfl,bwa_bay_no2,bwa_bay_sz,bwa_gate_type,bwa_gate_sz,bwa_hyd_enrg,bwa_head_loca,bwa_head_ang,bwa_head_wd,bwa_head_enrg,bwa_disc_can,bwa_sed,bwa_comment,uname,bwa_name_al,bwa_status,bwa_ses_zone,bwa_oper_main_age,bwa_mod_oper,bwa_hoist_arrg,bwa_typ_wean,bwa_inst_inter_ager,bwa_inst_inter,bwa_perliament,class,bwa_head_rb,bwa_wd_rb,bwa_head_rg,bwa_type_head_rg,bwa_size_head_rg,bwa_hoist_arr_head_rg,bwa_spil_no,bwa_gate_no,bwa_cn_gate_no,bwa_ph_gate_no,bwa_spil_cap,bwa_spil_lev,classified
+685,Prakasam Barrage,B00143,16.50628075,80.60478282999999,Guntur,Guntur,AP,Krishna,04,1954,1957,33984.0,,1138.73,,70,12.19,OT,,,17.38,20.726462511,14,,,,Cistern,,,,,,,,Vyjayanthi,,Completed,Seismic Zone-III,,,,,,,Guntur,Class 1,,,,,,,,,,,,,No
+686,Muniyeru Anicut,A00145,17.01528739,80.16671046,Jaggayyapeta,Krishna,AP,Munniyeru,04,1894,1898,2832.26,,531.0,2.1,,,OT,,67.39,,,,,,,,,,,,9827.94,,,Vyjayanthi,,Completed,Seismic Zone-III,,,,,,,Vijayawada,Class 3,,,,,,,,,,,,,No
+833,Bhadra Anicut,A00586,13.76515198,75.68532717,Bhadravati,Shimoga,KA,Bhadra,04,,1923,3400.0,1.85,250.0,,,,OT,,,603.1,,,,,,,,,,,,,,Sagar,,Completed,Seismic Zone-II,,,,,,,Shimoga,Class 3,,,,,,,,,,,,,No
+834,Dhupdal Weir,W00590,16.21537841,74.74971115000001,Gokak,Belgaum,KA,Ghataprabha,04,1877,1894,,,2084.98,,374,,OT,,,612.46,,10,,,1.372 x 2.135,,,90,3.04,,65.09,,,Sagar,,Completed,Seismic Zone-III,,,,,,,Belgaum,Class 3,,,,,,,,10.0,,,,,No
+858,Tembhu Barrage,B00486,17.27593956,74.23151378,Karad,Satara,MH,Krishna,04,1996,2004,5016.0,326,326.0,8.13,11,12,OT,,565.8,570.8,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Satara,Class 3,,,,,,,17.0,,,,,,No
+859,Khodashi Weir,W00487,17.309815829999998,74.16803053000001,Karad,Satara,MH,Krishna,04,1863,1868,,,345.0,7,,,UN,,570.146,570.146,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-IV,,,,,,,Satara,Class 3,,,,,,,,,,,,,No
+867,Sunkesula Barrage,B01016,15.88059732,77.83018633,Alampur,Mahbubnagar,TS,,04,,,14866.343081,,633.0,,,,OT,,285,292,,,,,,,,,,,,,,Vyjayanthi,,Completed,Seismic Zone-II,,,,,,,Nagarkurnool,Class 3,,,,,,,,,,,,,No
+883,Chandewadi Weir,W00502,16.127070139999997,74.22683209,Ajra Mahal,Kolhapur,MH,Chitri,04,1965,1968,,45,56.0,4.1,18,53.5,OT,,99.6,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+884,Bhadwan Weir,W00503,16.15270559,74.25560208,Ajra Mahal,Kolhapur,MH,Chitri,04,1974,1977,,77,86.5,4.5,31,4.25,OT,,91.5,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+885,Ainapur Weir,W00504,16.171201309999997,74.30794701,Gadhinglaj,Kolhapur,MH,Chitri,04,1961,1964,,10,14.15,4.46,31,4.25,OT,,629.3,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+886,Gajargaon Weir,W00505,16.14266677,74.31369083999999,Ajra Mahal,Kolhapur,MH,Chitri,04,1978,1981,,72,77.05,4.25,24,3.5,OT,,628.4,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+887,Gijwane Weir,W00507,16.20502594,74.34422366,Gadhinglaj,Kolhapur,MH,Chitri,04,1959,1962,,63,67.36,5.18,24,4.25,OT,,626.06,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+888,Jarli Weir,W00508,16.23356652,74.38711674000001,Gadhinglaj,Kolhapur,MH,Chitri,04,1977,1980,,88,94.9,5.5,25,3.5,OT,,626,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+889,Nilji Weir,W00509,16.23440915,74.42685523,Gadhinglaj,Kolhapur,MH,Chitri,04,1962,1965,,89,91.8,3.65,33,4.25,OT,,624.17,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+911,Hipparagi Barrage,B00592,16.55284904,75.16569356,Jamkhandi,Bagalkot,KA,Krishna,04,1973,,19810.0,,5460.0,26,,,OT,,531.4,531.4,,,,,,,,,,,,,,Sagar,,Completed,Seismic Zone-II,,,,,,,Bagalkot,Class 2,,,,,,,23.0,,,,,,No
+912,Ghattarga Barrage,B00598,17.088718699999998,76.41041394999999,Afzalpur,Gulbarga,KA,Bhima,04,,,,,329.0,,,,OT,,,,,,,,,,,,,,,,,Sagar,,,Seismic Zone-II,,,,,,,Gulbarga,Class 3,,,,,,,,,,,,,No
+913,Yadgir Barrage,B00599,16.74172794,77.10667518,Yadgir,Yadgir,KA,Bhima,04,,,,,425.0,,,,OT,,,,,,,,,,,,,,,,,Sagar,,,Seismic Zone-II,,,,,,,Raichur,Class 3,,,,,,,,,,,,,No
+914,Joladadagi Gudur Barrage,B00600,16.48762404,77.23426315,Shahpur,Yadgir,KA,Bhima,04,,,,,550.0,,,,OT,,,,,,,,,,,,,,,,,Sagar,,,Seismic Zone-II,,,,,,,Raichur,Class 3,,,,,,,,,,,,,No
+915,Rajolibunda Anicut,A00601,15.95664354,77.18387498,Manvi,Raichur,KA,Tungabhadra,04,1947,1960,21240.0,610,820.0,332.232,,,OT,6 x 7,332.232,332.22,,8,,,,Bucket type,,90,21.76,,23.79,Scouring sluices,,Sagar,,Completed,Seismic Zone-II,,,,,,,Raichur,Class 3,,,,,,,5.0,,,,,,No
+925,Koparde Weir,W00522,16.92511914,73.93542263,Shahuwadi,Kolhapur,MH,Kadvi,04,1981,1985,,45,54.0,4.5,12,2,OT,,557.13,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+926,Sarud Patne Weir,W00520,16.90518961,74.02770063999999,Shahuwadi,Kolhapur,MH,Kadvi,04,1978,1981,,37,45.17,4.5,14,4.25,OT,,549.7,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+927,Shirgaon Weir,W00521,16.92105624,73.96912711,Shahuwadi,Kolhapur,MH,Kadvi,04,1974,1977,,38,43.4,4.5,14,3.65,OT,,533,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+928,Yelur Weir,W00523,16.93519575,73.92501272,Shahuwadi,Kolhapur,MH,Kadvi,04,1982,1985,,45,55.0,4.5,12,4.25,OT,,558.02,,,,,,,,,,,,,,,NITIN,Kirwa(Yellur) Weir,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+929,Yevluj Porle Weir,W00524,16.74554578,74.14285518,Karvir,Kolhapur,MH,Kasari,04,1952,1955,,45,48.46,5.8,22,4.25,OT,,292.26,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+930,Waloli Weir,W00525,16.7660949,74.00574876,Panhala,Kolhapur,MH,Kasari,04,1953,1956,,75,88.0,6.41,25,4.25,OT,,300.4,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+931,Barjar Bhogaon Weir,W00526,16.74705811,73.97961146,Panhala,Kolhapur,MH,Kasari,04,1955,1958,,55,67.38,3.66,20,4.25,OT,,302.05,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+932,Kumbhewadi Weir,W00527,16.79231948,73.82936488,Shahuwadi,Kolhapur,MH,Kasari,04,1983,1986,,42,46.4,6.2,15,4.25,OT,,560,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+933,Karanjphen Weir,W00528,16.77628744,73.89744983,Shahuwadi,Kolhapur,MH,Kasari,04,1979,1982,,53,60.0,10.61,13,4.25,OT,,309.05,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+934,Navalachiwadi Weir,W00529,16.81599691,73.79952727,Shahuwadi,Kolhapur,MH,Kasari,04,1981,1984,,42,49.4,5.03,16,4.25,OT,,572,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+935,Manjara Weir,W00530,16.83719609,73.80603258,Shahuwadi,Kolhapur,MH,Kasari,04,1980,1983,,36,40.2,5.03,13,4.25,OT,,576,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+936,Tarale Weir,W00531,16.44787691,74.02628895000001,Radhanagari,Kolhapur,MH,Bhogawati,04,1950,1956,,79,85.0,4.36,39,4.28,OT,,551.18,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+937,Shirgaon Weir,W00532,16.499246529999997,74.05437165,Radhanagari,Kolhapur,MH,Bhogawati,04,1951,1957,,80,82.0,3.15,29,3.65,OT,,547.54,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+938,Rashivade Weir,W00533,16.53822575,74.11343149,Karvir,Kolhapur,MH,Bhogawati,04,1952,1955,,75,82.0,3.2,35,3.81,OT,,544.92,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+939,Haldi Weir,W00534,16.595468160000003,74.15206606,Karvir,Kolhapur,MH,Bhogawati,04,1952,1955,,87,94.0,3.2,31,4.42,OT,,541.55,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+940,Koge Weir,W00535,16.657841020000003,74.11832574,Karvir,Kolhapur,MH,Bhogawati,04,1955,1960,,45,57.0,4.14,33,4.25,OT,,540.09,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+941,Khadk Koge Weir,W00536,16.665151039999998,74.12893552,Karvir,Kolhapur,MH,Bhogawati,04,1923,1928,,105,126.0,4.57,,3.81,OT,,534.75,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+942,Rajaram Weir,W00537,16.73603768,74.23528062000001,Karvir,Kolhapur,MH,Panchganga,04,1933,1938,,87,93.0,5.48,58,4.25,OT,,534.15,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+943,Surve Weir,W00538,16.719958289999997,74.30551256,Hatkalangda,Kolhapur,MH,Panchganga,04,1984,1989,,108,113.0,6,45,4.25,OT,,533.07,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+944,Rui Weir,W00539,16.68111622,74.39424082,Hatkalangda,Kolhapur,MH,Panchganga,04,1959,1963,,75,81.0,4.67,38,3,OT,,531.1,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+945,Rukadi Weir,W00540,16.713183320000002,74.33841949,Hatkalangda,Kolhapur,MH,Panchganga,04,1943,1948,,75,80.0,7.36,31,4.25,OT,,527.5,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+946,Terwad Weir,W00541,16.67251399,74.57258976,Shirol,Kolhapur,MH,Panchganga,04,1946,1948,,90,97.0,5.48,49,4.25,OT,,530.18,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+947,Shirol Weir,W00542,16.72147863,74.59458526,Shirol,Kolhapur,MH,Panchganga,04,1942,1944,,90,107.0,2.57,49,4.25,OT,,527.75,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+949,Are Weir,W00544,16.63108846,74.13164824,Karvir,Kolhapur,MH,Tulshi,04,1965,1968,,40,49.09,6.43,17,3.65,OT,,99.15,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+950,Bachani Weir,W00545,16.60727344,74.1141043,Karvir,Kolhapur,MH,Tulshi,04,1970,1973,,40,45.0,5.5,17,5.5,OT,,102,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+951,Bhatanwadi Weir,W00546,16.590421759999998,74.09853926,Karvir,Kolhapur,MH,Tulshi,04,1966,1970,,30,38.5,6.17,14,3.65,OT,,106,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+952,Kanchanwadi Weir,W00547,16.5921089,74.07526426,Karvir,Kolhapur,MH,Tulshi,04,1965,1968,,75,83.4,4.7,30,3.65,OT,,108,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+953,Ghungurwadi Weir,W00548,16.57753052,74.04695502,Karvir,Kolhapur,MH,Tulshi,04,1968,1970,,30,35.31,5.4,13,3.65,OT,,112,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+954,Kote Weir,W00549,16.543257219999997,74.02844642000001,Radhanagari,Kolhapur,MH,Tulshi,04,1975,1978,,35,45.0,6.95,10,2.5,OT,,565,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+955,Dhamod Weir,W00550,16.53071253,74.0260749,Radhanagari,Kolhapur,MH,Tulshi,04,1974,1977,,75,82.0,6.02,18,4.25,OT,,568.95,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+958,Khale Weir,W00555,17.24431326,73.99108956,Patan,Satara,MH,Wang,04,,,1924.47,,74.0,,24,,OT,,,588,,,,,,,,,,,,,,NITIN,,,Seismic Zone-IV,,,,,,,Satara,Class 3,,,,,,,25.0,,,,,,No
+959,Manewadi Weir,W00556,17.25000517,74.01195249999999,Patan,Satara,MH,Wang,04,,,2052.51,,38.0,,12,,OT,,,529.5,,,,,,,,,,,,,,NITIN,,,Seismic Zone-IV,,,,,,,Satara,Class 3,,,,,,,13.0,,,,,,No
+960,Potale Weir,W00557,17.268756579999998,74.10704101,Karad,Satara,MH,Wang,04,,,2258.28,,74.0,,24,,OT,,,562,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-IV,,,,,,,Satara,Class 3,,,,,,,25.0,,,,,,No
+961,Ane Weir,W00560,17.2603377,74.08263188,Karad,Satara,MH,Wang,04,,2009,2237.19,,81.0,,17,,OT,,,562.5,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-IV,,,,,,,Satara,Class 3,,,,,,,18.0,,,,,,No
+962,Kadhane Weir,W00561,17.25198211,74.03631105,Patan,Satara,MH,Wang,04,,1998,3176.0,,70.5,,17,,OT,,,574.5,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-IV,,,,,,,Satara,Class 3,,,,,,,18.0,,,,,,No
+977,Asifnahar Anicut,A01015,17.34848081,79.0029255,Ramannapet,Nalgonda,TS,Musi,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,Vyjayanthi,,Completed,Seismic Zone-II,,,,,,,Bhongir,Class 3,,,,,,,,,,,,,No
+982,Kole Weir,W00562,17.25862875,74.06572266,Karad,Satara,MH,Wang,04,,2000,3382.0,,65.0,,20,,OT,,,91.25,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-IV,,,,,,,Satara,Class 3,,,,,,,21.0,,,,,,No
+983,Maldan Weir,W00563,17.24224895,73.97187716,Patan,Satara,MH,Wang,04,,1999,2470.0,,80.0,,19,,OT,,,588,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-IV,,,,,,,Satara,Class 3,,,,,,,20.0,,,,,,No
+991,Kallur Barrage,B00593,17.06297868,76.56683693,Afzalpur,Gulbarga,KA,Bhima,04,,,,,253.0,,,,OT,,,,,,,,,,,,,,,,,Sagar,,,Seismic Zone-II,,,,,,,Gulbarga,Class 3,,,,,,,,,,,,,No
+992,Kolchi Weir,W00594,15.936476560000001,75.35148265,Ramdurg,Belgaum,KA,Malaprabha,04,,1953,,,,,,,OT,,555.85,,,,,,,,,,,,,,,Sagar,,Completed,Seismic Zone-II,,,,,,,Belgaum,Class 3,,,,,,,,,,,,,No
+993,Narayanapur Anicut,A00595,14.08628044,76.74065616,Challakere,Chitradurga,KA,Vedavati,04,,1965,,,,,,,OT,,6447,,,,,,,,,,,,,,,Sagar,,Completed,Seismic Zone-II,,,,,,,Chitradurga,Class 3,,,,,,,22.0,,,,,,No
+1005,Biur K.T. Weir,W00669,16.96462335,74.12053325000001,Shirala,Sangli,MH,Morna,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+1007,Dhumalwadi K.T. Weir,W00673,16.956965750000002,74.12528346,Shirala,Sangli,MH,Morna,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+1015,Dabhil Weir,W00686,16.126863399999998,74.12270389,Ajra Mahal,Kolhapur,MH,Hiranyakeshi,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+1016,Devarde Weir,W00687,16.135529260000002,74.17629375,Ajra Mahal,Kolhapur,MH,Hiranyakeshi,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+1017,Salgaon Weir,W00688,16.13628426,74.19249921000001,Ajra Mahal,Kolhapur,MH,Hiranyakeshi,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+1018,Shelap Weir,W00689,16.10519402,74.11464618,Ajra Mahal,Kolhapur,MH,Hiranyakeshi,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+1019,Sohale Weir,W00690,16.128023680000002,74.20876792,Ajra Mahal,Kolhapur,MH,Hiranyakeshi,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Kolhapur,Class 3,,,,,,,,,,,,,No
+1021,Mangale K.T. Weir,W00695,16.92988434,74.13350536,Shirala,Sangli,MH,Morna,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+1070,ch-11,W00855,17.67701877,74.33878743,Khatao,Satara,MH,Yerala,04,,1881,,,,,,,OT,1.80 X 1.20,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Satara,Class 3,,,,,,,,,,,,,No
+1115,Pushpavati Weir,W00972,19.23375776,73.96591642,Junnar,Pune,MH,Pushpavati,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Shirur,Class 3,,,,,,,,,,,,,No
+1131,Sonna Barrage,B00930,17.171490589999998,76.31273270000001,Afzalpur,Gulbarga,KA,Bhima,04,,2010,26274.0,,2250.0,18.4,1,37.648,OT,12.00 x 10.45,396.4,406.4,,,,,,,,,,,,,,Sagar,,Completed,Seismic Zone-II,,,,,,,Gulbarga,Class 3,,,,,,,29.0,,,,,,No
+1132,Mhaisal K.T. Weir,W00956,16.72932328,74.6998215,Shirol,Kolhapur,MH,Krishna,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+1133,Satapewadi Barrage,B00957,17.1159836,74.35615842,Tasgaon,Sangli,MH,,04,,,,,,,,,OT,,,,,,,,,,,,,,,,,NITIN,,Completed,Seismic Zone-III,,,,,,,Hatkanangle,Class 3,,,,,,,,,,,,,No
+1163,Singatalur /Hammigi Barrage,B00935,15.03835002,75.83690236,Mundargi,Gadag,KA,Tungabhadra,04,,,14725.0,400,387.5,,,27,OT,12.5 x 8.3,,509,,2,0.9 x 2,,,Solid rolling bucket type,,,,,,,,Sagar,,,Seismic Zone-II,,,,,,,Haveri,Class 3,,,,,,,26.0,,,,,,No
+1164,Krishna Barrage,B00938,17.63993141,74.12778126,Koregaon,Satara,MH,Krishna,04,,,6809.44,,209.0,,7,17.2,OT,15 x 9.50,,614,,,,,,,,,,,,,,NITIN,,Underconstruction,Seismic Zone-III,,,,,,,Satara,Class 3,,,,,,,7.0,,,,,,No
+1371,Hodirayanahalla Anicut,A01191,13.62624545,75.73793345,,Chikmagalur,KA,Hodirayanahalla,04,,,,,,,,,,,,,,,,,,,,,,,,,,Nitinkumar,,,Seismic Zone-II,,,,,,,Udupi Chikmagalur,CLASS 3,,,,,,,,,,,,,No
+1377,Ogee Weir,W01185,13.83151224,75.71462574,,Shimoga,KA,Bhadra,04,,,,,,,,,,,,,,,,,,,,,,,,,,Nitinkumar,,,Seismic Zone-II,,,,,,,Shimoga,CLASS 3,,,,,,,,,,,,,No
+1381,Anvari Weir,W01192,14.02806281,75.78112671999999,,Shimoga,KA,,04,,,,,,,,,,,,,,,,,,,,,,,,,,Nitinkumar,,,Seismic Zone-II,,,,,,,Shimoga,CLASS 3,,,,,,,,,,,,,No
+1382,Bel Gere Weir,W01193,14.22560993,75.85638514,,Davanagere,KA,Sulekere Halla,04,,,,,,,,,,,,,,,,,,,,,,,,,,Nitinkumar,,,Seismic Zone-II,,,,,,,Davanagere,CLASS 3,,,,,,,,,,,,,No
+1383,Budala Halla Weir,W01194,14.47672716,75.86947551,,Davanagere,KA,,04,,,,,,,,,,,,,,,,,,,,,,,,,,Nitinkumar,,,Seismic Zone-II,,,,,,,Davanagere,CLASS 3,,,,,,,,,,,,,No
+1403,Kolkunte Weir,W01239,14.344522,75.925616,,Davanagere,KA,,04,,,,,,,,,,,,,,,,,,,,,,,,,,Nitinkumar,,,Seismic Zone-II,,,,,,,Davanagere,CLASS 3,,,,,,,,,,,,,No
+1404,Likikere Weir,W01240,14.319212,75.95007700000001,,Davanagere,KA,,04,,,,,,,,,,,,,,,,,,,,,,,,,,Nitinkumar,,,Seismic Zone-II,,,,,,,Davanagere,CLASS 3,,,,,,,,,,,,,No
+1408,Khorochi,W01261,17.96971534,74.85843566,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1409,Dhramgaon,W01262,17.58813543,75.44968338000001,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1410,KT weir,W01263,17.94496122,74.90828898999999,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1411,Darshanal Deep Cut Canal,W01264,17.71627732,76.12197130999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1412,Dombarjavalge,W01265,17.69892103,76.13468197,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1413,Sindakhed,W01266,17.60117854,76.22502653999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-II,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1414,Nimgaon,W01267,17.53244037,76.24723755000001,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-II,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1415,Akkalkot,W01268,17.52602377,76.24670768,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-II,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1416,Mirajagi,W01269,17.471780149999997,76.25385897,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-II,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1417,Rampur,W01270,17.51588442,76.24226075,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-II,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1418,Satan Dudhani,W01271,17.42471836,76.26940014,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-II,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1419,Sangolagi,W01272,17.39629872,76.31765052,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-II,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1420,Narsinghpur,W01273,17.97098135,75.12917587,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1421,Tambve,W01274,17.91758824,75.06997761000001,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1422,Malinagar,W01275,17.90506162,75.04458843,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1423,Aklaidevi,W01276,17.8954237,75.02695298,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1424,Akluj,W01277,17.912021969999998,75.00530185000001,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1425,Takli,W01278,17.97878419,75.06884145,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1426,Shewere,W01279,17.97602956,75.13083549999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1427,Ganeshgaon,W01280,17.94376192,75.11462489,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1428,Bhat Nimgaom,W01281,18.01867812,75.04849657,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1429,Ruddewadi,W01282,17.38457501,76.3239701,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-II,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1430,Boratwadi,W01283,17.94196006,74.88580362,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1431,Kacharewadi,W01284,17.91535702,74.99120011000001,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1432,Tirwandi,W01285,17.939900060000003,74.93954948,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1433,Nirvangi-Khalal,W01286,17.99133531,74.86252118,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1434,Walchandnagar,W01287,18.00750722,74.79229251,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1435,Chikhali,W01288,18.02441995,74.74437143,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1436,KT weir,W01289,17.99902057,74.80972453000001,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1437,KT weir,W01290,17.992881089999997,74.83789456,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1438,Vaphegaon,W01291,17.941198489999998,75.19815848,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1439,Mare,W01292,17.86777627,75.13469245,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1440,Pirachi Kuroli,W01293,17.81324075,75.16875214,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1441,Dasur,W01294,17.775056959999997,75.15763756,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1442,Dhanora,W01295,17.77249788,75.10131113999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1443,Patvardhan kuroli,W01296,17.76365343,75.19487096,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1444,Gusale,W01297,17.7294374,75.31145669,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1445,Pandharpur,W01298,17.68702379,75.33805117,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1446,mundhewadi,W01299,17.69073169,75.39646904,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1447,Puluj,W01300,17.64202872,75.52221858,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1448,Sarkoli,W01301,17.61400909,75.49055115,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1449,Mudhavi,W01302,17.59599854,75.47990731,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1450,Mallewadi,W01303,17.57014835,75.41087223,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1451,Gharniki,W01304,17.55673925,75.38854826,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1452,Marapur,W01305,17.54672984,75.35413497,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1453,Gumjegaon,W01306,17.52648489,75.32149238,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1454,Shetpal,W01307,17.52904621,75.30880248000001,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1455,Methawade,W01308,17.513823809999998,75.2859182,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1456,Manjari,W01309,17.50563049,75.26330499,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1457,Save,W01310,17.493228830000003,75.24424673,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1458,Bamni,W01311,17.466798009999998,75.23600981,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1459,Vadegaon,W01312,17.43929502,75.23694943000001,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1460,Sangola,W01313,17.41192259,75.21936832,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1461,Aligaon (K),W01314,17.37678936,75.24004563999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1462,KT weir,W01315,17.360834110000003,75.2326086,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1463,Jawala,W01316,17.32541625,75.21771867,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1464,Bathan,W01317,17.601118239999998,75.54521367,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1465,Machanur,W01318,17.57078521,75.56155505999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1466,Vadapur,W01319,17.53405084,75.65682642,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1467,Govindpur,W01320,17.444227209999998,75.67780464,,Bijapur,KA,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Bijapur,CLASS 3,,,,,,,,,,,,,No
+1468,Umrani,W01321,17.41913353,75.73604573,,Bijapur,KA,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Bijapur,CLASS 3,,,,,,,,,,,,,No
+1469,Taratgaon,W01322,18.492720509999998,75.25277236000001,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1470,Potegaon,W01323,18.45007956,75.25098966,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1471,Sangoba,W01324,18.429190509999998,75.25458617999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1472,Bhalewadi,W01325,18.39758998,75.30097463999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1473,Kave,W01326,18.181538109999998,75.4255236,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1474,Mhaisgaon,W01327,18.17144184,75.48652694,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1475,Ridhore,W01328,18.133332449999997,75.53113166,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1476,Nimgaon,W01329,18.07869944,75.55480349,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1477,Darphal (Seena),W01330,18.057393440000002,75.57833387,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1478,Darpal  (U),W01331,18.032781739999997,75.56875019,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1479,Madha,W01332,18.06412147,75.52939801000001,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1480,Undargaon,W01333,18.01674415,75.59149744999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1481,Khairav,W01334,17.96205358,75.6085601,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1482,Bopali,W01335,17.930453909999997,75.61547216999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1483,Malikpeth,W01336,17.87550008,75.64325348999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1484,Bhoyare,W01337,17.87206477,75.66881749000001,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1485,Degaon,W01338,17.94360445,75.71387523,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1486,Tadavale,W01339,18.004535530000002,75.72295491999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1487,Ghanegaon,W01340,18.10697348,75.77277994,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Osmanabad,CLASS 3,,,,,,,,,,,,,No
+1488,Irle,W01341,18.05645564,75.75090579,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Osmanabad,CLASS 3,,,,,,,,,,,,,No
+1489,Kolegaon,W01342,17.80611322,75.68786637,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1490,Shirapur,W01343,17.79866195,75.71744568999999,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1491,Arjunsond,W01344,17.74873882,75.71551737,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1492,Pakani,W01345,17.72307316,75.77021735,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1493,Bhambewadi,W01346,17.81606586,75.71014782,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1494,Shingoli,W01347,17.644397660000003,75.76915928,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1495,Akole(M),W01348,17.59675317,75.78338364,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1496,Nandur,W01349,17.57017617,75.83690315,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1497,Vadakbal,W01350,17.536338230000002,75.88312931,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1498,Sindkhed,W01351,17.50069748,75.92998331,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Solapur,CLASS 3,,,,,,,,,,,,,No
+1499,Kole,W01352,17.263007860000002,74.94656663,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1500,Shelgaon,W01353,18.212857770000003,75.72994641,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Osmanabad,CLASS 3,,,,,,,,,,,,,No
+1501,tarali 1,W01354,17.52738758,73.91466288000001,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1502,Weir kukdi,W01355,19.1485095,74.06766909,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1503,tarali 2,W01356,17.52024532,73.92310347,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1504,KT weir,W01357,18.79700512,73.86570264000001,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1505,KT weir,W01358,18.77949884,73.89087957,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1506,KT weir,W01359,18.81886333,73.80375157,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1507,KT weir,W01360,18.71762202,73.985259,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1508,W 1,W01361,18.819633370000002,73.7812112,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1509,KT weir,W01362,18.815833859999998,73.83050645,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1510,KT weir,W01363,18.73888176,73.94312592,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1511,KT weir,W01364,18.811917190000003,73.84199568999999,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1512,KT weir,W01365,18.11924981,74.15128058,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1513,KT weir,W01366,18.761443590000003,73.91141639,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1514,KT weir,W01367,18.78967987,73.87390483,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1515,tarali 3,W01368,17.511374649999997,73.93671229,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1516,ch-15,W01369,17.66142877,74.35116259,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1517,KT weir,W01370,18.74476818,73.93279255,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1518,KT weir,W01371,18.12434332,74.12988787,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1519,KT weir,W01372,18.10030647,74.23383188,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1520,ch-21,W01373,17.63597728,74.37468379,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1521,KT weir,W01374,18.09666275,74.21891021,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1522,KT weir,W01375,18.10533023,74.19508599,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1523,ch-13,W01376,17.67125891,74.34018987,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1524,Ch-8,W01377,17.69437172,74.3267519,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1525,KT weir,W01378,18.09307915,74.34482152000001,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1526,Ch-5,W01379,17.698757519999997,74.31907734,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1527,ch-17,W01380,17.65056797,74.36168780999999,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1528,Ch -9,W01381,17.68726265,74.3359193,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1529,ch-27,W01382,17.616586509999998,74.40532141999999,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1530,ch-18,W01383,17.64782816,74.36374043,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1531,ch-25,W01384,17.63086181,74.39933758,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1532,ch-23,W01385,17.6359647,74.38647655,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1533,ch-28,W01386,17.60873757,74.41221044,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1534,ch-31,W01387,17.591206670000002,74.44040183999999,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1535,ch-29,W01388,17.59670306,74.43351931,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1536,urmodi KT weir,W01389,17.59336945,74.0291816,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1537,Urmodi KT weir,W01390,17.57910593,74.04243612,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1538,Urmodi KT weir,W01391,17.64085414,73.99179507999999,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1539,KT weir,W01392,17.50486461,73.98813607,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1540,tarali 4,W01393,17.5067526,73.95600287,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1541,KT weir,W01394,17.50220121,74.00775247,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1542,KT weir,W01395,17.46985781,74.06047238000001,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1543,KT weir,W01396,17.48353946,74.04181557999999,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1544,KT weir,W01397,17.43203586,74.08266618,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1545,KT weir,W01398,17.455167330000002,74.06864658,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1546,Ganeshwdi,W01399,17.589052239999997,74.44759477000001,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1547,Dahtane,W01400,18.54238179,74.21312305,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1548,Rahu,W01401,18.5680738,74.27277465,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1549,Pangaon,W01402,18.55994592,74.34282651,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1550,Sadalgaon,W01403,18.54027202,74.48628242,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1551,Sonawadi,W01404,18.48345735,74.57093847,,Ahmadnagar,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Ahmadnagar,CLASS 3,,,,,,,,,,,,,No
+1552,Deulgaon,W01405,18.46072198,74.67364726,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1553,Kolvade,W01406,18.45314324,73.55556677999999,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1554,KT weir,W01407,18.45011392,73.56433424000001,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1555,Andgaon,W01408,18.45236997,73.61570355,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1556,Bharekar,W01409,18.44349908,73.63238036,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1557,Davaje,W01410,18.41425597,73.66383175,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1558,Bhagatwadi,W01411,18.42594991,73.64566237,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1559,KT weir,W01412,18.453202349999998,73.60523017999999,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Baramati,CLASS 3,,,,,,,,,,,,,No
+1560,KT weir at Bhivari,W01413,18.52591834,74.11781129,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1564,Chinke,W01417,17.37374139,75.06611259,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1565,KT weir,W01418,17.37453137,75.08989666,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1566,KT weir,W01419,17.39004885,75.11957738,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1567,KT weir,W01420,17.390528489999998,75.14525176000001,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1568,KT weir,W01421,17.38999243,75.18074448,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1569,KT weir,W01422,17.392447009999998,75.20196111,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1570,KT weir,W01423,17.41192259,75.21936832,,Solapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Madha,CLASS 3,,,,,,,,,,,,,No
+1571,Altur,W01424,16.976328749999997,73.88295075,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Hatkanangle,CLASS 3,,,,,,,,,,,,,No
+1572,Warul,W01425,16.952280530000003,73.88891867000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Hatkanangle,CLASS 3,,,,,,,,,,,,,No
+1573,Bhoslewadi,W01426,16.94227144,73.90480380999999,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Hatkanangle,CLASS 3,,,,,,,,,,,,,No
+1574,Sutarwadi,W01427,16.95471829,73.89129891,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Hatkanangle,CLASS 3,,,,,,,,,,,,,No
+1575,Sawata,W01428,16.92228956,73.98425619,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Hatkanangle,CLASS 3,,,,,,,,,,,,,No
+1576,4,W01429,16.24448469,74.206352,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1577,3,W01430,16.23890047,74.20610163,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1578,1,W01431,16.23622163,74.20273804,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1579,2,W01432,16.23798334,74.20443852000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1580,5,W01433,16.246047469999997,74.20688477,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1581,6,W01434,16.24820077,74.20863052,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1582,8,W01435,16.25328687,74.21088612000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1583,7,W01436,16.251052140000002,74.20986279,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1584,9,W01437,16.2574947,74.21611854,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1585,10,W01438,16.260122220000003,74.21833565,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1586,11,W01439,16.260993929999998,74.22128909,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1587,12,W01440,16.26220785,74.22325504000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1588,13,W01441,16.27030469,74.22914739000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1589,14,W01442,16.27677144,74.23252928000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1590,15,W01443,16.289226900000003,74.23564586,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1591,16,W01444,16.30942509,74.26330363,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1592,kasari,W01445,16.32377541,74.27582715,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1593,vadgaon,W01446,16.34184341,74.28186261,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1594,kapashi,W01447,16.34929952,74.28112634,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1595,Metage,W01448,16.38276802,74.28445798,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1596,Harli,W01449,16.17606253,74.33783808,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1597,Bhadvan,W01450,16.16082368,74.28296908,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1598,Karpewadi,W01451,16.098582460000003,74.20064257,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1599,KT weir,W01452,16.49600979,73.92507724,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1600,Kandalgaon,W01453,16.50781511,73.92511122,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1601,Gariwade,W01454,16.514417199999997,73.92438349,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1602,Gavashi,W01455,16.599864129999997,73.98600457,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1603,Dongalwadi,W01456,16.52294872,73.93017634,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1604,KT weir,W01457,16.54093092,73.93606423000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1605,Sheloshi,W01458,16.56023111,73.9477406,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1606,Balapwadi,W01459,16.61273678,73.99174249,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1607,KT weir,W01460,16.56586975,73.95409461999999,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1608,Panore,W01461,16.631549279999998,74.00547755999999,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1609,KT weir,W01462,16.57690142,73.95699540000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1610,Mhasurli,W01463,16.58670959,73.97395138,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1611,Pilani,W01464,15.95099132,74.10525091,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1612,Bijur bhogali,W01465,15.96935756,74.13302107,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1613,Hindagaon,W01466,15.98797689,74.18126380000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1614,Kande sawarde,W01467,15.98082695,74.21677833,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1615,Adkur,W01468,16.01241426,74.27571882,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1616,Umgaon,W01469,15.891382259999999,74.12821603,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1617,KT weir,W01470,15.93769211,74.20108404,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1618,Kurtan wadi,W01471,15.931861170000001,74.23586847,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1619,Nhaveli,W01472,15.895885029999999,74.14277342000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1620,Kovad,W01473,15.923381169999999,74.26257284,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1621,Turkewadi,W01474,15.88175669,74.31974979,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1622,Mandedurg,W01475,15.915708449999999,74.33677137999999,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1623,Karve,W01476,15.89803747,74.32993924,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1624,KT weir,W01477,18.98035548,73.85661485,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1625,KT weir,W01478,18.974729949999997,73.86431042,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1626,KT weir,W01479,18.97360368,73.86694487,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1627,KT weir,W01480,18.96963581,73.87296771,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1628,KT weir,W01481,18.96919476,73.87578796,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1629,KT weir,W01482,18.96832091,73.87742557,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1630,KT weir,W01483,18.966813169999998,73.87859861,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1631,KT weir,W01484,18.965916580000002,73.88084198,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1632,KT weir,W01485,18.96359027,73.88138857,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1633,KT weir,W01486,18.96236158,73.88285714,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1634,KT weir,W01487,18.9621508,73.88464186,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1635,KT weir,W01488,18.96155608,73.88670077,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1636,KT weir,W01489,18.96019061,73.88831615,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1637,KT weir,W01490,18.959379459999997,73.8897506,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1638,KT weir,W01491,18.95806773,73.89255028,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1639,KT weir,W01492,18.95558133,73.89436669,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1640,KT weir,W01493,18.95368955,73.89553734,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1641,KT weir,W01494,18.95229999,73.89617979,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1642,KT weir,W01495,18.95141778,73.89869939,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1643,KT weir,W01496,18.94953249,73.90060371999999,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1644,KT weir,W01497,18.947966140000002,73.90253332,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1645,KT weir,W01498,18.945940760000003,73.90589874,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1646,KT weir,W01499,18.947646520000003,73.90337255,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1647,KT weir,W01500,18.94610973,73.91058223,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1648,KT weir,W01501,18.94452588,73.91282665,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1649,KT weir,W01502,18.93993893,73.91520444,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1650,KT weir,W01503,18.93704018,73.91923916,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1651,KT weir,W01504,18.93636273,73.92119455,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1652,KT weir,W01505,18.93379767,73.92463331,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1653,KT weir,W01506,18.93112974,73.9246138,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1654,KT weir,W01507,18.92801485,73.9277075,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1655,KT weir,W01508,18.90274848,73.95504885,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1656,KT weir,W01509,18.90914629,73.94825823,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1657,Parivane,W01510,16.84669645,73.80122788,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Hatkanangle,CLASS 3,,,,,,,,,,,,,No
+1658,Navalachiwadi - 1,W01511,16.82743661,73.80143433,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Hatkanangle,CLASS 3,,,,,,,,,,,,,No
+1659,Suskewadi,W01512,16.80325854,73.8041779,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Hatkanangle,CLASS 3,,,,,,,,,,,,,No
+1660,Kanta,W01513,16.79206968,73.85289098,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Hatkanangle,CLASS 3,,,,,,,,,,,,,No
+1661,Pendhakhale,W01514,16.766133340000003,73.94285483,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1662,Thane,W01515,16.767374909999997,74.08527891,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1663,Tirpan,W01516,16.74440433,74.06405935,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1664,Patgaon,W01517,16.12896986,73.94670230000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1665,Vanyachiwadi,W01518,16.14088542,73.96076476,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1666,Sukhyachiwadi,W01519,16.151668389999998,73.97750672000001,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1667,Tamble,W01520,16.15775103,73.99131953999999,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1668,Anapdhakate,W01521,16.16011686,74.00554327,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1669,Dasewadi,W01522,16.173365070000003,74.0260971,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1670,Karambali,W01523,16.1792318,74.05603379,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1671,Kadgaon,W01524,16.219004310000003,74.08259978,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1672,Vengrul,W01525,16.244753590000002,74.10024492,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1673,Shitoli,W01526,16.25465496,74.11141705,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1674,Karadwadi,W01527,16.28814788,74.11663523,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1675,Madur,W01528,16.308589119999997,74.12720597,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1676,KT weir,W01529,16.36243907,74.13946954,,Kolhapur,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Kolhapur,CLASS 3,,,,,,,,,,,,,No
+1677,KT weir,W01530,17.39505908,74.02445454,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1678,KT weir,W01531,17.39340027,74.02813116,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1679,KT weir,W01532,17.392663340000002,74.03069713000001,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1680,ch 318,W01533,17.388297650000002,74.03528245,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1681,ch 447,W01534,17.38549864,74.03789635000001,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1682,ch 625,W01535,17.38217774,74.0389204,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1683,ch 735,W01536,17.37615809,74.04590685000001,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1684,ch 982,W01537,17.373667949999998,74.05638999,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1685,ch 1017,W01538,17.37184728,74.0654541,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1686,ch 1125,W01539,17.376173180000002,74.07559302,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1687,KT weir,W01540,17.38522126,74.08150526,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1688,ch 1215,W01541,17.38565897,74.08814602,,Satara,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-IV,,,,,,,Satara,CLASS 3,,,,,,,,,,,,,No
+1689,KT weir,W01542,18.79721581,73.52431557,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Maval,CLASS 3,,,,,,,,,,,,,No
+1690,KT weir,W01543,18.7852221,73.53734559,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Maval,CLASS 3,,,,,,,,,,,,,No
+1691,Dehu,W01544,18.738260439999998,73.76951844999999,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1692,Nigjohe,W01545,18.71074416,73.79326309,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Maval,CLASS 3,,,,,,,,,,,,,No
+1693,Chimbali,W01546,18.6810532,73.85863318999999,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1694,Alandi,W01547,18.67721773,73.89442457,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1695,Charholi BK,W01548,18.66211565,73.90401478999999,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1696,Dhanare,W01549,18.65690359,73.93113077,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1697,Vedgaon Shinde,W01550,18.6379746,73.95859172,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Pune,CLASS 3,,,,,,,,,,,,,No
+1698,Shindewasti,W01551,18.62099901,73.96340128000001,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1699,Tulapur,W01552,18.66907455,73.98717723,,Pune,MH,,04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seismic Zone-III,,,,,,,Shirur,CLASS 3,,,,,,,,,,,,,No
+1728,Pakhal Anicut 1,A01255,17.944305219999997,79.95967546,,Warangal,TS,,04,,,,,,,,,,,,,,,,,,,,,,,,,,Rashmi,,Completed,Seismic Zone-III,,,,,,,Mahabubabad,CLASS 3,,,,,,,,,,,,,No
+1729,Pakhal Anicut 2,A01256,17.93486429,79.95179318,,Warangal,TS,,04,,,,,,,,,,,,,,,,,,,,,,,,,,Rashmi,,Completed,Seismic Zone-III,,,,,,,Mahabubabad,CLASS 3,,,,,,,,,,,,,No
+1730,Pakhal Anicut 3,A01257,17.89759614,79.90077541,,Warangal,TS,,04,,,,,,,,,,,,,,,,,,,,,,,,,,Rashmi,,Completed,Seismic Zone-III,,,,,,,Mahabubabad,CLASS 3,,,,,,,,,,,,,No
+2048,Dindi Weir,W01554,16.5896,78.77041109999999,,Nalgonda,TS,,04,,,,,,,,,,,,,,,,,,,,,,,,,,Rashmi,,Completed,Seismic Zone-II,,,,,,,Nalgonda,CLASS 3,,,,,,,,,,,,,No
+3022,VRS Gudi Anicut,A01580,15.960741389999999,78.62297271,,Kurnool,AP,,04,,,,,,,,,,,,,,,,,,,,,,,,,,Vineeta,,Completed,Seismic Zone-II,,,,,,,Nandyal,CLASS 3,,,,,,,,,,,,,No
+4332,Vaikuntapuram Barrage,B01609,16.581609380000003,80.42228184000001,,Guntur,AP,Krishna,04,,,,,,,,,,,,,,,,,,,,,,,,,,Ankit,,,,,,,,,,,,,,,,,,,,,,,,No
+4333,Sonthi Barrage,B01610,16.83305028,76.92864793,,Gulbarga,KA,Bhima,04,,,,,,,,,,,,,,,,,,,,,,,,,,Ankit,,,,,,,,,,,,,,,,,,,,,,,,No

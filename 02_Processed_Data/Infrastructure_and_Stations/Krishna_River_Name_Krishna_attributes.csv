@@ -1,0 +1,928 @@
+objectid,rivname,rilcode,origin,major_tributary,bacode,ba_name,sub_basin,remarks,st_length_shape
+41,Adda Halla,,,,04,Krishna,Krishna Upper,,15258.899441830423
+98,Agsan Halla,,,,04,Krishna,Krishna Upper,,16791.91032910296
+100,Agsir Halla,,,,04,Krishna,Krishna Upper,,7093.859128692825
+172,Akal ,,,,04,Krishna,Bhima Upper,,26274.17887562984
+181,Akeri Halla,,,,04,Krishna,Bhima Lower,,9025.806514418158
+182,Akeru,,,,04,Krishna,Krishna Lower,,123418.43272601954
+195,Akkisagar Halla,,,,04,Krishna,Krishna Upper,,17165.519538130735
+246,Aler,,,,04,Krishna,Krishna Lower,,113278.39927474322
+251,Alhat,,,,04,Krishna,Bhima Upper,,9209.418528947122
+257,Ali Halla,,,,04,Krishna,Krishna Upper,,17338.4031357822
+275,Alkuti,,,,04,Krishna,Bhima Upper,,15130.427360723836
+293,Alugu Eru,,,,04,Krishna,Krishna Lower,,18066.769030954234
+339,Amarawati Halla,,,,04,Krishna,Tungabhadra Lower,,33628.941983962395
+345,Amarja,2,,,04,Krishna,Bhima Lower,,78037.85635335109
+395,Ambe Odha,,,,04,Krishna,Bhima Upper,,9305.088581766617
+397,Ambegol,,,,04,Krishna,Krishna Upper,,9020.103828529232
+403,Ambi,,,,04,Krishna,Bhima Upper,,24227.339978781518
+417,Ameidda Halla,,,,04,Krishna,Tungabhadra Upper,,6137.302223067029
+506,Anaikat Halla,,,,04,Krishna,Tungabhadra Lower,,29984.86430479914
+583,Anebidda Halla,,,,04,Krishna,Tungabhadra Upper,,30352.173136209272
+626,Ankalayi Halla,,,,04,Krishna,Bhima Upper,,13075.304622936139
+648,Antara Ganga Vagu,,,,04,Krishna,Krishna Lower,,22357.964898312257
+659,Anwar N,,,,04,Krishna,Krishna Upper,,39362.76450917969
+731,Are Halla,,,,04,Krishna,Bhima Lower,,10497.145119033441
+735,Arendur,,,,04,Krishna,Tungabhadra Upper,,10735.77602322404
+737,Argara ,,,,04,Krishna,Bhima Upper,,12943.485511018123
+780,Arlikata Halla,,,,04,Krishna,Krishna Upper,,8146.226795999393
+795,Arre Halla,,,,04,Krishna,Bhima Lower,,11442.403041746464
+834,Ashta Vagu,,,,04,Krishna,Krishna Lower,,4439.201576584698
+842,Asmai Odha,,,,04,Krishna,Bhima Upper,,7115.43525281456
+878,Athmori Odha,,,,04,Krishna,Bhima Upper,,20339.13933740849
+958,Ayyanakeri Halla,,,,04,Krishna,Tungabhadra Upper,,52983.56034412259
+960,Ayyanna Vagu,,,,04,Krishna,Krishna Lower,,5570.766814044837
+1025,Badachi Halla,,,,04,Krishna,Krishna Upper,,35152.76843236271
+1026,Badagan Halla,,,,04,Krishna,Krishna Upper,,10440.133878985065
+1098,Bag Nala,,,,04,Krishna,Bhima Upper,,13094.638258715904
+1131,Bagarnal Halla,,,,04,Krishna,Krishna Upper,,12054.732753382945
+1173,Bagha Odha,,,,04,Krishna,Bhima Upper,,3371.5805214687807
+1451,Bakrena Halla,,,,04,Krishna,Krishna Upper,,10246.835225287277
+1511,Bale Halla,,,,04,Krishna,Krishna Upper,,9219.208802894513
+1583,Ballammachelva Kalva,,,,04,Krishna,Krishna Middle,,10613.38968948352
+1622,Balusuchanda Kalva,,,,04,Krishna,Krishna Middle,,6627.317938769811
+1722,Bandal Vagu,,,,04,Krishna,Krishna Lower,,32115.01604634628
+1760,Bandi Hole,,,,04,Krishna,Tungabhadra Upper,,17552.353187118057
+1768,Bandla Vagu,,,,04,Krishna,Bhima Lower,,9510.279871042896
+1771,Bandlaoaya Vagu,,,,04,Krishna,Krishna Middle,,5627.341046211656
+1819,Bangari Halla,,,,04,Krishna,Krishna Upper,,16275.952003973838
+1844,Banja Halla,,,,04,Krishna,Tungabhadra Lower,,24833.632212905868
+1883,Banki Halla,,,,04,Krishna,Krishna Upper,,14372.789481771904
+1904,Banni Halla,,,,04,Krishna,Krishna Upper,,21932.22418565825
+1950,Banuchandra Vanka,,,,04,Krishna,Tungabhadra Lower,,24326.130427800814
+1955,Bapae Vagu,,,,04,Krishna,Krishna Lower,,9705.576136742457
+1980,Bara Halla,,,,04,Krishna,Krishna Upper,,27175.13178486983
+2064,Barandar Halla,,,,04,Krishna,Krishna Upper,,10349.067502861275
+2092,Baravcha Odha,,,,04,Krishna,Bhima Upper,,7347.532116564821
+2194,Barimeda,,,,04,Krishna,Krishna Lower,,11956.067939444492
+2390,Baswani Halla,,,,04,Krishna,Tungabhadra Lower,,35277.39944966884
+2476,Bavi Halla,,,,04,Krishna,Tungabhadra Upper,,12059.629948572227
+2487,Bayad Nala,,,,04,Krishna,Bhima Lower,,15217.225914156059
+2592,Bellary N,,,,04,Krishna,Krishna Upper,,60564.02324354061
+2593,Belli Halla,,,,04,Krishna,Krishna Upper,,18830.34829864997
+2620,Bend,,,,04,Krishna,Bhima Upper,,13654.075709149101
+2621,Bend Odha,,,,04,Krishna,Bhima Upper,,4375.36077614796
+2649,Benja Halla,,,,04,Krishna,Bhima Upper,,9123.07155430975
+2654,Benni Hala,3,,,04,Krishna,Krishna Upper,ok,135618.7001778892
+2701,Betgeri Halla,,,,04,Krishna,Krishna Upper,,14977.199064724979
+2748,Bhadra,,,,04,Krishna,Tungabhadra Upper,ok,201777.3104043563
+2789,Bhagirathi,,,,04,Krishna,Bhima Upper,,10691.594143425535
+2803,Bhai Roba,,,,04,Krishna,Bhima Upper,,16084.92509963805
+2905,Bhama,,,,04,Krishna,Bhima Upper,,69319.80545717018
+3095,Bhavanasi,,,,04,Krishna,Krishna Middle,,73385.15472438469
+3097,Bhavi Halla,,,,04,Krishna,Krishna Upper,,21828.10876463074
+3161,Bhimanapalli Vagu,,,,04,Krishna,Krishna Middle,,56140.33733466072
+3164,Bhimawaram N,,,,04,Krishna,Krishna Middle,,21645.210967594438
+3181,Bhingar,,,,04,Krishna,Bhima Upper,,14853.603932101494
+3212,Bhogavati,,,,04,Krishna,Krishna Upper,,83363.23259148687
+3259,Bhramani,,,,04,Krishna,Tungabhadra Upper,,39052.25983024037
+3356,Bhutnal Kere,,,,04,Krishna,Bhima Lower,,8524.04887166125
+3386,Bidar Halla,,,,04,Krishna,Krishna Upper,,17167.82701519643
+3387,Bidaragodu Halla,,,,04,Krishna,Tungabhadra Upper,,22788.738215681526
+3391,Biddanumoppana Halla,,,,04,Krishna,Tungabhadra Lower,,7318.324830261514
+3456,Bilaora Nala,,,,04,Krishna,Bhima Upper,,22727.39291666332
+3512,Binnala Halla,,,,04,Krishna,Tungabhadra Upper,,12761.340034644772
+3684,Bokkala Vagu,,,,04,Krishna,Krishna Lower,,5863.3299672675
+3706,Bombara Halla,,,,04,Krishna,Tungabhadra Upper,,39599.34267538092
+3716,Bondi Nala,,,,04,Krishna,Bhima Upper,,4303.038732568351
+3728,Bopale Bet,,,,04,Krishna,Bhima Upper,,22284.221719471996
+3730,Bor,2,,,04,Krishna,Bhima Upper,,55841.32197197258
+3734,Bor Odha,,,,04,Krishna,Bhima Upper,,11326.820431947803
+3783,Bottala,,,,04,Krishna,Krishna Lower,,12004.331805244725
+3785,Boyala Vanka,,,,04,Krishna,Tungabhadra Lower,,24955.2856945484
+3842,Budala Halla,,,,04,Krishna,Tungabhadra Upper,,10037.102423184671
+3852,Budhal Halla,,,,04,Krishna,Tungabhadra Upper,,14371.741958466915
+3879,Buga,,,,04,Krishna,Krishna Lower,,47900.42758444723
+3881,Bugga Vagu,,,,04,Krishna,Krishna Lower,,15844.337033992502
+3882,Bugga Vagu,,,,04,Krishna,Krishna Middle,,20512.250111606394
+3885,Bugga Vagu_Krishna,,,,04,Krishna,Krishna Middle,,23409.781525559833
+3886,Bugga Vagu_Musi,,,,04,Krishna,Krishna Lower,,12063.421052808992
+3910,Bukler,,,,04,Krishna,Krishna Lower,,26866.43880494598
+4032,Byare Hole,,,,04,Krishna,Tungabhadra Upper,,14236.739361495938
+4074,Chail Halla,,,,04,Krishna,,,23739.52222222372
+4251,Chandan Odha,,,,04,Krishna,Bhima Upper,,7204.031746607862
+4291,Chandra Vagu,,,,04,Krishna,Krishna Middle,,39905.3272072732
+4311,Chandrapura Halla,,,,04,Krishna,Tungabhadra Upper,,47678.24290516469
+4461,Chatram Halla,,,,04,Krishna,Tungabhadra Lower,,29491.781902303217
+4479,Chaul Halla,,,,04,Krishna,Krishna Upper,,17573.719476424125
+4528,Chella Halla,,,,04,Krishna,Krishna Upper,,21491.015175822817
+4563,Chenna Halla,,,,04,Krishna,Tungabhadra Upper,,15893.85973683839
+4565,Chennampalli Vanka,,,,04,Krishna,Tungabhadra Lower,,19354.04434876665
+4566,Chennavaram Vagu,,,,04,Krishna,Krishna Middle,,36157.33809831483
+4897,Chik Halla,,,,04,Krishna,Krishna Upper,,9044.813146194167
+4914,Chikka Hagari ,,,,04,Krishna,Tungabhadra Upper,ok,137312.7700869798
+4915,Chikka Halla,,,,04,Krishna,Bhima Lower,,40701.33673433919
+4918,Chikka Tore,,,,04,Krishna,Tungabhadra Lower,,45218.65710097713
+4931,Chikodi Halla,,,,04,Krishna,Krishna Upper,,16310.769487240017
+4936,Chikutra N,,,,04,Krishna,Krishna Upper,,43580.753034401336
+4944,Chilakala Bagu,,,,04,Krishna,Krishna Lower,,42500.83231361492
+4983,China Vagu,,,,04,Krishna,Krishna Lower,,45075.680730908054
+4984,China Vagu,,,,04,Krishna,Krishna Middle,,29621.707433111864
+4987,Chinamageri,,,,04,Krishna,Bhima Lower,,25625.06222401296
+4988,Chinamgiri,,,,04,Krishna,Bhima Lower,,31724.741458290355
+5012,Chinna Chela,,,,04,Krishna,Krishna Middle,,8426.214828009148
+5016,Chinna Hagari,,,,04,Krishna,Tungabhadra Lower,ok,112983.62726220168
+5026,Chinna Musi R,,,,04,Krishna,Krishna Lower,,70293.84923944378
+5032,Chinnaeru R,,,,04,Krishna,Krishna Lower,,25796.77631295637
+5034,Chinnagundala Vagu,,,,04,Krishna,Krishna Middle,,12152.084140352006
+5055,Chintala Vagu,,,,04,Krishna,Krishna Lower,,17335.648203140856
+5074,Chiral Halla,,,,04,Krishna,Krishna Upper,,13862.124011303657
+5140,Chitri,,,,04,Krishna,Krishna Upper,,12759.777306467891
+5195,Cholleru Vagu,,,,04,Krishna,Krishna Lower,,28067.795796066235
+5627,Dandavati R,,,,04,Krishna,Tungabhadra Upper,,73256.90771314394
+5733,Dargah Halla,,,,04,Krishna,Bhima Lower,,13117.262605137972
+5957,Desai Halla,,,,04,Krishna,Krishna Upper,,18181.572703103076
+5959,Desayi Halla,,,,04,Krishna,Krishna Upper,,14346.986582493413
+5973,Dev Nala,,,,04,Krishna,Bhima Upper,,22920.444360035366
+5983,Devalmalik ,,,,04,Krishna,Bhima Upper,,7280.922165036739
+5984,Devamma Halla,,,,04,Krishna,Tungabhadra Lower,,27428.760633265083
+5989,Devapur Nala,,,,04,Krishna,Krishna Upper,,40169.012542051365
+5992,Devara Halla,,,,04,Krishna,Bhima Lower,,13332.609644497616
+5995,Devaragutta Vanka,,,,04,Krishna,Tungabhadra Lower,,22601.574080969414
+5999,Devate Halla,,,,04,Krishna,Krishna Upper,,21062.614355133876
+6081,Dhakli,,,,04,Krishna,Bhima Upper,,19409.059356873113
+6228,Dhareka,,,,04,Krishna,Bhima Upper,,2353.3641053817337
+6244,Dharma,,,,04,Krishna,Tungabhadra Upper,,79189.5868683612
+6339,Dhmni,,,,04,Krishna,Krishna Upper,,39784.83906988643
+6411,Dhor N,,,,04,Krishna,Bhima Lower,,25536.203513522705
+6666,Dog Nala,,,,04,Krishna,Bhima Lower,,12270.635161309656
+6676,Dogi Halla,,,,04,Krishna,Bhima Lower,,17702.7935366971
+6748,Don Halla,,,,04,Krishna,Bhima Upper,,11946.42588873611
+6749,Don,2,,,04,Krishna,Krishna Upper,ok,205847.35584664714
+6851,Dra Vagu,,,,04,Krishna,Krishna Lower,,17575.048680102456
+6927,Dudhewar,,,,04,Krishna,Bhima Upper,,8983.257378557484
+6929,Dudhganga,,,,04,Krishna,Krishna Upper,ok,129881.72937073259
+7121,Duppada Halla,,,,04,Krishna,Tungabhadra Upper,,44528.51872591209
+7171,Dyaman Halla,,,,04,Krishna,Tungabhadra Lower,,17861.456720636077
+7185,Eddu Vagu,,,,04,Krishna,Krishna Lower,,65546.7369138064
+7191,Edumangalam ,,,,04,Krishna,Krishna Lower,,21624.97428138669
+7201,Ekke Halla,,,,04,Krishna,Krishna Upper,,12993.089667999906
+7211,Elaga,,,,04,Krishna,Krishna Lower,,10631.3863350271
+7220,Elumori Halla,,,,04,Krishna,Tungabhadra Lower,,12378.032215161522
+7246,Erangaligi Halla,,,,04,Krishna,Tungabhadra Lower,,6756.762071725373
+7254,Ermulli Vagu,,,,04,Krishna,Krishna Lower,,26493.674005232486
+7260,Erra Vagu,,,,04,Krishna,Krishna Lower,,37591.68285253927
+7261,Erra Vagu,,,,04,Krishna,Tungabhadra Lower,,37144.28457874785
+7346,Gadanagudi Halla,,,,04,Krishna,Krishna Upper,,14558.807291742138
+7347,Gadanyal Halla,,,,04,Krishna,Krishna Upper,,43642.47790287388
+7363,Gadekarana Halla,,,,04,Krishna,Bhima Lower,,5827.318799163761
+7368,Gadge Odha,,,,04,Krishna,Bhima Upper,,7094.5773876185685
+7371,Gadhar N,,,,04,Krishna,Krishna Upper,,35517.17803682595
+7397,Gadldela Vagu,,,,04,Krishna,Krishna Lower,,20613.915820946153
+7414,Gadyalk Halla,,,,04,Krishna,Bhima Upper,,6589.840390187097
+7500,Gajjibandla Vagu,,,,04,Krishna,Krishna Middle,,13625.345406336228
+7638,Gandori,,,,04,Krishna,Bhima Lower,,43381.73105383827
+7672,Gangadevipadu,,,,04,Krishna,Krishna Lower,,56929.46559971274
+7680,Gangammana Halla,,,,04,Krishna,Tungabhadra Lower,,26920.896013106696
+7683,Gangana Halla,,,,04,Krishna,Bhima Lower,,4762.575493687794
+7702,Gange Gauri Halla,,,,04,Krishna,Tungabhadra Upper,,10197.637156038327
+7703,Gange Halla,,,,04,Krishna,Tungabhadra Lower,,28579.073251481284
+7761,Ganneru,,,,04,Krishna,Krishna Lower,,14560.609198243985
+7792,Garaganji Halla,,,,04,Krishna,Bhima Lower,,30002.22869107036
+7818,Garchi Vanka,,,,04,Krishna,Tungabhadra Lower,,67321.5154581363
+7882,Garla,,,,04,Krishna,Krishna Lower,,21287.499068934925
+7974,Gauri Halla,,,,04,Krishna,Bhima Upper,,15490.248286447682
+7975,Gauri Halla,,,,04,Krishna,Tungabhadra Lower,,36705.900693056115
+8049,Ghaded Halla,,,,04,Krishna,Krishna Upper,,7535.778130568317
+8120,Ghantakaranna Vagu,,,,04,Krishna,,,12136.27868178484
+8124,Ghar,,,,04,Krishna,Bhima Upper,,9779.382276371762
+8208,Ghod,2,,,04,Krishna,Bhima Upper,ok,188419.8378937055
+8463,Godchi Halla,,,,04,Krishna,Krishna Upper,,8800.417023701833
+8470,Godeda Halla,,,,04,Krishna,Krishna Upper,,11125.811435519301
+8490,Godra Vagu,,,,04,Krishna,Krishna Lower,,13051.962660686833
+8495,Godu Vagu,,,,04,Krishna,Tungabhadra Lower,,21034.246552788838
+8582,Goll Vagu,,,,04,Krishna,Krishna Lower,,19911.33992288837
+8588,Gollavani Kaluva,,,,04,Krishna,Krishna Lower,,14706.01757544049
+8692,Gorebal N,,,,04,Krishna,Tungabhadra Lower,,44203.77557069467
+8741,Gosbal Halla,,,,04,Krishna,Krishna Upper,,7129.460307048137
+8757,Goti Halla,,,,04,Krishna,Krishna Upper,,13488.375752979755
+8770,Gowardhangiri Vagu,,,,04,Krishna,Krishna Middle,,19423.4929991075
+8814,Gudipalli Vagu,,,,04,Krishna,Krishna Lower,,96020.81363503431
+8823,Gugi Halla,,,,04,Krishna,Krishna Upper,,28345.04182567997
+8830,Gugri Halla,,,,04,Krishna,Tungabhadra Upper,,6907.485916473946
+8863,Gulabshah Halla,,,,04,Krishna,Krishna Upper,,8772.671431247154
+8922,Gummanagundi Halla,,,,04,Krishna,Tungabhadra Upper,,10568.644611589314
+8955,Gundala Vagu,,,,04,Krishna,Krishna Lower,,6273.166423181678
+8967,Gunderu Nala,,,,04,Krishna,Krishna Lower,,57715.88652464917
+8972,Gundi Halla,,,,04,Krishna,Tungabhadra Lower,,39421.98575836643
+8975,Gundigan Halla,,,,04,Krishna,Krishna Upper,,19034.45462007321
+8980,Gundla Vagu,,,,04,Krishna,Krishna Lower,,13612.004043036917
+9014,Gunjawani,,,,04,Krishna,Bhima Upper,,54974.20696675167
+9021,Gunnur Halla,,,,04,Krishna,Krishna Upper,,8778.412737389215
+9069,Gurikodalu Halla,,,,04,Krishna,Tungabhadra Upper,,5475.405030144338
+9194,Hakkandi Halla,,,,04,Krishna,Tungabhadra Upper,,9814.114200779493
+9203,Hala Halla,,,,04,Krishna,Tungabhadra Lower,,15059.832048529872
+9209,Halatar N,,,,04,Krishna,Krishna Upper,,22512.537598018665
+9223,Hale Halla,,,,04,Krishna,Krishna Upper,,12695.014103426784
+9227,Halia,,,,04,Krishna,Krishna Lower,ok,120342.67097339986
+9232,Halli Halla,,,,04,Krishna,Bhima Lower,,20447.974041588383
+9262,Handi Halla,,,,04,Krishna,Tungabhadra Upper,,11352.868472382508
+9265,Handigan Halla,,,,04,Krishna,Krishna Upper,,16864.95190871262
+9321,Haran Halla,,,,04,Krishna,Krishna Upper,,19692.135713229047
+9325,Harasoge Halla,,,,04,Krishna,Tungabhadra Lower,,20094.652441278668
+9349,Hari,,,,04,Krishna,Krishna Upper,,40478.471464519396
+9383,Harogoppa Halla,,,,04,Krishna,Tungabhadra Upper,,10065.216448805546
+9427,Hateghar Nala,,,,04,Krishna,Krishna Upper,,7365.595162877008
+9466,Hatimbradava,,,,04,Krishna,Krishna Upper,,13105.967428769005
+9478,Hattargi Halla,,,,04,Krishna,Krishna Upper,,17547.605048485875
+9483,Haul Halla,,,,04,Krishna,Krishna Upper,,17643.21085264612
+9488,Havalada Halla,,,,04,Krishna,Tungabhadra Upper,,16909.746106677678
+9504,Hebal Nala,,,,04,Krishna,Bhima Upper,,28327.885680121082
+9524,Hemmaki Halla,,,,04,Krishna,Tungabhadra Upper,,18994.072545406278
+9581,Hindri,,,,04,Krishna,Tungabhadra Lower,ok,132199.8279763614
+9582,Hindupur Vagu,,,,04,Krishna,Krishna Middle,,12992.436900179027
+9592,Hira,,,,04,Krishna,Krishna Upper,,11557.051548596806
+9599,Hiranyakeshi,,,,04,Krishna,Krishna Upper,ok,129186.37350115573
+9603,Hire Hall,,,,04,Krishna,Tungabhadra Lower,,34204.31084182299
+9604,Hire Halla,,,,04,Krishna,Krishna Middle,,28209.96567999702
+9607,Hirehalla_River,,,,04,Krishna,Krishna Upper,,37384.35556912709
+9608,Hirekere Halla,,,,04,Krishna,Tungabhadra Lower,,19407.211229680855
+9609,Hiri Halla,,,,04,Krishna,Bhima Lower,,22414.019955436816
+9610,Hiri Halla,,,,04,Krishna,Tungabhadra Upper,,29098.184836473727
+9621,Hirur Halla,,,,04,Krishna,Bhima Upper,,33722.70745415149
+9664,Holigeri Halla,,,,04,Krishna,Krishna Upper,,38744.20201165681
+9704,Hulagi Halla,,,,04,Krishna,Tungabhadra Upper,,34964.23242564267
+9709,Hulkund Halla,,,,04,Krishna,Krishna Upper,,14410.924938134409
+9722,Hunise Halla,,,,04,Krishna,Tungabhadra Upper,,5839.393186164731
+9739,Hushikatti Halla,,,,04,Krishna,Krishna Upper,,22463.495513604634
+9743,Hutti,,,,04,Krishna,Krishna Upper,,55871.754346126436
+9745,Huvin Halla,,,,04,Krishna,Krishna Upper,,22562.394617534606
+9756,Ichal Halla,,,,04,Krishna,Krishna Upper,,28275.095133783667
+9759,Ichchala Halla,,,,04,Krishna,Tungabhadra Upper,,10658.76093500105
+9762,Ichhala Halla,,,,04,Krishna,Tungabhadra Lower,,11117.860451676655
+9794,Ilkal N,,,,04,Krishna,Krishna Upper,,57257.62916364044
+9817,Indi Halla,,,,04,Krishna,Bhima Lower,,42639.849169875975
+9828,Indravani,2,,,04,Krishna,Bhima Upper,ok,110898.26634695099
+9854,Ippagundam,,,,04,Krishna,Krishna Middle,,9757.733001545163
+9857,Ippala Vagu,,,,04,Krishna,Krishna Lower,,43456.06700626627
+9865,Irla Vanka,,,,04,Krishna,Tungabhadra Lower,,19828.18557806562
+9879,Iruve Halla,,,,04,Krishna,Krishna Upper,,26575.338363054605
+9887,Isara Halla,,,,04,Krishna,Tungabhadra Lower,,28391.454430526675
+9916,Jabapur Halla,,,,04,Krishna,Krishna Upper,,14808.87768447937
+9945,Jagana Halla,,,,04,Krishna,Tungabhadra Lower,,46273.01228653173
+9950,Jagatkal Halla,,,,04,Krishna,,,15021.65034387205
+9994,Jaipendra ,,,,04,Krishna,Krishna Middle,,4017.8892554089052
+10051,Jali Halla,,,,04,Krishna,Krishna Upper,,6656.718243308322
+10052,Jali Halla,,,,04,Krishna,Tungabhadra Upper,,12821.069323979164
+10064,Jallmatti Halla,,,,04,Krishna,Krishna Upper,,8293.440968331957
+10101,Jambalni,,,,04,Krishna,Bhima Upper,,24907.057286847143
+10102,Jambhal ,,,,04,Krishna,Bhima Upper,,8010.327254802983
+10277,Janne Kaluva,,,,04,Krishna,Krishna Lower,,12672.166774910376
+10328,Jarri Vagu,,,,04,Krishna,Krishna Middle,,26139.883767768744
+10385,Javali Halla,,,,04,Krishna,Krishna Upper,,20784.07799896281
+10386,Javargi Halla,,,,04,Krishna,Bhima Lower,,29962.01921614967
+10661,Jini Halla,,,,04,Krishna,Krishna Upper,,19379.988818410075
+10852,Junyacha Odha,,,,04,Krishna,Bhima Upper,,8330.083989773975
+10890,Kab Halla,,,,04,Krishna,Tungabhadra Upper,,17500.752820252786
+10894,Kabbana Halla,,,,04,Krishna,Tungabhadra Upper,,26057.563218489497
+10896,Kabbina Halla,,,,04,Krishna,Tungabhadra Upper,,7559.109816307646
+10897,Kabbina Hole,,,,04,Krishna,Tungabhadra Upper,,19356.78523743252
+10922,Kachavalli Hole,,,,04,Krishna,Tungabhadra Upper,,20569.985781177176
+10998,Kadgi Halla,,,,04,Krishna,Krishna Upper,,10841.178552738247
+11004,Kadival Halla,,,,04,Krishna,Krishna Upper,,15066.741142803043
+11032,Kagi Halla,,,,04,Krishna,Krishna Upper,,14404.364522756034
+11121,Kajimada Halla,,,,04,Krishna,Bhima Upper,,15427.585852786106
+11144,Kakarveni R,,,,04,Krishna,Bhima Lower,,51148.37570951057
+11160,Kakkaman Halla,,,,04,Krishna,Tungabhadra Lower,,26349.989286526823
+11161,Kakkara Halla,,,,04,Krishna,Tungabhadra Lower,,18473.574046744736
+11162,Kakke Halla,,,,04,Krishna,Krishna Upper,,19528.21444703292
+11168,Kaklet Vagu,,,,04,Krishna,Krishna Middle,,20602.758672829845
+11205,Kal Halla,,,,04,Krishna,Bhima Upper,,43630.666982155904
+11242,Kalakatti Halla,,,,04,Krishna,Krishna Upper,,14420.950895435593
+11318,Kalhatti Hole,,,,04,Krishna,Tungabhadra Upper,,47389.94522522976
+11429,Kalli Halla,,,,04,Krishna,Krishna Upper,,5663.404808542817
+11501,Kalyala Halla,,,,04,Krishna,Krishna Upper,,6324.34441921903
+11511,Kamakshiamma,,,,04,Krishna,Krishna Middle,,8595.788339197112
+11517,Kamalavati N,,,,04,Krishna,Bhima Lower,,53112.82918353343
+11544,Kameri Tanda,,,,04,Krishna,Krishna Upper,,19103.07542837211
+11557,Kamni Halla,,,,04,Krishna,Krishna Upper,,15569.075967740222
+11561,Kampa Vagu,,,,04,Krishna,Krishna Middle,,15092.485657187668
+11572,Kamta Halla,,,,04,Krishna,Krishna Upper,,17407.632036393385
+11592,Kanak N,,,,04,Krishna,Tungabhadra Lower,,58292.004711360016
+11595,Kanakavidu Vanka,,,,04,Krishna,Tungabhadra Lower,,14180.162863310563
+11603,Kanal Halla,,,,04,Krishna,Krishna Upper,,7571.692159949267
+11696,Kandukura Vagu,,,,04,Krishna,Krishna Lower,,37877.67699803801
+11714,Kanet Vagu,,,,04,Krishna,Krishna Middle,,17737.72977724776
+11716,Kanga,3,,,04,Krishna,Bhima Lower,ok,153384.45158948173
+11748,Kanher Odha,,,,04,Krishna,Bhima Upper,,6496.4105983235895
+11759,Kani Gana Halla,,,,04,Krishna,Tungabhadra Lower,,44473.47538870776
+11761,Kani Halla,,,,04,Krishna,Tungabhadra Lower,,33743.162184208646
+11836,Kannur Halla,,,,04,Krishna,Bhima Lower,,5433.260959183403
+11837,Kanoj Halla,,,,04,Krishna,Krishna Upper,,8182.35023207821
+11839,Kanola,,,,04,Krishna,Bhima Upper,,30706.862680730494
+11861,Kansi,,,,04,Krishna,Tungabhadra Upper,,28133.15940415118
+11882,Kanti Halla,,,,04,Krishna,Bhima Lower,,16195.804668444971
+11898,Kanvi Halla,,,,04,Krishna,Krishna Upper,,43082.497138803476
+11936,Kappala Vagu,,,,04,Krishna,Krishna Lower,,7756.425803793499
+11939,Kappalappan Halla,,,,04,Krishna,Krishna Upper,,20998.438677149075
+11942,Kappur Halla,,,,04,Krishna,Krishna Upper,,19919.729926213804
+11989,Karai,,,,04,Krishna,Bhima Upper,,31568.478086611456
+11999,Karakali,,,,04,Krishna,Krishna Middle,,5774.3410021497975
+12084,Kare Tore,3,,,04,Krishna,Tungabhadra Lower,,60338.00298190365
+12094,Karevan Halla,,,,04,Krishna,Krishna Upper,,10056.480349654656
+12098,Karha,,,,04,Krishna,Bhima Upper,,110532.83767532835
+12108,Kari Halla,,,,04,Krishna,Bhima Lower,,28225.77925868083
+12110,Kari Halla,,,,04,Krishna,Krishna Upper,,13806.451429432273
+12131,Karikan Halla,,,,04,Krishna,Tungabhadra Upper,,5480.7014968003
+12157,Karka,,,,04,Krishna,Krishna Upper,,21592.46659493731
+12168,Karla Halla,3,,,04,Krishna,Tungabhadra Upper,,74928.75837445326
+12190,Karna Halla,,,,04,Krishna,Krishna Upper,,13008.202736453257
+12264,Karur,,,,04,Krishna,Krishna Upper,,15709.518300078353
+12306,Kasari Nai,,,,04,Krishna,Krishna Upper,,79034.82576742767
+12404,Katariki Vanka,,,,04,Krishna,Tungabhadra Lower,,12800.638897464594
+12466,Katka Halla,,,,04,Krishna,Tungabhadra Lower,,15432.248754958799
+12483,Katora,,,,04,Krishna,Krishna Upper,,12144.288695264513
+12493,Katral Nala,,,,04,Krishna,Bhima Lower,,22207.097633400743
+12501,Katta Halla,,,,04,Krishna,Bhima Lower,,12844.691901445152
+12504,Katta Vanka,,,,04,Krishna,Tungabhadra Lower,,54043.45019252419
+12506,Kattaleru,,,,04,Krishna,Krishna Lower,,87663.30390046949
+12508,Kattalli Halla,,,,04,Krishna,Bhima Lower,,13076.625041913052
+12517,Katte Hole,,,,04,Krishna,Tungabhadra Lower,,19284.3145493356
+12518,Katte Hole,,,,04,Krishna,Tungabhadra Upper,,38569.83411753488
+12521,Kattikai Vagu,,,,04,Krishna,Bhima Lower,,11619.891243794307
+12546,Kaukuntla Vagu,,,,04,Krishna,Krishna Middle,,7432.610002541226
+12657,Keli,,,,04,Krishna,Bhima Upper,,15441.25209533633
+12668,Kembali Halla,,,,04,Krishna,Krishna Upper,,12382.559968398975
+12672,Kempa Halla,,,,04,Krishna,Bhima Lower,,39839.679383391514
+12677,Kencha Halla,,,,04,Krishna,Tungabhadra Lower,,13032.931870613022
+12678,Kenchai Halla,,,,04,Krishna,Bhima Lower,,18565.34181931954
+12721,Kerekundi Halla,,,,04,Krishna,Tungabhadra Upper,,18714.414570375506
+12861,Khaji Halla,,,,04,Krishna,Bhima Lower,,11604.54330539086
+12975,Khanar Odha,,,,04,Krishna,Bhima Upper,,9561.482282118797
+13070,Khara,,,,04,Krishna,Krishna Upper,,18596.322136155337
+13223,Kharpi ,,,,04,Krishna,Bhima Upper,,5343.444674356983
+13363,Khichdi,,,,04,Krishna,Bhima Upper,,13363.918582597178
+13420,Khokar,,,,04,Krishna,Bhima Upper,,13739.72155065928
+13480,Khosara Nala,,,,04,Krishna,Bhima Upper,,24900.701548018526
+13672,Kiri Nala,,,,04,Krishna,Bhima Lower,,20984.14260631853
+13752,Kochahera Halla,,,,04,Krishna,Krishna Middle,,10268.900121605831
+13776,Kodi Halla,,,,04,Krishna,Tungabhadra Lower,,36252.49563474918
+13788,Kododi Halla,,,,04,Krishna,Krishna Upper,,19865.501175902133
+13855,Kokri Odha,,,,04,Krishna,Bhima Upper,,14009.635792519879
+13918,Kollam Vagu,,,,04,Krishna,Bhima Lower,,14854.186402846137
+13920,Kollamu,,,,04,Krishna,Krishna Middle,,7517.826763203183
+13923,Kollar ,,,,04,Krishna,Krishna Middle,,15346.953929947504
+13952,Kon,,,,04,Krishna,Krishna Upper,,12129.483254404426
+13954,Kona Halla,,,,04,Krishna,Bhima Lower,,12602.268460484127
+13956,Konad Halla,,,,04,Krishna,Krishna Middle,,19718.38162171338
+13974,Kondaviti Vagu,,,,04,Krishna,Krishna Lower,,42239.783486179185
+13987,Kongal,,,,04,Krishna,Krishna Lower,,32007.228553988552
+13999,Konkan Halla,,,,04,Krishna,Tungabhadra Lower,,13151.773328304866
+14002,Konnuru Vagu_Pedda Vagu,,,,04,Krishna,Krishna Middle,,39040.04423286697
+14008,Kontvan,,,,04,Krishna,Bhima Upper,,6680.089124400204
+14019,Kopila,,,,04,Krishna,Krishna Lower,,5787.044891059645
+14026,Kopperagundi Hole,,,,04,Krishna,Tungabhadra Upper,,5092.023801043281
+14047,Korakan Hole,,,,04,Krishna,Tungabhadra Upper,,18965.32352828542
+14077,Korkap,,,,04,Krishna,Krishna Upper,,3748.871183625757
+14123,Kotbagi Halla,,,,04,Krishna,Krishna Upper,,21456.412123597936
+14176,Kottapalem Nala,,,,04,Krishna,Krishna Lower,,19678.511650078486
+14179,Kottella Vagu,,,,04,Krishna,Krishna Lower,,7432.352771125327
+14207,Koyna,,,,04,Krishna,Krishna Upper,,155520.67963073475
+14272,Kudi Halla,,,,04,Krishna,Krishna Upper,,15582.262180793028
+14273,Kudi Halla,,,,04,Krishna,Tungabhadra Upper,,12723.90163827293
+14277,Kudluru Vanka,,,,04,Krishna,Tungabhadra Lower,,16030.537213545247
+14287,Kudregundi Halla,,,,04,Krishna,Tungabhadra Upper,,36308.16196898462
+14322,Kukdi,3,,,04,Krishna,Bhima Upper,,111713.69800024944
+14425,Kullur Halla,,,,04,Krishna,Krishna Upper,,14833.07494883489
+14449,Kumadvati,,,,04,Krishna,Tungabhadra Upper,,163785.49761395986
+14464,Kumbara Halla,,,,04,Krishna,Tungabhadra Upper,,12491.434502622835
+14468,Kumbhargaon Nala,,,,04,Krishna,Bhima Upper,,15019.984875385535
+14576,Kundli,,,,04,Krishna,Bhima Upper,,18636.610424722578
+14615,Kuntalapadugu Vagu,,,,04,Krishna,Krishna Middle,,12849.35416548252
+14731,Kusagura Halla,,,,04,Krishna,Tungabhadra Upper,,26497.360960611713
+14744,Kush Eru,,,,04,Krishna,Krishna Lower,,24085.8704593497
+14748,Kushanava Hole,,,,04,Krishna,Tungabhadra Upper,,20000.027248593695
+14831,Kuve Halla,,,,04,Krishna,Tungabhadra Upper,,11538.368803344354
+14848,Kyadigi Vanka,,,,04,Krishna,Tungabhadra Lower,,22296.193553871177
+15072,Landgyacha Odha,,,,04,Krishna,Bhima Upper,,14556.404650700566
+15107,Lanka Hole,,,,04,Krishna,Tungabhadra Upper,,8384.313235159472
+15258,Lendi Odha,,,,04,Krishna,Bhima Upper,,6627.2856708764575
+15323,Limb Odha,,,,04,Krishna,Bhima Upper,,13496.382013033834
+15390,Loddi Vagu,,,,04,Krishna,Krishna Middle,,23660.81855234162
+15436,Lokapur Halla,,,,04,Krishna,Krishna Upper,,24888.78158708507
+15442,Lokhara Nala,,,,04,Krishna,Bhima Upper,,39567.58168460839
+15513,Lotta Vagu,,,,04,Krishna,Krishna Middle,,7841.733290665698
+15516,Lotu Vagu,,,,04,Krishna,Krishna Lower,,35525.27237692922
+15719,Mad N,,,,04,Krishna,Krishna Upper,,30076.174744149048
+15720,Mada Halla,,,,04,Krishna,Bhima Lower,,24329.158209483292
+15722,Mada Vagu,,,,04,Krishna,Krishna Lower,,40833.542062001
+15748,Maddelu Vagu,,,,04,Krishna,Krishna Middle,,26930.406614542127
+15749,Maddera Halla,,,,04,Krishna,Tungabhadra Lower,,42029.893268518885
+15751,Maddikere Halla,,,,04,Krishna,Krishna Upper,,6381.8909600279685
+15757,Maddulasari Vagu,,,,04,Krishna,Krishna Middle,,18466.459642211204
+15760,Madha Halla,,,,04,Krishna,Bhima Upper,,19579.743832579832
+15782,Madi Halla,,,,04,Krishna,Krishna Upper,,6047.908721689734
+15783,Madi Halla,,,,04,Krishna,Tungabhadra Lower,,9037.219494014398
+15811,Madyala Vagu,,,,04,Krishna,Krishna Lower,,7612.45873192951
+15832,Magi Halla,,,,04,Krishna,Krishna Upper,,7826.642508737176
+15865,Mahadev Nala,,,,04,Krishna,Bhima Upper,,5948.309710398039
+15885,Mahar Ka Ocha,,,,04,Krishna,Bhima Upper,,6170.878477039481
+15993,Makadkhindi,,,,04,Krishna,Bhima Upper,,2022.1068509789534
+16036,Mala Kalva,,,,04,Krishna,Krishna Lower,,5639.790341161183
+16039,Mala Vagu,,,,04,Krishna,Krishna Middle,,35199.65054547999
+16059,Malathi  Hole,,,,04,Krishna,Tungabhadra Upper,,45210.626960305
+16099,Malla Halla,,,,04,Krishna,Tungabhadra Lower,,41659.272011213216
+16101,Malla Vagu,,,,04,Krishna,Tungabhadra Lower,,29318.10142535488
+16112,Mallappaharani Vagu,,,,04,Krishna,Krishna Middle,,57056.20717014221
+16114,Mallapur Halla,,,,04,Krishna,Krishna Upper,,19780.709909586523
+16119,Malli Halla,,,,04,Krishna,Bhima Lower,,22911.85749033091
+16122,Mallikarjuna Halla,,,,04,Krishna,Krishna Upper,,9274.86426279752
+16140,Malprabha,2,,,04,Krishna,Krishna Upper,ok,325744.8989778788
+16151,Malvakadi,,,,04,Krishna,Bhima Upper,,17219.90332803536
+16161,Mami Dimotta,,,,04,Krishna,Krishna Lower,,17493.276921626417
+16168,Mamidreva,,,,04,Krishna,Krishna Middle,,12701.30097114916
+16208,Manchinilla Vanka,,,,04,Krishna,Tungabhadra Lower,,27848.754266627806
+16210,Mand,,,,04,Krishna,Krishna Upper,,27156.29932423233
+16232,Mandewal Halla,,,,04,Krishna,Bhima Lower,,10411.030802644666
+16245,Mandka,,,,04,Krishna,Bhima Upper,,12193.012045161868
+16278,Mangaleru Drain,,,,04,Krishna,Krishna Lower,,18648.65809927698
+16292,Mangetri N,,,,04,Krishna,Krishna Upper,,32050.34420011935
+16342,Manikarnika,,,,04,Krishna,Bhima Upper,,11878.668920871767
+16412,Manne Vagu,,,,04,Krishna,Krishna Middle,,44799.610861811474
+16490,Marali Halla,,,,04,Krishna,Tungabhadra Lower,,37180.4086549192
+16558,Markandeya,,,,04,Krishna,Krishna Upper,ok,106968.33828520404
+16607,Maruru Halla,,,,04,Krishna,Tungabhadra Upper,,45139.067515830706
+16649,Masi Vagu,,,,04,Krishna,Krishna Lower,,23016.439841772426
+16716,Mattam Vagu,,,,04,Krishna,Krishna Lower,,13504.825112464476
+16729,Matyana Halla,,,,04,Krishna,Krishna Upper,,10015.459000384286
+16776,Mavin Hole,,,,04,Krishna,Tungabhadra Upper,,46215.354343106046
+16847,Meheri,,,,04,Krishna,Bhima Upper,,87305.73325742915
+16859,Mekavati Vagu,,,,04,Krishna,Krishna Middle,,4741.6968503970975
+16934,Midchi Halla,,,,04,Krishna,Krishna Upper,,28153.050380803823
+16977,Minu  Hole,,,,04,Krishna,Tungabhadra Upper,,22388.23302902521
+17018,Mobhol Vodha,,,,04,Krishna,Krishna Upper,,16421.489286195167
+17124,Monia Nala,,,,04,Krishna,Bhima Lower,,21960.620630096393
+17199,Moti ,,,,04,Krishna,Krishna Middle,,8517.165986119247
+17201,Moti,,,,04,Krishna,Bhima Upper,,6901.678157922748
+17311,Mula,,,,04,Krishna,Bhima Upper,ok,78608.20240499229
+17325,Mullamari,,,,04,Krishna,Bhima Lower,ok,124172.81631788304
+17365,Muneru,1,,,04,Krishna,Krishna Lower,ok,212792.70759509958
+17375,Munimadugula Eru,,,,04,Krishna,Krishna Middle,,64981.1530790849
+17423,Murdi Odha,,,,04,Krishna,Bhima Upper,,8468.02929416152
+17478,Mutha,,,,04,Krishna,Bhima Upper,ok,60715.43116685655
+17493,Muttigi Halla,,,,04,Krishna,Tungabhadra Upper,,23381.494899854006
+17498,Mutula Vagu,,,,04,Krishna,Krishna Middle,,7662.602266449155
+17528,Nadala Halla,,,,04,Krishna,Tungabhadra Lower,,21419.75811335389
+17584,Nagara Halla,,,,04,Krishna,Tungabhadra Upper,,40658.846025033235
+17585,Nagarahunshi Halla,,,,04,Krishna,Tungabhadra Lower,,31432.87434486522
+17624,Nagena Halla,,,,04,Krishna,Krishna Upper,,19795.243420550545
+17635,Nagihiri N,,,,04,Krishna,Bhima Upper,,18027.456532372224
+17694,Naguleru,,,,04,Krishna,Krishna Lower,,15960.00596917966
+17695,Naguleru Vagu,,,,04,Krishna,Krishna Lower,,64730.426012064556
+17700,Nagur Halla,,,,04,Krishna,Bhima Lower,,19407.65633341787
+17811,Nakkala Vagu,,,,04,Krishna,Krishna Lower,,20981.08621813994
+17814,Nakkanti Vagu,,,,04,Krishna,Krishna Middle,,10691.15732412817
+17866,Nalini Hole,,,,04,Krishna,Tungabhadra Upper,,13586.310295114958
+17886,Nallur Hole,,,,04,Krishna,Tungabhadra Upper,,19183.41392863144
+17948,Nandana Halla,,,,04,Krishna,Bhima Lower,,27359.31615600841
+17965,Nandihal Halla,,,,04,Krishna,Tungabhadra Lower,,38060.030837384096
+18012,Naoli,,,,04,Krishna,Bhima Lower,,6835.876340879144
+18023,Nar Odha,,,,04,Krishna,Bhima Upper,,9281.967516197941
+18089,Nari Halla,,,,04,Krishna,Bhima Upper,,7210.185875778756
+18090,Nari Halla,,,,04,Krishna,Tungabhadra Lower,,71750.39798138817
+18126,Narrapati Kalava,,,,04,Krishna,Krishna Middle,,5203.2897535013
+18134,Nartimula Vagu,,,,04,Krishna,Krishna Middle,,53833.412624568715
+18215,Navali Halla,,,,04,Krishna,Bhima Lower,,58399.32737821972
+18227,Nawandgi Halla,,,,04,Krishna,Bhima Lower,,23377.8592659089
+18251,Nedalgi Halla,,,,04,Krishna,Bhima Lower,,9115.285921289933
+18264,Nekkanmu Vagu,,,,04,Krishna,Krishna Middle,,24252.235669828624
+18265,Nekki Hole,,,,04,Krishna,Tungabhadra Upper,,10092.517293015253
+18281,Nendra,,,,04,Krishna,Krishna Lower,,9536.603320542226
+18327,Nettallamarru Vanka,,,,04,Krishna,Tungabhadra Lower,,23756.90330846202
+18385,Nidigonda,,,,04,Krishna,Krishna Lower,,41990.01590945171
+18492,Nira,2,Rises in the Easern slope of the Western Ghats,Karha,04,Krishna,Bhima Upper,ok,230659.76598040882
+18501,Nirgudi Nala,,,,04,Krishna,Bhima Upper,,9549.634208384925
+18513,Nirukanda Hole,,,,04,Krishna,Tungabhadra Upper,,5971.500206684731
+18549,Nomagadda Vanka,,,,04,Krishna,Tungabhadra Lower,,42578.98749373816
+18593,Nuja Kalava,,,,04,Krishna,Krishna Middle,,4422.434799601194
+18688,Odriyana Halla,,,,04,Krishna,Tungabhadra Upper,,34374.69984270456
+18711,Okacheti Vagu,3,,,04,Krishna,Krishna Middle,,124447.43246210305
+18773,Orumundra Halla,,,,04,Krishna,Tungabhadra Lower,,13561.49757015403
+18832,Padamata Vagu,,,,04,Krishna,Krishna Lower,,42744.13411290543
+18897,Pahika Odha,,,,04,Krishna,Bhima Upper,,3478.406233018806
+18976,Pala Handri,,,,04,Krishna,Tungabhadra Lower,,41666.557814289
+19003,Palanka Vagu,,,,04,Krishna,Krishna Middle,,22918.30726099128
+19014,Palati Halla,,,,04,Krishna,Krishna Upper,,15519.637788549036
+19062,Palmakul Vagu,,,,04,Krishna,Krishna Middle,,16393.09036115244
+19161,Panchaganga,,,,04,Krishna,Krishna Upper,ok,151397.80053111148
+19210,Pandiperapula Vagu,,,,04,Krishna,,,25376.225726855762
+19232,Pandwara,,,,04,Krishna,Bhima Upper,,21939.809162033915
+19234,Pandyala Vagu,,,,04,Krishna,Krishna Lower,,28130.892074033643
+19496,Parvatakatti Halla,,,,04,Krishna,Krishna Upper,,20034.085382744157
+19531,Pata Kaluva,,,,04,Krishna,Krishna Lower,,16650.672387957096
+19731,Pauna,,,,04,Krishna,Bhima Upper,ok,71921.55392838476
+19764,Ped,,,,04,Krishna,Krishna Upper,,17059.531372080848
+19769,Pedda Chela,,,,04,Krishna,Krishna Middle,,7569.151816088262
+19777,Pedda,3,,,04,Krishna,Krishna Lower,,27263.828679092614
+19779,Pedda Paya,,,,04,Krishna,Krishna Middle,,11559.347814923321
+19782,Pedda Vagu,,,,04,Krishna,Tungabhadra Lower,,28265.845729200697
+19791,Peddapaya Vagu,,,,04,Krishna,Krishna Middle,,8706.731405227572
+19834,Perada Odha,,,,04,Krishna,Bhima Upper,,7060.380312170309
+20124,Pilleru Vagu,,,,04,Krishna,Krishna Lower,,41578.05907555902
+20220,Piria Kalva Vagu,,,,04,Krishna,Bhima Lower,,24083.174461247017
+20288,Pokri Chala,,,,04,Krishna,Krishna Middle,,7529.932517183636
+20300,Pondhara,,,,04,Krishna,Bhima Upper,,24966.158678160027
+20374,Pradhan Nala,,,,04,Krishna,Bhima Upper,,9403.548870499351
+20433,Pullibugga Vagu,,,,04,Krishna,Krishna Middle,,7492.080123840378
+20512,Purmaklakaya Vagu,,,,04,Krishna,Krishna Middle,,22133.074212215233
+20571,Pyata Vagu,,,,04,Krishna,Krishna Middle,,15364.016275643206
+20604,Ragi Halla,,,,04,Krishna,Tungabhadra Upper,,8415.23915138036
+20773,Ramalinga Halla,,,,04,Krishna,Krishna Upper,,21298.126275230316
+20780,Ramappa Vanka,,,,04,Krishna,Tungabhadra Lower,,34345.69388795002
+20782,Ramatirtam,,,,04,Krishna,Krishna Middle,,8025.716460890159
+20797,Ramghat,,,,04,Krishna,Bhima Upper,,40268.38908163668
+20805,Ramjibuvacha Odha,,,,04,Krishna,Bhima Upper,,4837.372661815132
+20864,Rangasamudra Halla,,,,04,Krishna,Krishna Upper,,39829.4601719252
+21059,Ravur Halla,,,,04,Krishna,Bhima Lower,,11817.163786787603
+21072,Rayana Halla,,,,04,Krishna,Tungabhadra Upper,,13742.531930625817
+21092,Reddi Vagu,,,,04,Krishna,Krishna Lower,,4898.236759836468
+21156,Repalle Main Drain,,,,04,Krishna,Krishna Lower,,25166.20840432956
+21391,Roti Nala,,,,04,Krishna,Bhima Upper,,29021.127546051346
+21392,Rotti Halla,,,,04,Krishna,Tungabhadra Upper,,43072.967105613134
+21405,Rudragnaga,,,,04,Krishna,Bhima Upper,,29771.87132229718
+21559,Sagri Nala,,,,04,Krishna,Krishna Upper,,50128.468365144225
+21630,Saindi Halla,,,,04,Krishna,Krishna Upper,,5386.427372572748
+21758,Sali Vagu,,,,04,Krishna,Krishna Lower,,8095.948307446174
+21797,Samala Vanka,,,,04,Krishna,Tungabhadra Lower,,15682.665789745623
+22000,Sanna Don,,,,04,Krishna,Krishna Upper,,26806.140246335188
+22099,Sarala Halla,,,,04,Krishna,Krishna Upper,,27100.624106557734
+22245,Sarwand Halla,,,,04,Krishna,Tungabhadra Upper,,7065.882114410843
+22268,Sasve Halla,,,,04,Krishna,Krishna Upper,,39998.04559830404
+22325,Satnal,,,,04,Krishna,Bhima Lower,,4507.729544864871
+22336,Sattanal,,,,04,Krishna,Bhima Lower,,62104.251795355965
+22343,Satvai Odha,,,,04,Krishna,Bhima Upper,,8087.947710033044
+22353,Saula Halla,,,,04,Krishna,Krishna Upper,,12224.81576726389
+22354,Saulal Halla,,,,04,Krishna,Krishna Upper,,8080.4270088808735
+22369,Saval Halla,,,,04,Krishna,Krishna Upper,,34048.3633931188
+22370,Saval Odha,,,,04,Krishna,Bhima Upper,,26071.869829330568
+22371,Savali Halla,,,,04,Krishna,Krishna Upper,,18983.60762073306
+22386,Sawaswati Halla,,,,04,Krishna,Krishna Upper,,17283.05618347765
+22617,Shamirpet Vagu,,,,04,Krishna,Krishna Lower,,69031.43692561872
+22645,Shankarana Halla,,,,04,Krishna,Tungabhadra Lower,,30562.282059379566
+22672,Shasler Vagu,,,,04,Krishna,Krishna Lower,,63230.87697406192
+22681,Shaval Halla,,,,04,Krishna,Krishna Upper,,10088.684238480717
+22777,Shirsai Odha,,,,04,Krishna,Bhima Upper,,15823.97336927945
+22861,Siaala Nala,,,,04,Krishna,Bhima Upper,,11850.81944694739
+22923,Sige Halla,,,,04,Krishna,Tungabhadra Upper,,20725.604249526543
+23042,Simi Halla,,,,04,Krishna,Krishna Upper,,12439.052498333162
+23076,Sindhnur N,,,,04,Krishna,Tungabhadra Lower,,59187.264985236325
+23156,Sinthal Odha,,,,04,Krishna,Bhima Upper,,14248.498584577235
+23196,Sirdepalli Vagu,,,,04,Krishna,Krishna Lower,,13564.222223315832
+23349,Sogali Halla,,,,04,Krishna,Krishna Upper,,41700.751781043684
+23383,Solsahi N,,,,04,Krishna,Krishna Upper,,22227.29257075196
+23391,Somavati Hole,,,,04,Krishna,Tungabhadra Upper,,16628.104499665013
+23488,Sopkunta N,,,,04,Krishna,Bhima Lower,,24181.28008210253
+23522,Souta Vagu,,,,04,Krishna,Krishna Middle,,18261.740171963167
+23528,Sowla Halla,,,,04,Krishna,Krishna Upper,,17583.50785698506
+23623,Suguru Vanka Or Pedda Vagu,,,,04,Krishna,Tungabhadra Lower,,37907.5500381597
+23754,Sukira,,,,04,Krishna,Krishna Upper,,8829.497523914271
+23788,Sulekere Halla Or Haridra,,,,04,Krishna,Tungabhadra Upper,,26748.428822881822
+23789,Sulekere Halla,,,,04,Krishna,Tungabhadra Upper,,65473.90083292725
+24071,Taduve Halla,,,,04,Krishna,Tungabhadra Upper,,22983.813242699503
+24146,Taktamandka,,,,04,Krishna,Bhima Upper,,8896.595884748302
+24242,Tamrapani,,,,04,Krishna,Krishna Upper,,37138.87771577499
+24271,Tangan Halla,,,,04,Krishna,Krishna Upper,,13564.704880880323
+24296,Tanna Halla,,,,04,Krishna,Tungabhadra Lower,,14247.310058237734
+24348,Tarana Halla,,,,04,Krishna,Krishna Upper,,12514.692033568146
+24372,Tarli,,,,04,Krishna,Krishna Upper,,47672.86235020507
+24498,Teljal,,,,04,Krishna,Bhima Upper,,7937.818003109712
+24602,Tettevai Vagu,,,,04,Krishna,Krishna Lower,,60349.077330227934
+24935,Timbarguddi Halla,,,,04,Krishna,Krishna Upper,,12251.969581206029
+25091,Tolana Halla,,,,04,Krishna,Krishna Upper,,8711.358090399257
+25094,Tolla ,,,,04,Krishna,Krishna Lower,,4939.9368669098485
+25133,Tore Halla,,,,04,Krishna,Tungabhadra Lower,,49918.4744323768
+25373,Tulshi,,,,04,Krishna,Krishna Upper,,40452.63552172106
+25385,Tumbu Halla,,,,04,Krishna,Krishna Upper,,12134.094926219495
+25395,Tummala Drain,,,,04,Krishna,Krishna Lower,,3809.951054482618
+25421,Tunga,,,,04,Krishna,Tungabhadra Upper,ok,189942.83809321138
+25423,Tungabhadra,1,,,04,Krishna,,ok,552507.4921940861
+25426,Tungapahad Vagu,,,,04,Krishna,Krishna Lower,,36169.33921509617
+25436,Tupari Halla,,,,04,Krishna,Krishna Upper,,81354.84169526305
+25443,Turada Hole,,,,04,Krishna,Tungabhadra Upper,,13746.886557284972
+25457,Turna Halla,,,,04,Krishna,Tungabhadra Upper,,18392.93689817155
+25518,Uddara Halla,,,,04,Krishna,Krishna Upper,,9834.219681915793
+25697,Umbar,,,,04,Krishna,Bhima Upper,,17000.171398786384
+25836,Uppara Halla,,,,04,Krishna,Tungabhadra Lower,,24028.04514977027
+25843,Uppu Drain,,,,04,Krishna,Krishna Lower,,53575.10881770599
+25845,Uppu Halla,,,,04,Krishna,Krishna Upper,,9819.025980945096
+25846,Uppu Kalva,,,,04,Krishna,Krishna Lower,,18552.476979460633
+25881,Urmaodi,,,,04,Krishna,Krishna Upper,ok,54698.74255001521
+25890,Urumundina Halla,,,,04,Krishna,Tungabhadra Upper,,41846.31445246015
+25951,Vadagatte Halla,,,,04,Krishna,Tungabhadra Upper,,24895.37698211292
+25952,Vadakina Halla,,,,04,Krishna,Krishna Upper,,11390.039686967511
+25968,Vadlavanchela Vagu,,,,04,Krishna,Krishna Middle,,5061.866341486071
+26008,Vakkara Vagu,,,,04,Krishna,Tungabhadra Lower,,35946.00885101993
+26058,Vandevacha Odha,,,,04,Krishna,Bhima Upper,,3806.1688242293917
+26115,Vardha,,,,04,Krishna,Tungabhadra Upper,ok,250016.40366236467
+26116,Vare Halla,,,,04,Krishna,Tungabhadra Upper,,13610.850832646272
+26122,Varna,,,,04,Krishna,Krishna Upper,ok,159685.15388620592
+26129,Varti Halla,,,,04,Krishna,Krishna Upper,,15782.624231621852
+26176,Veda,,,,04,Krishna,Tungabhadra Lower,,81603.70714715551
+26182,Vedulapaya,,,,04,Krishna,Krishna Lower,,12311.90227253618
+26190,Vel,,,,04,Krishna,Bhima Upper,ok,67262.68755554722
+26218,Vemuleru,,,,04,Krishna,Krishna Lower,,72852.45340789374
+26221,Vena,,,,04,Krishna,Krishna Upper,ok,58885.644450364794
+26225,Venganga,,,,04,Krishna,Krishna Upper,ok,115230.2923600187
+26252,Vetti Vagu,,,,04,Krishna,Krishna Lower,,26763.117202127214
+26263,Virabhadra Halla,,,,04,Krishna,Krishna Upper,,14241.354470244887
+26271,Virupaksha Halla,,,,04,Krishna,Krishna Upper,,8693.00071577781
+26278,Vithoba Odha,,,,04,Krishna,Bhima Upper,,5065.790124836249
+26282,Vode Halla,,,,04,Krishna,Tungabhadra Lower,,36843.25126996327
+26459,Welvandi N,,,,04,Krishna,Bhima Upper,,20653.34002806267
+26483,Wyra,,,,04,Krishna,Krishna Lower,,99688.49409359413
+26487,Yadawad Halla,,,,04,Krishna,Krishna Upper,,38985.40712050231
+26488,Yadgir Nala,,,,04,Krishna,Bhima Lower,,34400.177803029976
+26505,Yalaboti Vagu,,,,04,Krishna,Krishna Lower,,8582.967815659333
+26506,Yalagandi Halla,,,,04,Krishna,Krishna Upper,,10973.991193269416
+26507,Yalgaldinni Halla,,,,04,Krishna,Krishna Upper,,30172.72708424937
+26515,Yaminan Hala,,,,04,Krishna,Krishna Upper,,22500.483985843024
+26535,Yatnal Halla,,,,04,Krishna,Bhima Upper,,34328.31142929902
+26543,Yedulla Vagu,,,,04,Krishna,Krishna Lower,,35869.11928220097
+26552,Yelimineti Vagu,,,,04,Krishna,Krishna Lower,,43641.75750377876
+26557,Yelvi Halla,,,,04,Krishna,Krishna Upper,,21329.41034873651
+26560,Yemlapaya Vagu,,,,04,Krishna,Krishna Middle,,7152.238274482938
+26565,Yerala,,,,04,Krishna,Krishna Upper,ok,140200.6175426618
+26570,Yerragattu Vagu,,,,04,Krishna,Krishna Middle,,52788.977589623355
+26572,Yesvantapuram Vagu,,,,04,Krishna,Krishna Lower,,58475.82193151473
+26575,Yevle Odha,,,,04,Krishna,Bhima Upper,,4098.715533804797
+26723,Bhima,1,"Bhimashankar, Pune district in Maharashtra","Ghod, Mula Mutha, Indravani, Nira, Man, Sina, Kagna",04,Krishna,,ok,864507.4365407452
+26768,Pedda Vagu,,,,04,Krishna,Krishna Lower,,6230.471211633989
+26769,Pedda Vagu,,,,04,Krishna,Krishna Lower,,47840.22238559059
+26770,Pedda Vagu,,,,04,Krishna,Krishna Lower,,44365.97973261417
+26772,Pedda Vagu,,,,04,Krishna,Krishna Lower,,22319.573085222648
+26773,Pedda Vagu,,,,04,Krishna,Bhima Lower,,32744.824624055826
+26774,Pedda Vagu,,,,04,Krishna,Bhima Lower,,25589.58810484845
+26790,Pedda Vagu,,,,04,Krishna,Krishna Middle,,5434.718402581234
+26791,Pedda Vagu,,,,04,Krishna,Krishna Middle,,90295.52453586625
+26792,Pedda Vagu,,,,04,Krishna,Krishna Middle,,67739.55573882423
+26793,Pedda Vagu,,,,04,Krishna,Krishna Middle,,81894.34348787126
+26794,Pedda Vagu,,,,04,Krishna,Krishna Middle,,34754.97641635011
+26821,Hire Halla,,,,04,Krishna,Krishna Upper,,4178.69591534526
+26822,Hire Halla,,,,04,Krishna,Krishna Upper,,45277.528023658946
+26823,Hire Halla,,,,04,Krishna,Krishna Upper,,12035.674925323228
+26824,Hire Halla,,,,04,Krishna,Krishna Upper,,24480.72320918678
+26825,Hire Halla,,,,04,Krishna,Krishna Upper,,26647.105448836075
+26826,Hire Halla,,,,04,Krishna,Krishna Upper,,23329.873086347838
+26827,Hungud Halla,,,,04,Krishna,Krishna Upper,,31266.50131708597
+26828,Hire Halla,,,,04,Krishna,Krishna Upper,,45817.29056643948
+26829,Korakoppa Halla,,,,04,Krishna,Krishna Upper,,13409.524975586068
+26830,Hire Halla,,,,04,Krishna,Krishna Upper,,19616.56157078626
+26831,Hire Halla,,,,04,Krishna,Krishna Upper,,20132.220986519493
+26832,Hire Halla,,,,04,Krishna,Krishna Upper,,31117.586855782854
+26833,Hire Halla,,,,04,Krishna,Krishna Upper,,58843.49574781023
+26834,Hire Halla,,,,04,Krishna,Krishna Upper,,31363.373428979772
+26835,Hire Halla,,,,04,Krishna,Krishna Upper,,10525.29526704081
+26836,Hire Halla,,,,04,Krishna,Krishna Upper,,14750.552688778123
+26837,Hire Halla,,,,04,Krishna,Krishna Upper,,19016.242219544045
+26838,Hire Halla,,,,04,Krishna,Krishna Upper,,43369.18924697157
+26839,Hire Halla,,,,04,Krishna,Krishna Upper,,26961.80953517928
+26840,Hire Halla,,,,04,Krishna,Krishna Upper,,22471.790503158085
+26841,Chandirana Halla,,,,04,Krishna,Krishna Upper,,7687.190438622355
+26842,Yere Halla,,,,04,Krishna,Krishna Upper,,10454.202305849089
+26843,Hire Halla,,,,04,Krishna,Krishna Upper,,9580.86955459159
+26864,Golumuttapaya,,,,04,Krishna,Krishna Lower,,9936.081595034811
+26968,Sina,2,,,04,Krishna,Bhima Upper,ok,333474.78786638443
+26969,Sima,,,,04,Krishna,Bhima Upper,,18528.210810670626
+26970,Hire Halla,,,,04,Krishna,Bhima Lower,,2743.500767653319
+26971,Hire Halla,,,,04,Krishna,Bhima Lower,,20073.01243334248
+26972,Hire Halla,,,,04,Krishna,Bhima Lower,,24779.744123234053
+26973,Hire Halla,3,,,04,Krishna,Tungabhadra Lower,,76935.41600296117
+26974,Hire Halla,3,,,04,Krishna,Tungabhadra Lower,,42956.07525344087
+26975,Hire Halla,3,,,04,Krishna,Tungabhadra Lower,,2388.021864729629
+26976,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,52715.542281466616
+26977,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,33607.63358893042
+26978,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,35878.424490072124
+26979,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,15874.308586602741
+26980,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,22395.949310736123
+26981,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,35509.11807531599
+26982,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,20793.51993005004
+26983,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,14074.1605913595
+26984,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,27302.500731905355
+26987,Ghatprabha,2,,,04,Krishna,Krishna Upper,ok,298961.29155872983
+27008,Kattangar Vagu,3,,,04,Krishna,Krishna Lower,,36469.79864668295
+27022,Dodda Halla,,,,04,Krishna,Bhima Upper,,32649.307185149966
+27023,Dodda Halla,,,,04,Krishna,Bhima Upper,,70901.38681498305
+27024,Dodda Halla,,,,04,Krishna,Tungabhadra Lower,,20444.154318770154
+27025,Dodda Halla,,,,04,Krishna,Tungabhadra Lower,,48301.34387728524
+27026,Dodda Halla,,,,04,Krishna,Tungabhadra Lower,,37849.053176763104
+27027,Dodda Halla,,,,04,Krishna,Tungabhadra Lower,,47926.71036333401
+27028,Dodda Halla,,,,04,Krishna,Bhima Lower,,42381.290089554284
+27029,Dodda Halla,,,,04,Krishna,Bhima Lower,,20934.280719156046
+27030,Dodda Halla,,,,04,Krishna,Bhima Lower,,62030.445420718585
+27031,Dodda Halla,,,,04,Krishna,Krishna Upper,,44961.76283430168
+27032,Dodda Halla,,,,04,Krishna,Krishna Upper,,20262.552911575498
+27033,Dodda Halla,,,,04,Krishna,Krishna Upper,,20781.569255612547
+27034,Dodda Halla,,,,04,Krishna,Krishna Upper,,12179.544188379748
+27035,Dodda Halla,,,,04,Krishna,Krishna Upper,,10738.037974248202
+27036,Dodda Halla,,,,04,Krishna,Krishna Upper,,44223.74274094195
+27037,Dodda Halla,,,,04,Krishna,Krishna Upper,,14802.306205191802
+27038,Dodda Halla,,,,04,Krishna,Krishna Upper,,34535.077477110266
+27039,Dodda Halla,,,,04,Krishna,,,32246.63719675069
+27040,Dodda Halla,,,,04,Krishna,Krishna Upper,,24698.711542634614
+27047,Dodda Halla,,,,04,Krishna,Tungabhadra Upper,,61120.74510446143
+27048,Dodda Halla,,,,04,Krishna,Tungabhadra Upper,,29753.64725077674
+27049,Dodda Halla,,,,04,Krishna,Tungabhadra Upper,,51451.637746450084
+27065,Hagari Or Vedavati,2,,,04,Krishna,Tungabhadra Lower,ok,404176.2811541345
+27074,Man,2,,,04,Krishna,Bhima Upper,ok,177754.50472703335
+27075,Samba Dhaunn,,,,04,Krishna,Bhima Upper,,20461.49247027319
+27076,Waghzai,,,,04,Krishna,Bhima Upper,,7915.68822035685
+27077,Nag Dhaunn,,,,04,Krishna,Bhima Upper,,8133.789208396788
+27080,Dindi,1,,,04,Krishna,Krishna Middle,ok,185887.84297591032
+27081,Suraram,,,,04,Krishna,Krishna Middle,,27307.912214948123
+27104,Pedda Vanka,,,,04,Krishna,Tungabhadra Lower,,28669.012100659143
+27105,Pedda Vanka,,,,04,Krishna,Tungabhadra Lower,,38589.31506617831
+27106,Pedda Vanka,,,,04,Krishna,Tungabhadra Lower,,38656.341578323685
+27107,Pedda Vanka,,,,04,Krishna,Tungabhadra Lower,,31381.514424978017
+27108,Pedda Vanka,,,,04,Krishna,Tungabhadra Lower,,14158.493543616489
+27109,Pedda Vanka,,,,04,Krishna,Tungabhadra Lower,,8514.644757264427
+27110,Pedda Vanka,,,,04,Krishna,Tungabhadra Lower,,28081.23987366637
+27167,Vatti Vagu,,,,04,Krishna,Krishna Lower,,35149.21870753121
+27171,Benithora,,,,04,Krishna,Bhima Lower,ok,153676.02413307747
+27242,Sita ,,,,04,Krishna,Tungabhadra Upper,,46109.34792629722
+27290,Hire N,,,,04,Krishna,Tungabhadra Lower,,92130.37924880722
+27291,Hire N,,,,04,Krishna,Tungabhadra Lower,,30453.71832359488
+27292,Hire N,,,,04,Krishna,Tungabhadra Upper,,33429.49250879205
+27293,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,36733.0391241636
+27294,Hire Halla,,,,04,Krishna,Tungabhadra Upper,,79971.68163557681
+27300,Hagri or Veddavati,,,,04,Krishna,Tungabhadra Lower,,70936.58633624364
+27301,Bhairav Antippa,,,,04,Krishna,Tungabhadra Lower,,49709.779758785335
+27307,Suvarnamukhi,,,,04,Krishna,Tungabhadra Lower,,117740.63371761524
+27447,Tisangi,,,,04,Krishna,Bhima Upper,,21366.089640094055
+27471,Chinna Vagu,,,,04,Krishna,Krishna Middle,,40095.67641921437
+27472,Chinna Vagu,,,,04,Krishna,Krishna Middle,,59063.33592392082
+27478,Kasarki,,,,04,Krishna,Bhima Upper,,35302.41620679639
+27494,Sonhira,,,,04,Krishna,Krishna Upper,,21829.22749131683
+27495,Ambil,,,,04,Krishna,Bhima Upper,,28083.493504232145
+27496,Ambil,,,,04,Krishna,Bhima Upper,,26993.018259173656
+27499,Arpura ,,,,04,Krishna,Bhima Upper,,36257.83841553507
+27518,Chand,,,,04,Krishna,Krishna Upper,,17535.32104402138
+27609,Agrani_River,,,,04,Krishna,Krishna Upper,,105859.2222087893
+27697,Nandi,,,,04,Krishna,Bhima Upper,,44105.20519103338
+27703,Pala Vagu,,,,04,Krishna,Krishna Lower,,11215.200613124733
+27709,Kanda Vagu,,,,04,Krishna,Krishna Lower,,11835.079767179664
+27710,Kotula Vagu,,,,04,Krishna,Krishna Lower,,38264.79546384725
+27776,Konda Vagu,,,,04,Krishna,Krishna Lower,,6822.0060683800175
+27777,Konda Vagu,,,,04,Krishna,Krishna Lower,,3038.587400210528
+27815,Kalkanda /Ummala or Algu Vagu,,,,04,Krishna,Krishna Lower,,50090.30323202831
+27816,Kalkanda /Ummala or Tirumana,,,,04,Krishna,Krishna Lower,,31593.280681240587
+27867,Somavahini Halla,,,,04,Krishna,Tungabhadra Upper,,44721.78708447321
+27868,Somavahini Halla,,,,04,Krishna,Tungabhadra Upper,,30571.338599447663
+27889,Nalla Vagu,,,,04,Krishna,Krishna Middle,,42814.56887040368
+27890,Nalla Vagu,,,,04,Krishna,Krishna Middle,,31255.48056171415
+27992,Hanga,,,,04,Krishna,Bhima Upper,,64486.093221640775
+28022,Minch Halla,,,,04,Krishna,Bhima Lower,,66090.84974892526
+28027,Mina R,,,,04,Krishna,Bhima Upper,,64662.65096350329
+28050,Chandravanka,,,,04,Krishna,Krishna Lower,,45576.06719935535
+28051,Chandravanka,,,,04,Krishna,Krishna Lower,,16922.126465626745
+28052,Karala Halla,,,,04,Krishna,Tungabhadra Upper,,20471.557617330305
+28053,Karala Halla,,,,04,Krishna,Tungabhadra Upper,,41627.98908970124
+28091,Sandas,,,,04,Krishna,Bhima Upper,,60236.896091462586
+28113,Morna,,,,04,Krishna,Krishna Upper,,29772.477914553096
+28114,Morna,,,,04,Krishna,Krishna Upper,,29177.69267476436
+28136,Khanapuram Vagu,,,,04,Krishna,Krishna Middle,,35467.943447925616
+28137,Nalini Cheruvu,,,,04,Krishna,Krishna Middle,,21501.162942310293
+28138,Korda N,,,,04,Krishna,Bhima Upper,,56965.88101193395
+28168,Belvan,,,,04,Krishna,Bhima Upper,,29678.388188754772
+28169,Warar Devi Nala,,,,04,Krishna,Bhima Upper,,24893.77884815309
+28186,Bori,2,,,04,Krishna,Bhima Lower,ok,139666.2652481117
+28191,Dandi Vagu,,,,04,Krishna,Krishna Lower,,39128.70198529377
+28192,Nalla Nalla,,,,04,Krishna,Krishna Lower,,13648.403527013723
+28199,Nimma Vagu,,,,04,Krishna,Krishna Lower,,69818.6833855725
+28200,Boggu Gutta,,,,04,Krishna,Krishna Lower,,25151.62517336405
+28218,Kamli,,,,04,Krishna,Bhima Upper,,51379.879372098556
+28273,Ralla Vagu,,,,04,Krishna,Krishna Lower,,29395.402568529425
+28274,Ralla Vagu,,,,04,Krishna,Krishna Lower,,10619.140496199381
+28284,Pedda Vagu,,,,04,Krishna,Krishna Middle,,7149.812216588268
+28285,Devarkaula Vagu,,,,04,Krishna,Krishna Middle,,9285.67401981413
+28286,Devarkaula Vagu,,,,04,Krishna,Krishna Middle,,31402.624926353325
+28287,Wasna,,,,04,Krishna,Krishna Upper,,47999.36851751128
+28318,Hippargi Halla,,,,04,Krishna,Bhima Lower,,29705.727470058435
+28325,Kamandal N,,,,04,Krishna,Krishna Upper,,19718.627013596673
+28326,Kamli ,,,,04,Krishna,Bhima Upper,,3902.029509093246
+28339,Palleru,3,,,04,Krishna,Krishna Lower,ok,223543.9967593194
+28348,Sr N,,,,04,Krishna,Bhima Lower,,30985.84445589971
+28353,Walumba,,,,04,Krishna,Bhima Upper,,18997.99361786514
+28449,Soppina Halla,,,,04,Krishna,Tungabhadra Upper,,27497.08072263078
+28511,Eddlavagu,,,,04,Krishna,Krishna Middle,,16370.927249470726
+28512,Eddlavagu,,,,04,Krishna,Krishna Middle,,10604.665901835824
+28515,Dodda Halla,,,,04,Krishna,Tungabhadra Lower,,14818.18539717455
+28578,Rothal Odha,,,,04,Krishna,Bhima Upper,,7115.203928605569
+28591,Thagnai,,,,04,Krishna,Bhima Upper,,9769.842027662333
+28596,Patphog,,,,04,Krishna,Krishna Upper,,14651.710096000435
+28597,Job ,,,,04,Krishna,Krishna Upper,,15175.2279421741
+28599,Chanderi,,,,04,Krishna,Krishna Upper,,18709.033183432308
+28600,Ravalda Halla,,,,04,Krishna,Bhima Upper,,18730.324943629843
+28602,Modeka,,,,04,Krishna,Bhima Lower,,22091.666830647217
+28606,Vasumbha,,,,04,Krishna,Bhima Upper,,23144.387775861516
+28609,Jharav,,,,04,Krishna,Bhima Upper,,28664.30852409272
+28611,Mandvi,,,,04,Krishna,Bhima Upper,,42267.178565871145
+28628,Kadvi,,,,04,Krishna,Krishna Upper,,46722.136054669296
+28638,Sindi Halla or Dodda Halla,,,,04,Krishna,Bhima Lower,,33539.49188000516
+28639,Sindi Halla,,,,04,Krishna,Bhima Lower,,11944.728396857183
+28668,Dabucha Nala,,,,04,Krishna,Bhima Upper,,44029.49830858576
+28697,Hire / Maski ,3,,,04,Krishna,Tungabhadra Lower,ok,149337.01105384013
+28705,Nagnul,,,,04,Krishna,Krishna Middle,,42541.72818749832
+28716,Gharkhada N,,,,04,Krishna,Bhima Upper,,41171.39381427243
+28719,Sus Nala,,,,04,Krishna,Bhima Upper,,40473.67930236842
+28720,Wang,,,,04,Krishna,Krishna Upper,,40733.38684890401
+28741,Mogalivadaka Vagu,,,,04,Krishna,Bhima Lower,,39262.03769077903
+28776,Kud Don Halla,,,,04,Krishna,Krishna Upper,,13071.727707519067
+28777,Kudddoni Halla,,,,04,Krishna,Krishna Upper,,23478.12643115085
+28864,Kudali,,,,04,Krishna,Krishna Upper,,31246.814944400106
+28931,Komativani Vanka,,,,04,Krishna,Tungabhadra Lower,,27542.34212134387
+28932,Pushpavati,,,,04,Krishna,Bhima Upper,,27344.949246882552
+28970,Tilganga,,,,04,Krishna,Krishna Upper,,23957.2102732733
+28972,Gondardi,,,,04,Krishna,Bhima Upper,,24238.82473447358
+28977,Kansa ,,,,04,Krishna,Krishna Upper,,24106.521647562735
+28978,Padal,,,,04,Krishna,Bhima Upper,,24025.40414477993
+28985,Pandhara,,,,04,Krishna,Bhima Upper,,23698.371584615834
+28989,Nani,,,,04,Krishna,Krishna Upper,,23767.02981451814
+28990,Kapur,,,,04,Krishna,Krishna Upper,,23291.275936419766
+28994,Kasarsai Odha,,,,04,Krishna,Bhima Upper,,23028.478681029148
+29021,Kabbala,,,,04,Krishna,Tungabhadra Lower,,19393.549825564878
+29039,Sidhheshwarwadi,,,,04,Krishna,Bhima Upper,,20643.132712423267
+29042,Kunt Don,,,,04,Krishna,Krishna Upper,,20504.16644398386
+29059,Tumna,,,,04,Krishna,Krishna Middle,,19662.57373235985
+29064,Kera ,,,,04,Krishna,Krishna Upper,,19458.075010173303
+29067,Andhra,,,,04,Krishna,Bhima Upper,,19319.884329186072
+29094,Gottamgutta Hall,,,,04,Krishna,Bhima Lower,,18462.76059148933
+29105,Valki,,,,04,Krishna,Bhima Upper,,17951.209582910742
+29111,Ram,,,,04,Krishna,Bhima Upper,,17688.325080704195
+29117,Khar,,,,04,Krishna,Bhima Upper,,17497.510646216957
+29123,Chandkhed,,,,04,Krishna,Bhima Upper,,17333.55829580802
+29124,Mendka,,,,04,Krishna,Bhima Upper,,17203.825378770365
+29125,Amble Odha,,,,04,Krishna,Bhima Upper,,17143.90639817016
+29132,Phondsiras,,,,04,Krishna,Bhima Upper,,16407.402250104267
+29139,Pimpri,,,,04,Krishna,Bhima Upper,,16187.615491707438
+29155,Landana Halla,,,,04,Krishna,Krishna Upper,,6919.9095924495905
+29156,Landana Halla,,,,04,Krishna,Krishna Upper,,8440.838888524237
+29174,Sinde Odha,,,,04,Krishna,Bhima Upper,,14533.127421118674
+29175,Kyadgi Halla,,,,04,Krishna,Krishna Upper,,6170.274080380527
+29176,Kyadgi Halla,,,,04,Krishna,Krishna Upper,,8361.58241221503
+29179,Khatik ,,,,04,Krishna,Bhima Upper,,14545.706325647014
+29187,Kokan Oda,,,,04,Krishna,Bhima Upper,,14244.493439824662
+29188,Ghumara Odha,,,,04,Krishna,Bhima Upper,,13970.461379782084
+29194,Dhonde Hiracha Odha,,,,04,Krishna,Bhima Upper,,13543.10876696138
+29241,Balnd ,,,,04,Krishna,Bhima Upper,,11690.18106529341
+29251,Son Odha,,,,04,Krishna,Bhima Upper,,11290.181937490057
+29263,Gaddigondi Kaluva,,,,04,Krishna,Krishna Lower,,5800.810708985381
+29264,Gaddigondi Kaluva,,,,04,Krishna,Krishna Lower,,4976.87870961718
+29280,Nadimi Eru,,,,04,Krishna,Krishna Lower,,11512.211437049342
+29290,Ambika,,,,04,Krishna,Bhima Upper,,9219.156801608173
+29317,Nar Nala,,,,04,Krishna,Bhima Upper,,7895.008144976081
+29328,Magalusi Sela,,,,04,Krishna,Krishna Middle,,7256.898825203024
+29368,Adda Halla,,,,04,Krishna,Tungabhadra Lower,,10941.336356847742
+29369,Huvina Halla or Adda Halla,,,,04,Krishna,Tungabhadra Lower,,15430.80547379272
+29370,Bankan Halla,,,,04,Krishna,Tungabhadra Lower,,9699.223725434189
+29417,Gadde Halla,,,,04,Krishna,Krishna Upper,,29330.42043892774
+29418,Gadde Halla,,,,04,Krishna,Krishna Upper,,13003.336122654575
+29460,Kalla Halla,,,,04,Krishna,Krishna Upper,,17422.808365438275
+29461,Kallari Halla,,,,04,Krishna,Krishna Upper,,13709.112360659885
+29567,Wangna,,,,04,Krishna,Krishna Upper,,31366.046670308
+29573,Gunjavani ,,,,04,Krishna,Bhima Upper,,14962.997829060214
+29581,Krishnawati,,,,04,Krishna,Bhima Upper,,12888.77006101641
+29582,Kurui,,,,04,Krishna,Bhima Upper,,8630.310746124282
+29590,Sarasvati Nala,,,,04,Krishna,Bhima Upper,,12825.387658065569
+29591,Gharkada Odha,,,,04,Krishna,Bhima Upper,,5992.823556517497
+29592,Amli,,,,04,Krishna,Bhima Upper,,2380.3022345477075
+29593,Lamacha Odha,,,,04,Krishna,Bhima Upper,,1881.7918473224267
+29608,Chambhali,,,,04,Krishna,Bhima Upper,,20441.90965080374
+29620,Dodda ,,,,04,Krishna,Krishna Upper,,12058.849148690399
+29639,Halpan,,,,04,Krishna,Krishna Upper,,7213.930536263713
+29681,Mayli,,,,04,Krishna,Krishna Upper,,10761.447988117348
+29692,Pochamma Vagu,,,,04,Krishna,Bhima Lower,,23449.645121870402
+29718,Ardakhi Halla,,,,04,Krishna,Krishna Upper,,27055.28958809291
+29766,Bhulobcha Odha,,,,04,Krishna,Bhima Upper,,8107.0387993432005
+29778,Gunda Vagu,,,,04,Krishna,Krishna Lower,,6550.4826168721
+29779,Bugga,,,,04,Krishna,Krishna Lower,,21896.792385596473
+29800,Chikka Halla,,,,04,Krishna,Krishna Upper,,7440.324441483349
+29801,Chikka Halla,,,,04,Krishna,Krishna Upper,,17405.3460235645
+29823,Talla Vagu,,,,04,Krishna,Krishna Lower,,28496.085609048045
+29825,Nani,,,,04,Krishna,Bhima Upper,,28285.14460542519
+29934,Darai Halla,,,,04,Krishna,Bhima Upper,,23406.385397815222
+29964,Honhal,,,,04,Krishna,Krishna Upper,,21672.854963025442
+29984,Erga,,,,04,Krishna,Krishna Lower,,20932.608366175686
+29993,Dhotlikand,,,,04,Krishna,Krishna Upper,,20494.425378647826
+30003,Raadagi Halla,,,,04,Krishna,Bhima Lower,,20152.41843531177
+30013,Nargel,,,,04,Krishna,Bhima Upper,,19850.765335504537
+30069,Naigon Odha,,,,04,Krishna,Bhima Upper,,17021.682696108783
+30074,Tati,,,,04,Krishna,Krishna Lower,,16818.97286622568
+30075,Lakshmi Halla,,,,04,Krishna,Bhima Upper,,16468.353186866214
+30092,Gaddu Halla,,,,04,Krishna,Bhima Upper,,15932.49016367716
+30099,Kurkumbhcha ,,,,04,Krishna,Bhima Upper,,15701.670603596094
+30117,Saraswati Nala,,,,04,Krishna,Bhima Upper,,15007.426066649008
+30128,Gurugatu Vagu,,,,04,Krishna,Krishna Middle,,14722.491825060353
+30137,Gadam Oda,,,,04,Krishna,Bhima Upper,,14146.410692165691
+30143,Peddarutlapenta,,,,04,Krishna,Krishna Middle,,13991.649348001301
+30170,Tandi,,,,04,Krishna,Krishna Upper,,13126.871372435486
+30284,Gurralbanda ,,,,04,Krishna,Krishna Middle,,9612.453454721339
+30305,Kala Odha,,,,04,Krishna,Bhima Upper,,10766.767683481645
+30340,Thorla Odha,,,,04,Krishna,Bhima Upper,,9789.412039394292
+30346,Talona Halla,,,,04,Krishna,Krishna Upper,,5293.359546605203
+30409,Markcha Odha,,,,04,Krishna,Bhima Upper,,6298.100057056431
+30432,Sangam ,,,,04,Krishna,Bhima Upper,,5777.920659486217
+30503,Mula-Mutha,2,,,04,Krishna,Bhima Upper,split rename & ok,69512.33747849814
+30544,Krishna,1,,,04,Krishna,,,1417121.4754810894
+30551,Esi,3,,,04,Krishna,Krishna Lower,ok,70535.06577184515
+30552,Musi,1,,,04,Krishna,Krishna Lower,ok,296212.5701626961
+30554,Pakhal,,,,04,Krishna,Krishna Lower,,62353.15835779478
